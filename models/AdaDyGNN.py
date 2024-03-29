@@ -78,8 +78,8 @@ class AdaDyGNN(nn.Module):
 			att = att.softmax(dim=1).unsqueeze(dim=2).repeat(1, 1, self.message_dim // 2)
 			h = h_n * att
 			message.append(h)
-		h = torch.cat((message[0], message[1]), dim=2).sum(dim=1).tanh()
-		h_e = torch.matmul(self.edge_feat[edge_idxs], self.W_e).tanh()
+		h = torch.cat((message[0], message[1]), dim=2).sum(dim=1).relu()
+		h_e = torch.matmul(self.edge_feat[edge_idxs], self.W_e).relu()
 		h = torch.cat((h, h_e), dim=1)
 
 		to_updated_src = torch.matmul(torch.cat((self.memory.emb[src_idxs], h), dim=1), self.W_uc).tanh()
