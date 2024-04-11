@@ -9,6 +9,10 @@ This repository contains the code for paper: [Robust Knowledge Adaptation for Dy
 ![](./AdaDyGNN.png)
 
 
+## Datasets
+
+Please refer to [TGN](https://github.com/KimMeen/TGN) and [DyGNN](https://github.com/alge24/DyGNN) for downloading the datasets.
+
 
 ## Training
 
