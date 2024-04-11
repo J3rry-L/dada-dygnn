@@ -41,4 +41,4 @@ If you find our repo or paper useful, please cite us as
 
 ## License
 
-All code within this repository is under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).****
+All code within this repository is under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
