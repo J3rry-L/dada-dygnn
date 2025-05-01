@@ -1,0 +1,5 @@
+.qodo
+*.pyc
+*.tex
+*.json
+UCI-Msg.txt

@@ -2,34 +2,35 @@ import torch
 import numpy as np
 import pandas as pd
 import random
-
+from pathlib import Path
 
 class Data:
-	def __init__(self, src, dst, timestamps, edge_idxs, labels):
+	def __init__(self, src, dst, timestamps, edge_idxs, flags):
 		self.src = src
 		self.dst = dst
 		self.timestamps = timestamps
 		self.edge_idxs = edge_idxs
-		self.labels = labels
+		self.flags = flags
 		self.n_interactions = len(src)
 		self.unique_nodes = set(src) | set(dst)
 		self.n_unique_nodes = len(self.unique_nodes)
 
 
-def get_data(DatasetName):
-	graph = pd.read_csv("./data/ml_{}.csv".format(DatasetName))
-	edge_features = np.load("./data/ml_{}.npy".format(DatasetName))
-	node_features = np.load("./data/ml_{}_node.npy".format(DatasetName))
+def get_data(dataset_name):
+	curr_dir = Path.cwd()
+	graph = pd.read_csv("{}/data/ml_{}.csv".format(curr_dir, dataset_name))
+	edge_features = np.load("{}/data/ml_{}.npy".format(curr_dir, dataset_name))
+	node_features = np.load("{}/data/ml_{}_node.npy".format(curr_dir, dataset_name))
 
 	val_time, test_time = list(np.quantile(graph.ts, [0.8, 0.9]))
 
 	src = graph.u.values
 	dst = graph.i.values
 	edge_idxs = graph.idx.values
-	labels = graph.label.values
+	flags = graph.f.values
 	timestamps = graph.ts.values
 
-	full_data = Data(src, dst, timestamps, edge_idxs, labels)
+	full_data = Data(src, dst, timestamps, edge_idxs, flags)
 
 	random.seed(2020)
 	node_set = set(src) | set(dst)
@@ -45,7 +46,7 @@ def get_data(DatasetName):
 
 	train_mask = np.logical_and(timestamps <= val_time, observed_edges_mask)
 	train_data = Data(src[train_mask], dst[train_mask], timestamps[train_mask],
-					  edge_idxs[train_mask], labels[train_mask])
+					  edge_idxs[train_mask], flags[train_mask])
 	train_node_set = set(train_data.src) | set(train_data.dst)
 
 	assert len(train_node_set & new_test_node_set) == 0
@@ -61,15 +62,15 @@ def get_data(DatasetName):
 	new_node_test_mask = np.logical_and(edge_contains_new_node_mask, test_mask)
 
 	val_data = Data(src[val_mask], dst[val_mask], timestamps[val_mask],
-					edge_idxs[val_mask], labels[val_mask])
+					edge_idxs[val_mask], flags[val_mask])
 	test_data = Data(src[test_mask], dst[test_mask], timestamps[test_mask],
-					 edge_idxs[test_mask], labels[test_mask])
+					 edge_idxs[test_mask], flags[test_mask])
 	new_node_val_data = Data(src[new_node_val_mask], dst[new_node_val_mask],
 							 timestamps[new_node_val_mask], edge_idxs[new_node_val_mask],
-							 labels[new_node_val_mask])
+							 flags[new_node_val_mask])
 	new_node_test_data = Data(src[new_node_test_mask], dst[new_node_test_mask],
 							  timestamps[new_node_test_mask], edge_idxs[new_node_test_mask],
-							  labels[new_node_test_mask])
+							  flags[new_node_test_mask])
 
 	print("The dataset has {} interactions, involving {} different nodes".format(full_data.n_interactions,
 																				 full_data.n_unique_nodes))
@@ -87,8 +88,7 @@ def get_data(DatasetName):
 		len(new_test_node_set)))
 
 	return node_features, edge_features, full_data, train_data, \
-		   val_data, test_data, new_node_val_data, new_node_test_data,timestamps[-1]
-
+		   val_data, test_data, new_node_val_data, new_node_test_data, timestamps[-1], \
 
 def computer_time_statics(src, dst, timestamps):
 	last_timestamp_src = dict()
