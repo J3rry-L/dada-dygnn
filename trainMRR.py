@@ -18,14 +18,14 @@ import matplotlib.pyplot as plt
 os.environ["CUDA_VISIBLE_DEVICES"] = '0'
 ModelName = 'DadaDyGNN'
 parser = argparse.ArgumentParser('DadaDyGNN')
-parser.add_argument('-d', '--data', type=str, default='UCI-Msg')
+parser.add_argument('-d', '--data', type=str, default='UCI-Msg-del')
 parser.add_argument('--bs', type=int, default=16, help='Batch_size')
 parser.add_argument('--n_degree', type=int, default=200, help='Number of neighbors to sample')
 parser.add_argument('--n_update_degree', type=int, default=200, help='Number of neighbors to sample')
-parser.add_argument('--n_epoch', type=int, default=100, help='Number of epochs')
+parser.add_argument('--n_epoch', type=int, default=30, help='Number of epochs')
 parser.add_argument('--lr', type=float, default=0.0001, help='Learning rate')
 parser.add_argument('--alpha', type=float, default=1, help='Loss balance')
-parser.add_argument('--mlp_epochs', type=int, default=100, help='Epochs for MLP classifier')
+parser.add_argument('--mlp_epochs', type=int, default=1000, help='Epochs for MLP classifier')
 parser.add_argument('--mlp_lr', type=float, default=0.001, help='Learning rate for MLP classifier')
 log_to_file = True
 args = parser.parse_args()
@@ -293,10 +293,9 @@ f.write("test_mrr = {:.4f}, new node test mrr = {:.4f} ".format(test_mrr, test_n
 # Plot policy loss
 plt.figure(figsize=(10, 5))
 plt.plot(LOSS, label='Loss', color='blue')
-plt.plot(Policy_LOSS, label='Policy Loss', color='orange')
 plt.xlabel('Epoch')
 plt.ylabel('Loss')
-plt.title('Training Loss and Policy Loss')
+plt.title('Training Loss versus Epochs')
 plt.legend()
 plt.savefig(f"log/{ModelName}/{time_now}/loss_plot.png")
 plt.close()

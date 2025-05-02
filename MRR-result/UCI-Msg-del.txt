@@ -1,0 +1,7 @@
+bs = 16, degree = 200, up_degree = 200, lr = 0.0001
+bs = 16, degree = 200, up_degree = 200, lr = 0.0001
+bs = 16, degree = 200, up_degree = 200, lr = 0.0001
+bs = 16, degree = 200, up_degree = 200, lr = 0.0001
+test_mrr = 0.0056, new node test mrr = 0.0073 bs = 16, degree = 200, up_degree = 200, lr = 0.0001
+bs = 16, degree = 200, up_degree = 200, lr = 0.0001
+test_mrr = 0.0033, new node test mrr = 0.0040 

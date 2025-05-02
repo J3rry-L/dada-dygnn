@@ -1,0 +1,1774 @@
+2025-05-01 20:34:22,240 - root - INFO - Model:DadaDyGNN, Dataset:UCI-Msg-del
+2025-05-01 20:34:26,790 - root - INFO - Training DadaDyGNN model...
+2025-05-01 20:34:26,795 - root - DEBUG - Start 0 epoch
+2025-05-01 20:48:56,833 - root - DEBUG - Loss in whole dataset = 955.291764035821
+2025-05-01 20:48:56,834 - root - DEBUG - Policy Loss = -304.35430621542037
+2025-05-01 20:52:19,280 - root - DEBUG - In validation, agg_mrr = 0.0034565427741234463
+2025-05-01 20:52:19,281 - root - DEBUG - In validation, agg_recall_20 = 0.008212694877505568
+2025-05-01 20:52:19,282 - root - DEBUG - In validation, agg_recall_50 = 0.02923162583518931
+2025-05-01 20:52:19,283 - root - DEBUG - In validation, insertion_mrr = 0.0034137818808850466
+2025-05-01 20:52:19,284 - root - DEBUG - In validation, insertion_recall_20 = 0.0078023477019012735
+2025-05-01 20:52:19,284 - root - DEBUG - In validation, insertion_recall_50 = 0.027526757716489856
+2025-05-01 20:52:19,285 - root - DEBUG - In validation, deletion_mrr = 0.003747615216704545
+2025-05-01 20:52:19,286 - root - DEBUG - In validation, deletion_recall_20 = 0.01175196763839423
+2025-05-01 20:52:19,286 - root - DEBUG - In validation, deletion_recall_50 = 0.037372653508387574
+2025-05-01 20:52:47,073 - root - DEBUG - In new node validation, agg_mrr = 0.0035122632375789147
+2025-05-01 20:52:47,074 - root - DEBUG - In new node validation, agg_recall_20 = 0.008131377551020409
+2025-05-01 20:52:47,074 - root - DEBUG - In new node validation, agg_recall_50 = 0.026519982993197275
+2025-05-01 20:52:47,075 - root - DEBUG - In new node validation, insertion_mrr = 0.003330211132001185
+2025-05-01 20:52:47,075 - root - DEBUG - In new node validation, insertion_recall_20 = 0.008736982390828546
+2025-05-01 20:52:47,075 - root - DEBUG - In new node validation, insertion_recall_50 = 0.02349595205364436
+2025-05-01 20:52:47,076 - root - DEBUG - In new node validation, deletion_mrr = 0.004662491749661092
+2025-05-01 20:52:47,076 - root - DEBUG - In new node validation, deletion_recall_20 = 0.008179959100204498
+2025-05-01 20:52:47,076 - root - DEBUG - In new node validation, deletion_recall_50 = 0.04328146716950398
+2025-05-01 20:52:47,101 - root - DEBUG - Start 1 epoch
+2025-05-01 21:07:06,951 - root - DEBUG - Loss in whole dataset = 1903.472407264635
+2025-05-01 21:07:06,953 - root - DEBUG - Policy Loss = -313.2009350727312
+2025-05-01 21:10:31,918 - root - DEBUG - In validation, agg_mrr = 0.006548688616486483
+2025-05-01 21:10:31,920 - root - DEBUG - In validation, agg_recall_20 = 0.01879175946547884
+2025-05-01 21:10:31,920 - root - DEBUG - In validation, agg_recall_50 = 0.042037861915367486
+2025-05-01 21:10:31,920 - root - DEBUG - In validation, insertion_mrr = 0.006743170593011591
+2025-05-01 21:10:31,921 - root - DEBUG - In validation, insertion_recall_20 = 0.018316379491044667
+2025-05-01 21:10:31,921 - root - DEBUG - In validation, insertion_recall_50 = 0.040334154312948955
+2025-05-01 21:10:31,922 - root - DEBUG - In validation, deletion_mrr = 0.005738886809426631
+2025-05-01 21:10:31,922 - root - DEBUG - In validation, deletion_recall_20 = 0.01857135439199151
+2025-05-01 21:10:31,922 - root - DEBUG - In validation, deletion_recall_50 = 0.0509352086048762
+2025-05-01 21:10:59,572 - root - DEBUG - In new node validation, agg_mrr = 0.005189265057818117
+2025-05-01 21:10:59,573 - root - DEBUG - In new node validation, agg_recall_20 = 0.009566326530612245
+2025-05-01 21:10:59,573 - root - DEBUG - In new node validation, agg_recall_50 = 0.030665391156462583
+2025-05-01 21:10:59,574 - root - DEBUG - In new node validation, insertion_mrr = 0.005105313453531706
+2025-05-01 21:10:59,574 - root - DEBUG - In new node validation, insertion_recall_20 = 0.008776312718620411
+2025-05-01 21:10:59,575 - root - DEBUG - In new node validation, insertion_recall_50 = 0.027589006435160275
+2025-05-01 21:10:59,575 - root - DEBUG - In new node validation, deletion_mrr = 0.006364124572278569
+2025-05-01 21:10:59,576 - root - DEBUG - In new node validation, deletion_recall_20 = 0.011272010198390567
+2025-05-01 21:10:59,576 - root - DEBUG - In new node validation, deletion_recall_50 = 0.038854031108632336
+2025-05-01 21:10:59,612 - root - DEBUG - Start 2 epoch
+2025-05-01 21:25:10,491 - root - DEBUG - Loss in whole dataset = 1939.4111815653741
+2025-05-01 21:25:10,492 - root - DEBUG - Policy Loss = -313.07071064109914
+2025-05-01 21:28:36,429 - root - DEBUG - In validation, agg_mrr = 0.004330192605209919
+2025-05-01 21:28:36,430 - root - DEBUG - In validation, agg_recall_20 = 0.008003897550111359
+2025-05-01 21:28:36,431 - root - DEBUG - In validation, agg_recall_50 = 0.04447383073496659
+2025-05-01 21:28:36,431 - root - DEBUG - In validation, insertion_mrr = 0.004468608930035637
+2025-05-01 21:28:36,432 - root - DEBUG - In validation, insertion_recall_20 = 0.007778684299331621
+2025-05-01 21:28:36,432 - root - DEBUG - In validation, insertion_recall_50 = 0.04616602395620252
+2025-05-01 21:28:36,433 - root - DEBUG - In validation, deletion_mrr = 0.004015193789820256
+2025-05-01 21:28:36,433 - root - DEBUG - In validation, deletion_recall_20 = 0.007144056313031382
+2025-05-01 21:28:36,434 - root - DEBUG - In validation, deletion_recall_50 = 0.037082579239781456
+2025-05-01 21:29:04,428 - root - DEBUG - In new node validation, agg_mrr = 0.0030172183332293767
+2025-05-01 21:29:04,429 - root - DEBUG - In new node validation, agg_recall_20 = 0.0027104591836734694
+2025-05-01 21:29:04,429 - root - DEBUG - In new node validation, agg_recall_50 = 0.030027636054421766
+2025-05-01 21:29:04,430 - root - DEBUG - In new node validation, insertion_mrr = 0.0028517022373880196
+2025-05-01 21:29:04,430 - root - DEBUG - In new node validation, insertion_recall_20 = 0.0028933032779186623
+2025-05-01 21:29:04,431 - root - DEBUG - In new node validation, insertion_recall_50 = 0.032113235767081916
+2025-05-01 21:29:04,431 - root - DEBUG - In new node validation, deletion_mrr = 0.0039026383708642407
+2025-05-01 21:29:04,431 - root - DEBUG - In new node validation, deletion_recall_20 = 0.00434560327198364
+2025-05-01 21:29:04,432 - root - DEBUG - In new node validation, deletion_recall_50 = 0.02315220566754309
+2025-05-01 21:29:04,452 - root - DEBUG - Start 3 epoch
+2025-05-01 21:43:16,057 - root - DEBUG - Loss in whole dataset = 1932.0346171390265
+2025-05-01 21:43:16,059 - root - DEBUG - Policy Loss = -316.8168403902091
+2025-05-01 21:46:43,634 - root - DEBUG - In validation, agg_mrr = 0.0050866790518516725
+2025-05-01 21:46:43,636 - root - DEBUG - In validation, agg_recall_20 = 0.013571826280623608
+2025-05-01 21:46:43,636 - root - DEBUG - In validation, agg_recall_50 = 0.03960189309576837
+2025-05-01 21:46:43,637 - root - DEBUG - In validation, insertion_mrr = 0.004867058943375134
+2025-05-01 21:46:43,638 - root - DEBUG - In validation, insertion_recall_20 = 0.011929272364540222
+2025-05-01 21:46:43,638 - root - DEBUG - In validation, insertion_recall_50 = 0.03775210714384821
+2025-05-01 21:46:43,639 - root - DEBUG - In validation, deletion_mrr = 0.005799332463973741
+2025-05-01 21:46:43,639 - root - DEBUG - In validation, deletion_recall_20 = 0.017930666978450912
+2025-05-01 21:46:43,640 - root - DEBUG - In validation, deletion_recall_50 = 0.050084756732956176
+2025-05-01 21:47:11,652 - root - DEBUG - In new node validation, agg_mrr = 0.0033195041928048836
+2025-05-01 21:47:11,652 - root - DEBUG - In new node validation, agg_recall_20 = 0.006377551020408163
+2025-05-01 21:47:11,653 - root - DEBUG - In new node validation, agg_recall_50 = 0.027370323129251705
+2025-05-01 21:47:11,653 - root - DEBUG - In new node validation, insertion_mrr = 0.0028698783278110515
+2025-05-01 21:47:11,654 - root - DEBUG - In new node validation, insertion_recall_20 = 0.004963643905951599
+2025-05-01 21:47:11,654 - root - DEBUG - In new node validation, insertion_recall_50 = 0.02617870021716175
+2025-05-01 21:47:11,655 - root - DEBUG - In new node validation, deletion_mrr = 0.004668350640736076
+2025-05-01 21:47:11,655 - root - DEBUG - In new node validation, deletion_recall_20 = 0.009738267867102222
+2025-05-01 21:47:11,655 - root - DEBUG - In new node validation, deletion_recall_50 = 0.027310572862720102
+2025-05-01 21:47:11,687 - root - DEBUG - Start 4 epoch
+2025-05-01 22:01:23,555 - root - DEBUG - Loss in whole dataset = 1980.4816636405885
+2025-05-01 22:01:23,556 - root - DEBUG - Policy Loss = -314.25938239495736
+2025-05-01 22:04:50,382 - root - DEBUG - In validation, agg_mrr = 0.0062737239951912525
+2025-05-01 22:04:50,383 - root - DEBUG - In validation, agg_recall_20 = 0.014685412026726057
+2025-05-01 22:04:50,384 - root - DEBUG - In validation, agg_recall_50 = 0.044961024498886414
+2025-05-01 22:04:50,385 - root - DEBUG - In validation, insertion_mrr = 0.006581387207025612
+2025-05-01 22:04:50,385 - root - DEBUG - In validation, insertion_recall_20 = 0.012514924931219574
+2025-05-01 22:04:50,386 - root - DEBUG - In validation, insertion_recall_50 = 0.04230093752973217
+2025-05-01 22:04:50,386 - root - DEBUG - In validation, deletion_mrr = 0.005136134842879505
+2025-05-01 22:04:50,387 - root - DEBUG - In validation, deletion_recall_20 = 0.020548661095752506
+2025-05-01 22:04:50,387 - root - DEBUG - In validation, deletion_recall_50 = 0.05849015558156832
+2025-05-01 22:05:18,207 - root - DEBUG - In new node validation, agg_mrr = 0.0063051880108907785
+2025-05-01 22:05:18,208 - root - DEBUG - In new node validation, agg_recall_20 = 0.007653061224489796
+2025-05-01 22:05:18,209 - root - DEBUG - In new node validation, agg_recall_50 = 0.017272534013605442
+2025-05-01 22:05:18,209 - root - DEBUG - In new node validation, insertion_mrr = 0.006535779661417716
+2025-05-01 22:05:18,210 - root - DEBUG - In new node validation, insertion_recall_20 = 0.006572522918676764
+2025-05-01 22:05:18,210 - root - DEBUG - In new node validation, insertion_recall_50 = 0.01411294901679517
+2025-05-01 22:05:18,211 - root - DEBUG - In new node validation, deletion_mrr = 0.004846749917097684
+2025-05-01 22:05:18,211 - root - DEBUG - In new node validation, deletion_recall_20 = 0.008587961118635965
+2025-05-01 22:05:18,211 - root - DEBUG - In new node validation, deletion_recall_50 = 0.03163974318115422
+2025-05-01 22:05:18,233 - root - DEBUG - Start 5 epoch
+2025-05-01 22:19:33,585 - root - DEBUG - Loss in whole dataset = 1971.982966825366
+2025-05-01 22:19:33,587 - root - DEBUG - Policy Loss = -313.06661840353627
+2025-05-01 22:22:57,192 - root - DEBUG - In validation, agg_mrr = 0.005209957021538986
+2025-05-01 22:22:57,193 - root - DEBUG - In validation, agg_recall_20 = 0.01030066815144766
+2025-05-01 22:22:57,193 - root - DEBUG - In validation, agg_recall_50 = 0.039323496659242764
+2025-05-01 22:22:57,194 - root - DEBUG - In validation, insertion_mrr = 0.005189549899878705
+2025-05-01 22:22:57,194 - root - DEBUG - In validation, insertion_recall_20 = 0.008719202734269698
+2025-05-01 22:22:57,195 - root - DEBUG - In validation, insertion_recall_50 = 0.0357209336422506
+2025-05-01 22:22:57,195 - root - DEBUG - In validation, deletion_mrr = 0.004835202235151417
+2025-05-01 22:22:57,196 - root - DEBUG - In validation, deletion_recall_20 = 0.012048193419384555
+2025-05-01 22:22:57,196 - root - DEBUG - In validation, deletion_recall_50 = 0.051220926272865334
+2025-05-01 22:23:25,478 - root - DEBUG - In new node validation, agg_mrr = 0.0048484704861305305
+2025-05-01 22:23:25,479 - root - DEBUG - In new node validation, agg_recall_20 = 0.007971938775510204
+2025-05-01 22:23:25,479 - root - DEBUG - In new node validation, agg_recall_50 = 0.016687925170068025
+2025-05-01 22:23:25,479 - root - DEBUG - In new node validation, insertion_mrr = 0.0049049846255286534
+2025-05-01 22:23:25,480 - root - DEBUG - In new node validation, insertion_recall_20 = 0.00751891626891627
+2025-05-01 22:23:25,480 - root - DEBUG - In new node validation, insertion_recall_50 = 0.01579006463621848
+2025-05-01 22:23:25,481 - root - DEBUG - In new node validation, deletion_mrr = 0.004107271923663116
+2025-05-01 22:23:25,481 - root - DEBUG - In new node validation, deletion_recall_20 = 0.004881417151355802
+2025-05-01 22:23:25,482 - root - DEBUG - In new node validation, deletion_recall_50 = 0.017717379757257058
+2025-05-01 22:23:25,514 - root - DEBUG - Start 6 epoch
+2025-05-01 22:37:41,283 - root - DEBUG - Loss in whole dataset = 1969.4125928301364
+2025-05-01 22:37:41,284 - root - DEBUG - Policy Loss = -315.19321338669397
+2025-05-01 22:41:03,743 - root - DEBUG - In validation, agg_mrr = 0.005513018820444225
+2025-05-01 22:41:03,744 - root - DEBUG - In validation, agg_recall_20 = 0.010439866369710468
+2025-05-01 22:41:03,745 - root - DEBUG - In validation, agg_recall_50 = 0.0334771714922049
+2025-05-01 22:41:03,745 - root - DEBUG - In validation, insertion_mrr = 0.004885095074106504
+2025-05-01 22:41:03,746 - root - DEBUG - In validation, insertion_recall_20 = 0.008258420646813504
+2025-05-01 22:41:03,746 - root - DEBUG - In validation, insertion_recall_50 = 0.03116117823149073
+2025-05-01 22:41:03,747 - root - DEBUG - In validation, deletion_mrr = 0.007505744323018133
+2025-05-01 22:41:03,747 - root - DEBUG - In validation, deletion_recall_20 = 0.01611615339108414
+2025-05-01 22:41:03,748 - root - DEBUG - In validation, deletion_recall_50 = 0.04715322573702075
+2025-05-01 22:41:31,496 - root - DEBUG - In new node validation, agg_mrr = 0.003630739541791508
+2025-05-01 22:41:31,497 - root - DEBUG - In new node validation, agg_recall_20 = 0.00510204081632653
+2025-05-01 22:41:31,497 - root - DEBUG - In new node validation, agg_recall_50 = 0.025669642857142856
+2025-05-01 22:41:31,497 - root - DEBUG - In new node validation, insertion_mrr = 0.003489857826893821
+2025-05-01 22:41:31,498 - root - DEBUG - In new node validation, insertion_recall_20 = 0.005207232226462995
+2025-05-01 22:41:31,498 - root - DEBUG - In new node validation, insertion_recall_50 = 0.028120287831826293
+2025-05-01 22:41:31,499 - root - DEBUG - In new node validation, deletion_mrr = 0.005364407946997916
+2025-05-01 22:41:31,499 - root - DEBUG - In new node validation, deletion_recall_20 = 0.00789877300613497
+2025-05-01 22:41:31,500 - root - DEBUG - In new node validation, deletion_recall_50 = 0.01523882559158633
+2025-05-01 22:41:31,518 - root - DEBUG - Start 7 epoch
+2025-05-01 22:55:43,267 - root - DEBUG - Loss in whole dataset = 2001.0887201223522
+2025-05-01 22:55:43,268 - root - DEBUG - Policy Loss = -316.46594623394776
+2025-05-01 22:59:05,671 - root - DEBUG - In validation, agg_mrr = 0.004719073160177941
+2025-05-01 22:59:05,672 - root - DEBUG - In validation, agg_recall_20 = 0.01183184855233853
+2025-05-01 22:59:05,673 - root - DEBUG - In validation, agg_recall_50 = 0.03605233853006681
+2025-05-01 22:59:05,674 - root - DEBUG - In validation, insertion_mrr = 0.004403966812712572
+2025-05-01 22:59:05,674 - root - DEBUG - In validation, insertion_recall_20 = 0.010482842430387076
+2025-05-01 22:59:05,675 - root - DEBUG - In validation, insertion_recall_50 = 0.034136004434553543
+2025-05-01 22:59:05,675 - root - DEBUG - In validation, deletion_mrr = 0.005964008065776186
+2025-05-01 22:59:05,675 - root - DEBUG - In validation, deletion_recall_20 = 0.018390704401784735
+2025-05-01 22:59:05,676 - root - DEBUG - In validation, deletion_recall_50 = 0.04124170689267642
+2025-05-01 22:59:33,631 - root - DEBUG - In new node validation, agg_mrr = 0.002844093513419418
+2025-05-01 22:59:33,632 - root - DEBUG - In new node validation, agg_recall_20 = 0.0078125
+2025-05-01 22:59:33,632 - root - DEBUG - In new node validation, agg_recall_50 = 0.02184311224489796
+2025-05-01 22:59:33,632 - root - DEBUG - In new node validation, insertion_mrr = 0.0026286099356428944
+2025-05-01 22:59:33,633 - root - DEBUG - In new node validation, insertion_recall_20 = 0.008072241149164227
+2025-05-01 22:59:33,633 - root - DEBUG - In new node validation, insertion_recall_50 = 0.021945308964539733
+2025-05-01 22:59:33,634 - root - DEBUG - In new node validation, deletion_mrr = 0.003876404011354189
+2025-05-01 22:59:33,634 - root - DEBUG - In new node validation, deletion_recall_20 = 0.007595676307332748
+2025-05-01 22:59:33,634 - root - DEBUG - In new node validation, deletion_recall_50 = 0.01592568985207022
+2025-05-01 22:59:33,652 - root - DEBUG - Start 8 epoch
+2025-05-01 23:13:45,160 - root - DEBUG - Loss in whole dataset = 1945.9057294093072
+2025-05-01 23:13:45,161 - root - DEBUG - Policy Loss = -312.16838462441956
+2025-05-01 23:17:10,845 - root - DEBUG - In validation, agg_mrr = 0.0038224827569218094
+2025-05-01 23:17:10,846 - root - DEBUG - In validation, agg_recall_20 = 0.00849109131403118
+2025-05-01 23:17:10,846 - root - DEBUG - In validation, agg_recall_50 = 0.03542594654788419
+2025-05-01 23:17:10,847 - root - DEBUG - In validation, insertion_mrr = 0.0033799986139620114
+2025-05-01 23:17:10,847 - root - DEBUG - In validation, insertion_recall_20 = 0.006598639146072181
+2025-05-01 23:17:10,848 - root - DEBUG - In validation, insertion_recall_50 = 0.028897156910549764
+2025-05-01 23:17:10,848 - root - DEBUG - In validation, deletion_mrr = 0.006359225827044433
+2025-05-01 23:17:10,848 - root - DEBUG - In validation, deletion_recall_20 = 0.021267188874529594
+2025-05-01 23:17:10,849 - root - DEBUG - In validation, deletion_recall_50 = 0.06446581657800494
+2025-05-01 23:17:39,007 - root - DEBUG - In new node validation, agg_mrr = 0.0026990833783177583
+2025-05-01 23:17:39,008 - root - DEBUG - In new node validation, agg_recall_20 = 0.0033482142857142855
+2025-05-01 23:17:39,008 - root - DEBUG - In new node validation, agg_recall_50 = 0.019292091836734693
+2025-05-01 23:17:39,009 - root - DEBUG - In new node validation, insertion_mrr = 0.0024296029527196453
+2025-05-01 23:17:39,009 - root - DEBUG - In new node validation, insertion_recall_20 = 0.003004719639335024
+2025-05-01 23:17:39,009 - root - DEBUG - In new node validation, insertion_recall_50 = 0.01724127012588551
+2025-05-01 23:17:39,010 - root - DEBUG - In new node validation, deletion_mrr = 0.0039399961647416
+2025-05-01 23:17:39,010 - root - DEBUG - In new node validation, deletion_recall_20 = 0.005879345603271983
+2025-05-01 23:17:39,010 - root - DEBUG - In new node validation, deletion_recall_50 = 0.027173133614851408
+2025-05-01 23:17:39,029 - root - DEBUG - Start 9 epoch
+2025-05-01 23:31:55,362 - root - DEBUG - Loss in whole dataset = 1976.3025094345212
+2025-05-01 23:31:55,363 - root - DEBUG - Policy Loss = -318.6621271552285
+2025-05-01 23:35:17,989 - root - DEBUG - In validation, agg_mrr = 0.005383522640703418
+2025-05-01 23:35:17,990 - root - DEBUG - In validation, agg_recall_20 = 0.013432628062360803
+2025-05-01 23:35:17,991 - root - DEBUG - In validation, agg_recall_50 = 0.03918429844097995
+2025-05-01 23:35:17,991 - root - DEBUG - In validation, insertion_mrr = 0.0049821906708768255
+2025-05-01 23:35:17,992 - root - DEBUG - In validation, insertion_recall_20 = 0.010534557828084613
+2025-05-01 23:35:17,992 - root - DEBUG - In validation, insertion_recall_50 = 0.03459147499326071
+2025-05-01 23:35:17,993 - root - DEBUG - In validation, deletion_mrr = 0.00793429291779977
+2025-05-01 23:35:17,994 - root - DEBUG - In validation, deletion_recall_20 = 0.02822509900072227
+2025-05-01 23:35:17,995 - root - DEBUG - In validation, deletion_recall_50 = 0.05615235410941783
+2025-05-01 23:35:45,732 - root - DEBUG - In new node validation, agg_mrr = 0.005148873039479928
+2025-05-01 23:35:45,733 - root - DEBUG - In new node validation, agg_recall_20 = 0.007653061224489796
+2025-05-01 23:35:45,733 - root - DEBUG - In new node validation, agg_recall_50 = 0.028380102040816327
+2025-05-01 23:35:45,734 - root - DEBUG - In new node validation, insertion_mrr = 0.005196744301731021
+2025-05-01 23:35:45,734 - root - DEBUG - In new node validation, insertion_recall_20 = 0.005705964263656571
+2025-05-01 23:35:45,735 - root - DEBUG - In new node validation, insertion_recall_50 = 0.026269022999792228
+2025-05-01 23:35:45,735 - root - DEBUG - In new node validation, deletion_mrr = 0.005109978379244481
+2025-05-01 23:35:45,735 - root - DEBUG - In new node validation, deletion_recall_20 = 0.01945661700262927
+2025-05-01 23:35:45,736 - root - DEBUG - In new node validation, deletion_recall_50 = 0.03482225851857754
+2025-05-01 23:35:45,770 - root - DEBUG - Start 10 epoch
+2025-05-01 23:50:06,494 - root - DEBUG - Loss in whole dataset = 1969.0203937850893
+2025-05-01 23:50:06,495 - root - DEBUG - Policy Loss = -316.64339294168167
+2025-05-01 23:53:28,591 - root - DEBUG - In validation, agg_mrr = 0.007047662168423215
+2025-05-01 23:53:28,592 - root - DEBUG - In validation, agg_recall_20 = 0.020879732739420936
+2025-05-01 23:53:28,593 - root - DEBUG - In validation, agg_recall_50 = 0.042455456570155904
+2025-05-01 23:53:28,593 - root - DEBUG - In validation, insertion_mrr = 0.007520532215598885
+2025-05-01 23:53:28,594 - root - DEBUG - In validation, insertion_recall_20 = 0.021159563402866975
+2025-05-01 23:53:28,594 - root - DEBUG - In validation, insertion_recall_50 = 0.040948444226904045
+2025-05-01 23:53:28,595 - root - DEBUG - In validation, deletion_mrr = 0.005398264926209915
+2025-05-01 23:53:28,595 - root - DEBUG - In validation, deletion_recall_20 = 0.022628116343490302
+2025-05-01 23:53:28,596 - root - DEBUG - In validation, deletion_recall_50 = 0.05543982602500608
+2025-05-01 23:53:56,134 - root - DEBUG - In new node validation, agg_mrr = 0.00658154692351618
+2025-05-01 23:53:56,135 - root - DEBUG - In new node validation, agg_recall_20 = 0.018016581632653062
+2025-05-01 23:53:56,136 - root - DEBUG - In new node validation, agg_recall_50 = 0.03587372448979592
+2025-05-01 23:53:56,136 - root - DEBUG - In new node validation, insertion_mrr = 0.0071076645830333305
+2025-05-01 23:53:56,137 - root - DEBUG - In new node validation, insertion_recall_20 = 0.019294757948604104
+2025-05-01 23:53:56,137 - root - DEBUG - In new node validation, insertion_recall_50 = 0.03709199988046141
+2025-05-01 23:53:56,138 - root - DEBUG - In new node validation, deletion_mrr = 0.004378929517224453
+2025-05-01 23:53:56,138 - root - DEBUG - In new node validation, deletion_recall_20 = 0.013168273444347064
+2025-05-01 23:53:56,138 - root - DEBUG - In new node validation, deletion_recall_50 = 0.028509348524685944
+2025-05-01 23:53:56,159 - root - DEBUG - Start 11 epoch
+2025-05-02 00:08:12,187 - root - DEBUG - Loss in whole dataset = 2005.428607802838
+2025-05-02 00:08:12,188 - root - DEBUG - Policy Loss = -315.10527604981326
+2025-05-02 00:11:34,728 - root - DEBUG - In validation, agg_mrr = 0.006630362869824188
+2025-05-02 00:11:34,729 - root - DEBUG - In validation, agg_recall_20 = 0.025751670378619154
+2025-05-02 00:11:34,730 - root - DEBUG - In validation, agg_recall_50 = 0.05554008908685969
+2025-05-02 00:11:34,731 - root - DEBUG - In validation, insertion_mrr = 0.006153265797934927
+2025-05-02 00:11:34,731 - root - DEBUG - In validation, insertion_recall_20 = 0.026315230528400173
+2025-05-02 00:11:34,732 - root - DEBUG - In validation, insertion_recall_50 = 0.050285041719193506
+2025-05-02 00:11:34,732 - root - DEBUG - In validation, deletion_mrr = 0.008323710068869703
+2025-05-02 00:11:34,733 - root - DEBUG - In validation, deletion_recall_20 = 0.024072363078595765
+2025-05-02 00:11:34,733 - root - DEBUG - In validation, deletion_recall_50 = 0.07333720834413356
+2025-05-02 00:12:02,330 - root - DEBUG - In new node validation, agg_mrr = 0.0052161848436539406
+2025-05-02 00:12:02,331 - root - DEBUG - In new node validation, agg_recall_20 = 0.020089285714285716
+2025-05-02 00:12:02,331 - root - DEBUG - In new node validation, agg_recall_50 = 0.03730867346938776
+2025-05-02 00:12:02,332 - root - DEBUG - In new node validation, insertion_mrr = 0.005256586795839472
+2025-05-02 00:12:02,332 - root - DEBUG - In new node validation, insertion_recall_20 = 0.022250441865826483
+2025-05-02 00:12:02,332 - root - DEBUG - In new node validation, insertion_recall_50 = 0.03804132832978987
+2025-05-02 00:12:02,333 - root - DEBUG - In new node validation, deletion_mrr = 0.003928686216826204
+2025-05-02 00:12:02,333 - root - DEBUG - In new node validation, deletion_recall_20 = 0.009078293894244815
+2025-05-02 00:12:02,334 - root - DEBUG - In new node validation, deletion_recall_50 = 0.030749707858603564
+2025-05-02 00:12:02,353 - root - DEBUG - Start 12 epoch
+2025-05-02 00:26:20,404 - root - DEBUG - Loss in whole dataset = 1982.7447827745927
+2025-05-02 00:26:20,406 - root - DEBUG - Policy Loss = -324.99503948836355
+2025-05-02 00:29:42,738 - root - DEBUG - In validation, agg_mrr = 0.005853225276714052
+2025-05-02 00:29:42,739 - root - DEBUG - In validation, agg_recall_20 = 0.015242204899777283
+2025-05-02 00:29:42,739 - root - DEBUG - In validation, agg_recall_50 = 0.03702672605790646
+2025-05-02 00:29:42,740 - root - DEBUG - In validation, insertion_mrr = 0.005568320570753225
+2025-05-02 00:29:42,740 - root - DEBUG - In validation, insertion_recall_20 = 0.013378461815961817
+2025-05-02 00:29:42,741 - root - DEBUG - In validation, insertion_recall_50 = 0.03294283686303775
+2025-05-02 00:29:42,741 - root - DEBUG - In validation, deletion_mrr = 0.007739156516890665
+2025-05-02 00:29:42,742 - root - DEBUG - In validation, deletion_recall_20 = 0.02677116473861626
+2025-05-02 00:29:42,742 - root - DEBUG - In validation, deletion_recall_50 = 0.05828807042449701
+2025-05-02 00:30:10,430 - root - DEBUG - In new node validation, agg_mrr = 0.006103009007914554
+2025-05-02 00:30:10,431 - root - DEBUG - In new node validation, agg_recall_20 = 0.014349489795918368
+2025-05-02 00:30:10,432 - root - DEBUG - In new node validation, agg_recall_50 = 0.030559098639455787
+2025-05-02 00:30:10,432 - root - DEBUG - In new node validation, insertion_mrr = 0.006621394745245248
+2025-05-02 00:30:10,432 - root - DEBUG - In new node validation, insertion_recall_20 = 0.015898261282876667
+2025-05-02 00:30:10,433 - root - DEBUG - In new node validation, insertion_recall_50 = 0.03234248657325581
+2025-05-02 00:30:10,433 - root - DEBUG - In new node validation, deletion_mrr = 0.0036687175792836217
+2025-05-02 00:30:10,434 - root - DEBUG - In new node validation, deletion_recall_20 = 0.00544478527607362
+2025-05-02 00:30:10,434 - root - DEBUG - In new node validation, deletion_recall_50 = 0.018725765543250204
+2025-05-02 00:30:10,454 - root - DEBUG - Start 13 epoch
+2025-05-02 00:44:24,820 - root - DEBUG - Loss in whole dataset = 1997.0335472859442
+2025-05-02 00:44:24,821 - root - DEBUG - Policy Loss = -316.9275199997646
+2025-05-02 00:47:47,943 - root - DEBUG - In validation, agg_mrr = 0.003562097318971712
+2025-05-02 00:47:47,944 - root - DEBUG - In validation, agg_recall_20 = 0.007238307349665924
+2025-05-02 00:47:47,944 - root - DEBUG - In validation, agg_recall_50 = 0.02839643652561247
+2025-05-02 00:47:47,945 - root - DEBUG - In validation, insertion_mrr = 0.0028872526768629727
+2025-05-02 00:47:47,945 - root - DEBUG - In validation, insertion_recall_20 = 0.00466258072284858
+2025-05-02 00:47:47,946 - root - DEBUG - In validation, insertion_recall_50 = 0.02283625817386978
+2025-05-02 00:47:47,946 - root - DEBUG - In validation, deletion_mrr = 0.006141415470178736
+2025-05-02 00:47:47,947 - root - DEBUG - In validation, deletion_recall_20 = 0.015828533193491645
+2025-05-02 00:47:47,947 - root - DEBUG - In validation, deletion_recall_50 = 0.04718590888950999
+2025-05-02 00:48:15,852 - root - DEBUG - In new node validation, agg_mrr = 0.0023686350168414497
+2025-05-02 00:48:15,853 - root - DEBUG - In new node validation, agg_recall_20 = 0.0033482142857142855
+2025-05-02 00:48:15,853 - root - DEBUG - In new node validation, agg_recall_50 = 0.018282312925170068
+2025-05-02 00:48:15,854 - root - DEBUG - In new node validation, insertion_mrr = 0.0020255814358479127
+2025-05-02 00:48:15,854 - root - DEBUG - In new node validation, insertion_recall_20 = 0.0024106555837325066
+2025-05-02 00:48:15,854 - root - DEBUG - In new node validation, insertion_recall_50 = 0.015804074842536382
+2025-05-02 00:48:15,857 - root - DEBUG - In new node validation, deletion_mrr = 0.0034445683874444384
+2025-05-02 00:48:15,857 - root - DEBUG - In new node validation, deletion_recall_20 = 0.005243938066023956
+2025-05-02 00:48:15,858 - root - DEBUG - In new node validation, deletion_recall_50 = 0.019551784275710655
+2025-05-02 00:48:15,877 - root - DEBUG - Start 14 epoch
+2025-05-02 01:02:32,464 - root - DEBUG - Loss in whole dataset = 1980.8572963252664
+2025-05-02 01:02:32,465 - root - DEBUG - Policy Loss = -320.2067527361214
+2025-05-02 01:05:55,298 - root - DEBUG - In validation, agg_mrr = 0.0044231371635618365
+2025-05-02 01:05:55,299 - root - DEBUG - In validation, agg_recall_20 = 0.016216592427616926
+2025-05-02 01:05:55,300 - root - DEBUG - In validation, agg_recall_50 = 0.039323496659242764
+2025-05-02 01:05:55,300 - root - DEBUG - In validation, insertion_mrr = 0.0038212708905269463
+2025-05-02 01:05:55,301 - root - DEBUG - In validation, insertion_recall_20 = 0.014085260597537383
+2025-05-02 01:05:55,301 - root - DEBUG - In validation, insertion_recall_50 = 0.033164353937233396
+2025-05-02 01:05:55,302 - root - DEBUG - In validation, deletion_mrr = 0.006429773924091225
+2025-05-02 01:05:55,302 - root - DEBUG - In validation, deletion_recall_20 = 0.020721086008482128
+2025-05-02 01:05:55,303 - root - DEBUG - In validation, deletion_recall_50 = 0.05568120514450154
+2025-05-02 01:06:23,049 - root - DEBUG - In new node validation, agg_mrr = 0.003106568989060177
+2025-05-02 01:06:23,049 - root - DEBUG - In new node validation, agg_recall_20 = 0.014349489795918368
+2025-05-02 01:06:23,050 - root - DEBUG - In new node validation, agg_recall_50 = 0.02992134353741497
+2025-05-02 01:06:23,050 - root - DEBUG - In new node validation, insertion_mrr = 0.00288182606078626
+2025-05-02 01:06:23,051 - root - DEBUG - In new node validation, insertion_recall_20 = 0.01630537909384063
+2025-05-02 01:06:23,051 - root - DEBUG - In new node validation, insertion_recall_50 = 0.029610692014538163
+2025-05-02 01:06:23,052 - root - DEBUG - In new node validation, deletion_mrr = 0.0036493056022321156
+2025-05-02 01:06:23,052 - root - DEBUG - In new node validation, deletion_recall_20 = 0.004110783558636319
+2025-05-02 01:06:23,053 - root - DEBUG - In new node validation, deletion_recall_50 = 0.025460841986915606
+2025-05-02 01:06:23,073 - root - DEBUG - Start 15 epoch
+2025-05-02 01:20:40,430 - root - DEBUG - Loss in whole dataset = 1990.2650621160865
+2025-05-02 01:20:40,431 - root - DEBUG - Policy Loss = -315.45437059237156
+2025-05-02 01:24:02,715 - root - DEBUG - In validation, agg_mrr = 0.003839952491758772
+2025-05-02 01:24:02,716 - root - DEBUG - In validation, agg_recall_20 = 0.009047884187082406
+2025-05-02 01:24:02,717 - root - DEBUG - In validation, agg_recall_50 = 0.029858017817371938
+2025-05-02 01:24:02,717 - root - DEBUG - In validation, insertion_mrr = 0.003162154001253935
+2025-05-02 01:24:02,718 - root - DEBUG - In validation, insertion_recall_20 = 0.006770659895659896
+2025-05-02 01:24:02,718 - root - DEBUG - In validation, insertion_recall_50 = 0.025306761690690262
+2025-05-02 01:24:02,719 - root - DEBUG - In validation, deletion_mrr = 0.0065718389183936745
+2025-05-02 01:24:02,719 - root - DEBUG - In validation, deletion_recall_20 = 0.018032027606127328
+2025-05-02 01:24:02,719 - root - DEBUG - In validation, deletion_recall_50 = 0.04927513814286668
+2025-05-02 01:24:30,359 - root - DEBUG - In new node validation, agg_mrr = 0.0032242119170898757
+2025-05-02 01:24:30,360 - root - DEBUG - In new node validation, agg_recall_20 = 0.00510204081632653
+2025-05-02 01:24:30,361 - root - DEBUG - In new node validation, agg_recall_50 = 0.02242772108843537
+2025-05-02 01:24:30,361 - root - DEBUG - In new node validation, insertion_mrr = 0.0025309103903696766
+2025-05-02 01:24:30,362 - root - DEBUG - In new node validation, insertion_recall_20 = 0.003942346826962212
+2025-05-02 01:24:30,362 - root - DEBUG - In new node validation, insertion_recall_50 = 0.02105496711265942
+2025-05-02 01:24:30,363 - root - DEBUG - In new node validation, deletion_mrr = 0.006212185476857866
+2025-05-02 01:24:30,363 - root - DEBUG - In new node validation, deletion_recall_20 = 0.008671841110491416
+2025-05-02 01:24:30,364 - root - DEBUG - In new node validation, deletion_recall_50 = 0.025056325746509792
+2025-05-02 01:24:30,383 - root - DEBUG - Start 16 epoch
+2025-05-02 01:38:48,222 - root - DEBUG - Loss in whole dataset = 1982.4918335676193
+2025-05-02 01:38:48,223 - root - DEBUG - Policy Loss = -322.1795863676816
+2025-05-02 01:42:10,042 - root - DEBUG - In validation, agg_mrr = 0.0046736492390220576
+2025-05-02 01:42:10,043 - root - DEBUG - In validation, agg_recall_20 = 0.015033407572383074
+2025-05-02 01:42:10,043 - root - DEBUG - In validation, agg_recall_50 = 0.036678730512249444
+2025-05-02 01:42:10,044 - root - DEBUG - In validation, insertion_mrr = 0.003994307227868233
+2025-05-02 01:42:10,044 - root - DEBUG - In validation, insertion_recall_20 = 0.01376253334958692
+2025-05-02 01:42:10,045 - root - DEBUG - In validation, insertion_recall_50 = 0.03263648708682191
+2025-05-02 01:42:10,045 - root - DEBUG - In validation, deletion_mrr = 0.007198282669249485
+2025-05-02 01:42:10,046 - root - DEBUG - In validation, deletion_recall_20 = 0.019914934250114306
+2025-05-02 01:42:10,046 - root - DEBUG - In validation, deletion_recall_50 = 0.0523345959980309
+2025-05-02 01:42:37,855 - root - DEBUG - In new node validation, agg_mrr = 0.003713259305241825
+2025-05-02 01:42:37,855 - root - DEBUG - In new node validation, agg_recall_20 = 0.011639030612244899
+2025-05-02 01:42:37,856 - root - DEBUG - In new node validation, agg_recall_50 = 0.02391581632653061
+2025-05-02 01:42:37,856 - root - DEBUG - In new node validation, insertion_mrr = 0.0035185968915594167
+2025-05-02 01:42:37,857 - root - DEBUG - In new node validation, insertion_recall_20 = 0.01194418473264627
+2025-05-02 01:42:37,857 - root - DEBUG - In new node validation, insertion_recall_50 = 0.02381583871968487
+2025-05-02 01:42:37,858 - root - DEBUG - In new node validation, deletion_mrr = 0.003867717018549446
+2025-05-02 01:42:37,858 - root - DEBUG - In new node validation, deletion_recall_20 = 0.007697925796085307
+2025-05-02 01:42:37,858 - root - DEBUG - In new node validation, deletion_recall_50 = 0.01873755079276552
+2025-05-02 01:42:37,879 - root - DEBUG - Start 17 epoch
+2025-05-02 01:56:57,751 - root - DEBUG - Loss in whole dataset = 1977.5225318185985
+2025-05-02 01:56:57,752 - root - DEBUG - Policy Loss = -320.8699194986839
+2025-05-02 02:00:21,416 - root - DEBUG - In validation, agg_mrr = 0.005159546143280336
+2025-05-02 02:00:21,417 - root - DEBUG - In validation, agg_recall_20 = 0.01830456570155902
+2025-05-02 02:00:21,418 - root - DEBUG - In validation, agg_recall_50 = 0.048301781737193766
+2025-05-02 02:00:21,418 - root - DEBUG - In validation, insertion_mrr = 0.0049187788882308885
+2025-05-02 02:00:21,419 - root - DEBUG - In validation, insertion_recall_20 = 0.01984544008818562
+2025-05-02 02:00:21,419 - root - DEBUG - In validation, insertion_recall_50 = 0.04687962552080855
+2025-05-02 02:00:21,420 - root - DEBUG - In validation, deletion_mrr = 0.005610587394139793
+2025-05-02 02:00:21,420 - root - DEBUG - In validation, deletion_recall_20 = 0.009470546381903722
+2025-05-02 02:00:21,421 - root - DEBUG - In validation, deletion_recall_50 = 0.05260342343098575
+2025-05-02 02:00:49,053 - root - DEBUG - In new node validation, agg_mrr = 0.004625041896755265
+2025-05-02 02:00:49,054 - root - DEBUG - In new node validation, agg_recall_20 = 0.02311862244897959
+2025-05-02 02:00:49,055 - root - DEBUG - In new node validation, agg_recall_50 = 0.029017857142857144
+2025-05-02 02:00:49,055 - root - DEBUG - In new node validation, insertion_mrr = 0.0049640198062771606
+2025-05-02 02:00:49,055 - root - DEBUG - In new node validation, insertion_recall_20 = 0.027667186801802184
+2025-05-02 02:00:49,056 - root - DEBUG - In new node validation, insertion_recall_50 = 0.0328936590475052
+2025-05-02 02:00:49,056 - root - DEBUG - In new node validation, deletion_mrr = 0.0026672895821700307
+2025-05-02 02:00:49,057 - root - DEBUG - In new node validation, deletion_recall_20 = 0.0002788622420524261
+2025-05-02 02:00:49,057 - root - DEBUG - In new node validation, deletion_recall_50 = 0.006760749475473402
+2025-05-02 02:00:49,076 - root - DEBUG - Start 18 epoch
+2025-05-02 02:15:19,322 - root - DEBUG - Loss in whole dataset = 1957.7889552861452
+2025-05-02 02:15:19,324 - root - DEBUG - Policy Loss = -321.6504572494887
+2025-05-02 02:18:48,646 - root - DEBUG - In validation, agg_mrr = 0.0036629717007991324
+2025-05-02 02:18:48,647 - root - DEBUG - In validation, agg_recall_20 = 0.00849109131403118
+2025-05-02 02:18:48,648 - root - DEBUG - In validation, agg_recall_50 = 0.036191536748329624
+2025-05-02 02:18:48,649 - root - DEBUG - In validation, insertion_mrr = 0.0033376819534923457
+2025-05-02 02:18:48,649 - root - DEBUG - In validation, insertion_recall_20 = 0.00686933199489003
+2025-05-02 02:18:48,650 - root - DEBUG - In validation, insertion_recall_50 = 0.034293479647832324
+2025-05-02 02:18:48,650 - root - DEBUG - In validation, deletion_mrr = 0.0045948373515944255
+2025-05-02 02:18:48,651 - root - DEBUG - In validation, deletion_recall_20 = 0.01245967405939705
+2025-05-02 02:18:48,651 - root - DEBUG - In validation, deletion_recall_50 = 0.03828458399095518
+2025-05-02 02:19:16,312 - root - DEBUG - In new node validation, agg_mrr = 0.003397291158391291
+2025-05-02 02:19:16,313 - root - DEBUG - In new node validation, agg_recall_20 = 0.0078125
+2025-05-02 02:19:16,314 - root - DEBUG - In new node validation, agg_recall_50 = 0.038212159863945584
+2025-05-02 02:19:16,314 - root - DEBUG - In new node validation, insertion_mrr = 0.0033647286679801707
+2025-05-02 02:19:16,315 - root - DEBUG - In new node validation, insertion_recall_20 = 0.008488907815830893
+2025-05-02 02:19:16,315 - root - DEBUG - In new node validation, insertion_recall_50 = 0.04008692162538316
+2025-05-02 02:19:16,316 - root - DEBUG - In new node validation, deletion_mrr = 0.0034442885074538274
+2025-05-02 02:19:16,316 - root - DEBUG - In new node validation, deletion_recall_20 = 0.0030395984383714447
+2025-05-02 02:19:16,317 - root - DEBUG - In new node validation, deletion_recall_50 = 0.02960012039766641
+2025-05-02 02:19:16,354 - root - DEBUG - Start 19 epoch
+2025-05-02 02:33:34,745 - root - DEBUG - Loss in whole dataset = 1972.775882984628
+2025-05-02 02:33:34,747 - root - DEBUG - Policy Loss = -321.4130885498598
+2025-05-02 02:36:56,910 - root - DEBUG - In validation, agg_mrr = 0.004088020411393696
+2025-05-02 02:36:56,911 - root - DEBUG - In validation, agg_recall_20 = 0.01698218262806236
+2025-05-02 02:36:56,912 - root - DEBUG - In validation, agg_recall_50 = 0.04175946547884187
+2025-05-02 02:36:56,912 - root - DEBUG - In validation, insertion_mrr = 0.0035180711277207582
+2025-05-02 02:36:56,913 - root - DEBUG - In validation, insertion_recall_20 = 0.014812751112974329
+2025-05-02 02:36:56,914 - root - DEBUG - In validation, insertion_recall_50 = 0.038916931592712846
+2025-05-02 02:36:56,914 - root - DEBUG - In validation, deletion_mrr = 0.006544204954745736
+2025-05-02 02:36:56,915 - root - DEBUG - In validation, deletion_recall_20 = 0.024887808405813942
+2025-05-02 02:36:56,915 - root - DEBUG - In validation, deletion_recall_50 = 0.053828371920477174
+2025-05-02 02:37:24,692 - root - DEBUG - In new node validation, agg_mrr = 0.0035391768739538084
+2025-05-02 02:37:24,693 - root - DEBUG - In new node validation, agg_recall_20 = 0.012595663265306123
+2025-05-02 02:37:24,693 - root - DEBUG - In new node validation, agg_recall_50 = 0.03039965986394558
+2025-05-02 02:37:24,693 - root - DEBUG - In new node validation, insertion_mrr = 0.0030661249695465263
+2025-05-02 02:37:24,694 - root - DEBUG - In new node validation, insertion_recall_20 = 0.012632509940202248
+2025-05-02 02:37:24,694 - root - DEBUG - In new node validation, insertion_recall_50 = 0.03227040053963131
+2025-05-02 02:37:24,695 - root - DEBUG - In new node validation, deletion_mrr = 0.006265818811353447
+2025-05-02 02:37:24,695 - root - DEBUG - In new node validation, deletion_recall_20 = 0.012631463628396143
+2025-05-02 02:37:24,695 - root - DEBUG - In new node validation, deletion_recall_50 = 0.0229111890154835
+2025-05-02 02:37:24,717 - root - DEBUG - Start 20 epoch
+2025-05-02 02:51:40,870 - root - DEBUG - Loss in whole dataset = 1973.270906418562
+2025-05-02 02:51:40,871 - root - DEBUG - Policy Loss = -324.5912016624352
+2025-05-02 02:55:03,198 - root - DEBUG - In validation, agg_mrr = 0.005282942435002793
+2025-05-02 02:55:03,200 - root - DEBUG - In validation, agg_recall_20 = 0.017260579064587972
+2025-05-02 02:55:03,200 - root - DEBUG - In validation, agg_recall_50 = 0.041898663697104675
+2025-05-02 02:55:03,201 - root - DEBUG - In validation, insertion_mrr = 0.004446555559162052
+2025-05-02 02:55:03,201 - root - DEBUG - In validation, insertion_recall_20 = 0.013648332384381493
+2025-05-02 02:55:03,202 - root - DEBUG - In validation, insertion_recall_50 = 0.03186639284574552
+2025-05-02 02:55:03,203 - root - DEBUG - In validation, deletion_mrr = 0.007967212471115417
+2025-05-02 02:55:03,203 - root - DEBUG - In validation, deletion_recall_20 = 0.03263959417006508
+2025-05-02 02:55:03,204 - root - DEBUG - In validation, deletion_recall_50 = 0.07877022754100316
+2025-05-02 02:55:31,051 - root - DEBUG - In new node validation, agg_mrr = 0.0032926367644816705
+2025-05-02 02:55:31,051 - root - DEBUG - In new node validation, agg_recall_20 = 0.009088010204081632
+2025-05-02 02:55:31,052 - root - DEBUG - In new node validation, agg_recall_50 = 0.027529761904761908
+2025-05-02 02:55:31,052 - root - DEBUG - In new node validation, insertion_mrr = 0.0028774994513348015
+2025-05-02 02:55:31,053 - root - DEBUG - In new node validation, insertion_recall_20 = 0.008487146756377524
+2025-05-02 02:55:31,053 - root - DEBUG - In new node validation, insertion_recall_50 = 0.024922253672253675
+2025-05-02 02:55:31,054 - root - DEBUG - In new node validation, deletion_mrr = 0.004737128222662058
+2025-05-02 02:55:31,054 - root - DEBUG - In new node validation, deletion_recall_20 = 0.013734297399941574
+2025-05-02 02:55:31,055 - root - DEBUG - In new node validation, deletion_recall_50 = 0.03136586062199559
+2025-05-02 02:55:31,076 - root - DEBUG - Start 21 epoch
+2025-05-02 03:09:47,459 - root - DEBUG - Loss in whole dataset = 2002.730393851176
+2025-05-02 03:09:47,461 - root - DEBUG - Policy Loss = -324.5676342740189
+2025-05-02 03:13:10,443 - root - DEBUG - In validation, agg_mrr = 0.005063479239007723
+2025-05-02 03:13:10,444 - root - DEBUG - In validation, agg_recall_20 = 0.015520601336302895
+2025-05-02 03:13:10,445 - root - DEBUG - In validation, agg_recall_50 = 0.036678730512249444
+2025-05-02 03:13:10,445 - root - DEBUG - In validation, insertion_mrr = 0.004245770044438333
+2025-05-02 03:13:10,446 - root - DEBUG - In validation, insertion_recall_20 = 0.013359871465340215
+2025-05-02 03:13:10,446 - root - DEBUG - In validation, insertion_recall_50 = 0.032379488071452356
+2025-05-02 03:13:10,447 - root - DEBUG - In validation, deletion_mrr = 0.007248763066237683
+2025-05-02 03:13:10,447 - root - DEBUG - In validation, deletion_recall_20 = 0.01906261444003826
+2025-05-02 03:13:10,448 - root - DEBUG - In validation, deletion_recall_50 = 0.048127017257903686
+2025-05-02 03:13:38,360 - root - DEBUG - In new node validation, agg_mrr = 0.0037128151953987037
+2025-05-02 03:13:38,360 - root - DEBUG - In new node validation, agg_recall_20 = 0.011639030612244899
+2025-05-02 03:13:38,361 - root - DEBUG - In new node validation, agg_recall_50 = 0.027317176870748295
+2025-05-02 03:13:38,361 - root - DEBUG - In new node validation, insertion_mrr = 0.00362219030126507
+2025-05-02 03:13:38,362 - root - DEBUG - In new node validation, insertion_recall_20 = 0.012252473310165619
+2025-05-02 03:13:38,362 - root - DEBUG - In new node validation, insertion_recall_50 = 0.02785041169656554
+2025-05-02 03:13:38,362 - root - DEBUG - In new node validation, deletion_mrr = 0.0037089785423698412
+2025-05-02 03:13:38,363 - root - DEBUG - In new node validation, deletion_recall_20 = 0.007033304119193689
+2025-05-02 03:13:38,363 - root - DEBUG - In new node validation, deletion_recall_50 = 0.023923945856461192
+2025-05-02 03:13:38,382 - root - DEBUG - Start 22 epoch
+2025-05-02 03:27:56,497 - root - DEBUG - Loss in whole dataset = 2008.3935579434037
+2025-05-02 03:27:56,498 - root - DEBUG - Policy Loss = -321.91656127991155
+2025-05-02 03:31:18,775 - root - DEBUG - In validation, agg_mrr = 0.0053061964617483505
+2025-05-02 03:31:18,777 - root - DEBUG - In validation, agg_recall_20 = 0.013432628062360803
+2025-05-02 03:31:18,777 - root - DEBUG - In validation, agg_recall_50 = 0.039880289532293986
+2025-05-02 03:31:18,778 - root - DEBUG - In validation, insertion_mrr = 0.0046607382422534024
+2025-05-02 03:31:18,779 - root - DEBUG - In validation, insertion_recall_20 = 0.010848648809028274
+2025-05-02 03:31:18,779 - root - DEBUG - In validation, insertion_recall_50 = 0.03439571496212122
+2025-05-02 03:31:18,779 - root - DEBUG - In validation, deletion_mrr = 0.007983581967130811
+2025-05-02 03:31:18,780 - root - DEBUG - In validation, deletion_recall_20 = 0.020387107506221077
+2025-05-02 03:31:18,780 - root - DEBUG - In validation, deletion_recall_50 = 0.05045847888645673
+2025-05-02 03:31:46,930 - root - DEBUG - In new node validation, agg_mrr = 0.0027204498326812315
+2025-05-02 03:31:46,930 - root - DEBUG - In new node validation, agg_recall_20 = 0.0028698979591836736
+2025-05-02 03:31:46,931 - root - DEBUG - In new node validation, agg_recall_50 = 0.018601190476190476
+2025-05-02 03:31:46,931 - root - DEBUG - In new node validation, insertion_mrr = 0.0023590077984939123
+2025-05-02 03:31:46,932 - root - DEBUG - In new node validation, insertion_recall_20 = 0.001834906546445008
+2025-05-02 03:31:46,932 - root - DEBUG - In new node validation, insertion_recall_50 = 0.014977732381578535
+2025-05-02 03:31:46,933 - root - DEBUG - In new node validation, deletion_mrr = 0.004252648728528611
+2025-05-02 03:31:46,933 - root - DEBUG - In new node validation, deletion_recall_20 = 0.00803388840198656
+2025-05-02 03:31:46,934 - root - DEBUG - In new node validation, deletion_recall_50 = 0.02797652245505006
+2025-05-02 03:31:46,953 - root - DEBUG - Start 23 epoch
+2025-05-02 03:46:02,792 - root - DEBUG - Loss in whole dataset = 2012.1118089500815
+2025-05-02 03:46:02,794 - root - DEBUG - Policy Loss = -322.62654806359205
+2025-05-02 03:49:24,526 - root - DEBUG - In validation, agg_mrr = 0.0034285150304742143
+2025-05-02 03:49:24,527 - root - DEBUG - In validation, agg_recall_20 = 0.007447104677060134
+2025-05-02 03:49:24,528 - root - DEBUG - In validation, agg_recall_50 = 0.024290089086859687
+2025-05-02 03:49:24,528 - root - DEBUG - In validation, insertion_mrr = 0.0030167012277888495
+2025-05-02 03:49:24,529 - root - DEBUG - In validation, insertion_recall_20 = 0.00502334192345353
+2025-05-02 03:49:24,529 - root - DEBUG - In validation, insertion_recall_50 = 0.020228661467500752
+2025-05-02 03:49:24,530 - root - DEBUG - In validation, deletion_mrr = 0.00501274737763703
+2025-05-02 03:49:24,530 - root - DEBUG - In validation, deletion_recall_20 = 0.01730415629307596
+2025-05-02 03:49:24,531 - root - DEBUG - In validation, deletion_recall_50 = 0.04035302186271715
+2025-05-02 03:49:52,364 - root - DEBUG - In new node validation, agg_mrr = 0.0023293747417756573
+2025-05-02 03:49:52,365 - root - DEBUG - In new node validation, agg_recall_20 = 0.003667091836734694
+2025-05-02 03:49:52,365 - root - DEBUG - In new node validation, agg_recall_50 = 0.009672619047619048
+2025-05-02 03:49:52,366 - root - DEBUG - In new node validation, insertion_mrr = 0.0019526931024021325
+2025-05-02 03:49:52,366 - root - DEBUG - In new node validation, insertion_recall_20 = 0.002781182492720954
+2025-05-02 03:49:52,366 - root - DEBUG - In new node validation, insertion_recall_50 = 0.006179571852648775
+2025-05-02 03:49:52,367 - root - DEBUG - In new node validation, deletion_mrr = 0.003660691382477237
+2025-05-02 03:49:52,367 - root - DEBUG - In new node validation, deletion_recall_20 = 0.006903168406235892
+2025-05-02 03:49:52,367 - root - DEBUG - In new node validation, deletion_recall_50 = 0.01773088023088023
+2025-05-02 03:49:52,387 - root - DEBUG - Start 24 epoch
+2025-05-02 04:04:11,663 - root - DEBUG - Loss in whole dataset = 1948.4164968580008
+2025-05-02 04:04:11,665 - root - DEBUG - Policy Loss = -318.2081384805497
+2025-05-02 04:07:34,826 - root - DEBUG - In validation, agg_mrr = 0.004975318816052066
+2025-05-02 04:07:34,828 - root - DEBUG - In validation, agg_recall_20 = 0.011135857461024499
+2025-05-02 04:07:34,828 - root - DEBUG - In validation, agg_recall_50 = 0.029788418708240536
+2025-05-02 04:07:34,829 - root - DEBUG - In validation, insertion_mrr = 0.004936541834544043
+2025-05-02 04:07:34,829 - root - DEBUG - In validation, insertion_recall_20 = 0.011263660384754137
+2025-05-02 04:07:34,829 - root - DEBUG - In validation, insertion_recall_50 = 0.02885026834524602
+2025-05-02 04:07:34,830 - root - DEBUG - In validation, deletion_mrr = 0.004226252533734828
+2025-05-02 04:07:34,830 - root - DEBUG - In validation, deletion_recall_20 = 0.008355967670372102
+2025-05-02 04:07:34,831 - root - DEBUG - In validation, deletion_recall_50 = 0.029290996015372744
+2025-05-02 04:08:02,697 - root - DEBUG - In new node validation, agg_mrr = 0.002789394128317169
+2025-05-02 04:08:02,698 - root - DEBUG - In new node validation, agg_recall_20 = 0.003667091836734694
+2025-05-02 04:08:02,698 - root - DEBUG - In new node validation, agg_recall_50 = 0.014615221088435373
+2025-05-02 04:08:02,699 - root - DEBUG - In new node validation, insertion_mrr = 0.0023938112007159834
+2025-05-02 04:08:02,700 - root - DEBUG - In new node validation, insertion_recall_20 = 0.0028726010456779686
+2025-05-02 04:08:02,700 - root - DEBUG - In new node validation, insertion_recall_50 = 0.012192010268933346
+2025-05-02 04:08:02,700 - root - DEBUG - In new node validation, deletion_mrr = 0.004595801918164776
+2025-05-02 04:08:02,701 - root - DEBUG - In new node validation, deletion_recall_20 = 0.006877606034047751
+2025-05-02 04:08:02,701 - root - DEBUG - In new node validation, deletion_recall_50 = 0.01987811949468391
+2025-05-02 04:08:02,736 - root - DEBUG - Start 25 epoch
+2025-05-02 04:22:20,238 - root - DEBUG - Loss in whole dataset = 2025.8913324661553
+2025-05-02 04:22:20,240 - root - DEBUG - Policy Loss = -318.6045464380877
+2025-05-02 04:25:43,113 - root - DEBUG - In validation, agg_mrr = 0.0053411620319743
+2025-05-02 04:25:43,115 - root - DEBUG - In validation, agg_recall_20 = 0.015798997772828508
+2025-05-02 04:25:43,115 - root - DEBUG - In validation, agg_recall_50 = 0.03709632516703786
+2025-05-02 04:25:43,116 - root - DEBUG - In validation, insertion_mrr = 0.00433670897170219
+2025-05-02 04:25:43,117 - root - DEBUG - In validation, insertion_recall_20 = 0.013039423683954934
+2025-05-02 04:25:43,117 - root - DEBUG - In validation, insertion_recall_50 = 0.03226999470024024
+2025-05-02 04:25:43,118 - root - DEBUG - In validation, deletion_mrr = 0.007332473505187798
+2025-05-02 04:25:43,118 - root - DEBUG - In validation, deletion_recall_20 = 0.022165732466979005
+2025-05-02 04:25:43,119 - root - DEBUG - In validation, deletion_recall_50 = 0.05250466869234182
+2025-05-02 04:26:10,951 - root - DEBUG - In new node validation, agg_mrr = 0.003033943520460708
+2025-05-02 04:26:10,951 - root - DEBUG - In new node validation, agg_recall_20 = 0.004623724489795918
+2025-05-02 04:26:10,952 - root - DEBUG - In new node validation, agg_recall_50 = 0.018229166666666664
+2025-05-02 04:26:10,952 - root - DEBUG - In new node validation, insertion_mrr = 0.0019152027557758165
+2025-05-02 04:26:10,953 - root - DEBUG - In new node validation, insertion_recall_20 = 0.0014914999530384148
+2025-05-02 04:26:10,953 - root - DEBUG - In new node validation, insertion_recall_50 = 0.014196344965575734
+2025-05-02 04:26:10,954 - root - DEBUG - In new node validation, deletion_mrr = 0.005905722756955318
+2025-05-02 04:26:10,954 - root - DEBUG - In new node validation, deletion_recall_20 = 0.015519015749077101
+2025-05-02 04:26:10,954 - root - DEBUG - In new node validation, deletion_recall_50 = 0.030145672323586434
+2025-05-02 04:26:10,975 - root - DEBUG - Start 26 epoch
+2025-05-02 04:40:29,440 - root - DEBUG - Loss in whole dataset = 2030.8274395875633
+2025-05-02 04:40:29,441 - root - DEBUG - Policy Loss = -319.22151026967913
+2025-05-02 04:43:52,102 - root - DEBUG - In validation, agg_mrr = 0.0040078164246222445
+2025-05-02 04:43:52,103 - root - DEBUG - In validation, agg_recall_20 = 0.011762249443207126
+2025-05-02 04:43:52,104 - root - DEBUG - In validation, agg_recall_50 = 0.02589086859688196
+2025-05-02 04:43:52,104 - root - DEBUG - In validation, insertion_mrr = 0.003655957009304922
+2025-05-02 04:43:52,104 - root - DEBUG - In validation, insertion_recall_20 = 0.010292912692466263
+2025-05-02 04:43:52,105 - root - DEBUG - In validation, insertion_recall_50 = 0.02083314286160268
+2025-05-02 04:43:52,105 - root - DEBUG - In validation, deletion_mrr = 0.005330046193072052
+2025-05-02 04:43:52,106 - root - DEBUG - In validation, deletion_recall_20 = 0.01692248002843571
+2025-05-02 04:43:52,106 - root - DEBUG - In validation, deletion_recall_50 = 0.04405339197582965
+2025-05-02 04:44:19,821 - root - DEBUG - In new node validation, agg_mrr = 0.0023168854021597567
+2025-05-02 04:44:19,822 - root - DEBUG - In new node validation, agg_recall_20 = 0.0028698979591836736
+2025-05-02 04:44:19,822 - root - DEBUG - In new node validation, agg_recall_50 = 0.01328656462585034
+2025-05-02 04:44:19,822 - root - DEBUG - In new node validation, insertion_mrr = 0.0019767630556164245
+2025-05-02 04:44:19,823 - root - DEBUG - In new node validation, insertion_recall_20 = 0.0012728937728937728
+2025-05-02 04:44:19,823 - root - DEBUG - In new node validation, insertion_recall_50 = 0.010178101812717198
+2025-05-02 04:44:19,824 - root - DEBUG - In new node validation, deletion_mrr = 0.003871157148359666
+2025-05-02 04:44:19,824 - root - DEBUG - In new node validation, deletion_recall_20 = 0.010181127665790242
+2025-05-02 04:44:19,825 - root - DEBUG - In new node validation, deletion_recall_50 = 0.025603758885967474
+2025-05-02 04:44:19,844 - root - DEBUG - Start 27 epoch
+2025-05-02 04:58:37,619 - root - DEBUG - Loss in whole dataset = 1984.9244909156114
+2025-05-02 04:58:37,620 - root - DEBUG - Policy Loss = -319.3291099292692
+2025-05-02 05:02:00,607 - root - DEBUG - In validation, agg_mrr = 0.0035381519492442897
+2025-05-02 05:02:00,608 - root - DEBUG - In validation, agg_recall_20 = 0.007725501113585746
+2025-05-02 05:02:00,609 - root - DEBUG - In validation, agg_recall_50 = 0.0223413140311804
+2025-05-02 05:02:00,609 - root - DEBUG - In validation, insertion_mrr = 0.0032971697830192215
+2025-05-02 05:02:00,610 - root - DEBUG - In validation, insertion_recall_20 = 0.005908107889134674
+2025-05-02 05:02:00,610 - root - DEBUG - In validation, insertion_recall_50 = 0.017611579888365602
+2025-05-02 05:02:00,611 - root - DEBUG - In validation, deletion_mrr = 0.004555334149059746
+2025-05-02 05:02:00,611 - root - DEBUG - In validation, deletion_recall_20 = 0.017060574851433575
+2025-05-02 05:02:00,612 - root - DEBUG - In validation, deletion_recall_50 = 0.04357487695437834
+2025-05-02 05:02:28,488 - root - DEBUG - In new node validation, agg_mrr = 0.0021222492300343337
+2025-05-02 05:02:28,489 - root - DEBUG - In new node validation, agg_recall_20 = 0.0028698979591836736
+2025-05-02 05:02:28,490 - root - DEBUG - In new node validation, agg_recall_50 = 0.008131377551020409
+2025-05-02 05:02:28,490 - root - DEBUG - In new node validation, insertion_mrr = 0.0017666175911279075
+2025-05-02 05:02:28,491 - root - DEBUG - In new node validation, insertion_recall_20 = 0.001697896120973044
+2025-05-02 05:02:28,491 - root - DEBUG - In new node validation, insertion_recall_50 = 0.0053947654909193375
+2025-05-02 05:02:28,491 - root - DEBUG - In new node validation, deletion_mrr = 0.003764730385730606
+2025-05-02 05:02:28,492 - root - DEBUG - In new node validation, deletion_recall_20 = 0.007806372223550138
+2025-05-02 05:02:28,492 - root - DEBUG - In new node validation, deletion_recall_50 = 0.018086097610637487
+2025-05-02 05:02:28,524 - root - DEBUG - Start 28 epoch
+2025-05-02 05:16:48,045 - root - DEBUG - Loss in whole dataset = 2001.6341899298131
+2025-05-02 05:16:48,046 - root - DEBUG - Policy Loss = -316.28858490637504
+2025-05-02 05:20:10,575 - root - DEBUG - In validation, agg_mrr = 0.00649374319944701
+2025-05-02 05:20:10,576 - root - DEBUG - In validation, agg_recall_20 = 0.0200445434298441
+2025-05-02 05:20:10,577 - root - DEBUG - In validation, agg_recall_50 = 0.043917037861915365
+2025-05-02 05:20:10,577 - root - DEBUG - In validation, insertion_mrr = 0.006464257664650356
+2025-05-02 05:20:10,578 - root - DEBUG - In validation, insertion_recall_20 = 0.02020700808368219
+2025-05-02 05:20:10,578 - root - DEBUG - In validation, insertion_recall_50 = 0.038972888470656324
+2025-05-02 05:20:10,579 - root - DEBUG - In validation, deletion_mrr = 0.007171578702768803
+2025-05-02 05:20:10,579 - root - DEBUG - In validation, deletion_recall_20 = 0.016099889645596017
+2025-05-02 05:20:10,580 - root - DEBUG - In validation, deletion_recall_50 = 0.05826306272982173
+2025-05-02 05:20:38,273 - root - DEBUG - In new node validation, agg_mrr = 0.0025514898655345014
+2025-05-02 05:20:38,274 - root - DEBUG - In new node validation, agg_recall_20 = 0.002232142857142857
+2025-05-02 05:20:38,274 - root - DEBUG - In new node validation, agg_recall_50 = 0.016581632653061226
+2025-05-02 05:20:38,275 - root - DEBUG - In new node validation, insertion_mrr = 0.0023922593372573933
+2025-05-02 05:20:38,275 - root - DEBUG - In new node validation, insertion_recall_20 = 0.0018932563163332392
+2025-05-02 05:20:38,276 - root - DEBUG - In new node validation, insertion_recall_50 = 0.014518134998904229
+2025-05-02 05:20:38,276 - root - DEBUG - In new node validation, deletion_mrr = 0.003341720539669044
+2025-05-02 05:20:38,276 - root - DEBUG - In new node validation, deletion_recall_20 = 0.0023298276365761026
+2025-05-02 05:20:38,277 - root - DEBUG - In new node validation, deletion_recall_50 = 0.020112109260882267
+2025-05-02 05:20:38,296 - root - DEBUG - Start 29 epoch
+2025-05-02 05:34:56,451 - root - DEBUG - Loss in whole dataset = 1986.592844542116
+2025-05-02 05:34:56,452 - root - DEBUG - Policy Loss = -322.0845154939452
+2025-05-02 05:38:19,090 - root - DEBUG - In validation, agg_mrr = 0.007811740007420388
+2025-05-02 05:38:19,091 - root - DEBUG - In validation, agg_recall_20 = 0.02547327394209354
+2025-05-02 05:38:19,091 - root - DEBUG - In validation, agg_recall_50 = 0.04941536748329622
+2025-05-02 05:38:19,092 - root - DEBUG - In validation, insertion_mrr = 0.008107037088754338
+2025-05-02 05:38:19,092 - root - DEBUG - In validation, insertion_recall_20 = 0.026164426471346112
+2025-05-02 05:38:19,093 - root - DEBUG - In validation, insertion_recall_50 = 0.047540006496479714
+2025-05-02 05:38:19,093 - root - DEBUG - In validation, deletion_mrr = 0.006030004871665764
+2025-05-02 05:38:19,094 - root - DEBUG - In validation, deletion_recall_20 = 0.023111572176669124
+2025-05-02 05:38:19,094 - root - DEBUG - In validation, deletion_recall_50 = 0.04973319040147295
+2025-05-02 05:38:47,104 - root - DEBUG - In new node validation, agg_mrr = 0.002885113233873164
+2025-05-02 05:38:47,105 - root - DEBUG - In new node validation, agg_recall_20 = 0.006218112244897959
+2025-05-02 05:38:47,105 - root - DEBUG - In new node validation, agg_recall_50 = 0.029496173469387755
+2025-05-02 05:38:47,106 - root - DEBUG - In new node validation, insertion_mrr = 0.0026929391593990145
+2025-05-02 05:38:47,106 - root - DEBUG - In new node validation, insertion_recall_20 = 0.0063424111501034575
+2025-05-02 05:38:47,107 - root - DEBUG - In new node validation, insertion_recall_50 = 0.031050167780937006
+2025-05-02 05:38:47,107 - root - DEBUG - In new node validation, deletion_mrr = 0.003641966640977848
+2025-05-02 05:38:47,108 - root - DEBUG - In new node validation, deletion_recall_20 = 0.005237962446551403
+2025-05-02 05:38:47,108 - root - DEBUG - In new node validation, deletion_recall_50 = 0.020003275524747916
+2025-05-02 05:38:47,129 - root - INFO - Training complete in 32660.34 seconds.
+2025-05-02 05:38:47,130 - root - INFO - Starting MLPLinkPredictor training...
+2025-05-02 05:51:13,040 - root - INFO - MLP Epoch 1/1000, Loss: 1.9745
+2025-05-02 05:51:19,846 - root - INFO - MLP Epoch 2/1000, Loss: 1.4041
+2025-05-02 05:51:26,664 - root - INFO - MLP Epoch 3/1000, Loss: 1.3899
+2025-05-02 05:51:33,517 - root - INFO - MLP Epoch 4/1000, Loss: 1.3873
+2025-05-02 05:51:40,655 - root - INFO - MLP Epoch 5/1000, Loss: 1.3867
+2025-05-02 05:51:47,427 - root - INFO - MLP Epoch 6/1000, Loss: 1.3862
+2025-05-02 05:51:54,460 - root - INFO - MLP Epoch 7/1000, Loss: 1.3860
+2025-05-02 05:52:01,310 - root - INFO - MLP Epoch 8/1000, Loss: 1.3860
+2025-05-02 05:52:08,110 - root - INFO - MLP Epoch 9/1000, Loss: 1.3857
+2025-05-02 05:52:15,008 - root - INFO - MLP Epoch 10/1000, Loss: 1.3855
+2025-05-02 05:52:21,851 - root - INFO - MLP Epoch 11/1000, Loss: 1.3853
+2025-05-02 05:52:28,777 - root - INFO - MLP Epoch 12/1000, Loss: 1.3853
+2025-05-02 05:52:35,656 - root - INFO - MLP Epoch 13/1000, Loss: 1.3851
+2025-05-02 05:52:42,387 - root - INFO - MLP Epoch 14/1000, Loss: 1.3849
+2025-05-02 05:52:49,283 - root - INFO - MLP Epoch 15/1000, Loss: 1.3848
+2025-05-02 05:52:56,248 - root - INFO - MLP Epoch 16/1000, Loss: 1.3850
+2025-05-02 05:53:03,218 - root - INFO - MLP Epoch 17/1000, Loss: 1.3846
+2025-05-02 05:53:10,275 - root - INFO - MLP Epoch 18/1000, Loss: 1.3845
+2025-05-02 05:53:17,109 - root - INFO - MLP Epoch 19/1000, Loss: 1.3844
+2025-05-02 05:53:23,880 - root - INFO - MLP Epoch 20/1000, Loss: 1.3844
+2025-05-02 05:53:30,559 - root - INFO - MLP Epoch 21/1000, Loss: 1.3842
+2025-05-02 05:53:37,396 - root - INFO - MLP Epoch 22/1000, Loss: 1.3841
+2025-05-02 05:53:44,383 - root - INFO - MLP Epoch 23/1000, Loss: 1.3840
+2025-05-02 05:53:51,255 - root - INFO - MLP Epoch 24/1000, Loss: 1.3839
+2025-05-02 05:53:57,997 - root - INFO - MLP Epoch 25/1000, Loss: 1.3836
+2025-05-02 05:54:04,948 - root - INFO - MLP Epoch 26/1000, Loss: 1.3836
+2025-05-02 05:54:11,686 - root - INFO - MLP Epoch 27/1000, Loss: 1.3838
+2025-05-02 05:54:18,477 - root - INFO - MLP Epoch 28/1000, Loss: 1.3834
+2025-05-02 05:54:25,322 - root - INFO - MLP Epoch 29/1000, Loss: 1.3834
+2025-05-02 05:54:32,302 - root - INFO - MLP Epoch 30/1000, Loss: 1.3832
+2025-05-02 05:54:39,248 - root - INFO - MLP Epoch 31/1000, Loss: 1.3831
+2025-05-02 05:54:46,175 - root - INFO - MLP Epoch 32/1000, Loss: 1.3830
+2025-05-02 05:54:52,984 - root - INFO - MLP Epoch 33/1000, Loss: 1.3829
+2025-05-02 05:55:00,034 - root - INFO - MLP Epoch 34/1000, Loss: 1.3828
+2025-05-02 05:55:06,822 - root - INFO - MLP Epoch 35/1000, Loss: 1.3826
+2025-05-02 05:55:13,695 - root - INFO - MLP Epoch 36/1000, Loss: 1.3826
+2025-05-02 05:55:20,478 - root - INFO - MLP Epoch 37/1000, Loss: 1.3824
+2025-05-02 05:55:27,301 - root - INFO - MLP Epoch 38/1000, Loss: 1.3825
+2025-05-02 05:55:34,196 - root - INFO - MLP Epoch 39/1000, Loss: 1.3824
+2025-05-02 05:55:41,235 - root - INFO - MLP Epoch 40/1000, Loss: 1.3822
+2025-05-02 05:55:48,067 - root - INFO - MLP Epoch 41/1000, Loss: 1.3821
+2025-05-02 05:55:54,864 - root - INFO - MLP Epoch 42/1000, Loss: 1.3822
+2025-05-02 05:56:01,765 - root - INFO - MLP Epoch 43/1000, Loss: 1.3820
+2025-05-02 05:56:08,519 - root - INFO - MLP Epoch 44/1000, Loss: 1.3820
+2025-05-02 05:56:15,285 - root - INFO - MLP Epoch 45/1000, Loss: 1.3819
+2025-05-02 05:56:22,211 - root - INFO - MLP Epoch 46/1000, Loss: 1.3818
+2025-05-02 05:56:29,053 - root - INFO - MLP Epoch 47/1000, Loss: 1.3817
+2025-05-02 05:56:35,948 - root - INFO - MLP Epoch 48/1000, Loss: 1.3817
+2025-05-02 05:56:42,810 - root - INFO - MLP Epoch 49/1000, Loss: 1.3817
+2025-05-02 05:56:49,551 - root - INFO - MLP Epoch 50/1000, Loss: 1.3813
+2025-05-02 05:56:56,360 - root - INFO - MLP Epoch 51/1000, Loss: 1.3814
+2025-05-02 05:57:03,342 - root - INFO - MLP Epoch 52/1000, Loss: 1.3813
+2025-05-02 05:57:10,346 - root - INFO - MLP Epoch 53/1000, Loss: 1.3816
+2025-05-02 05:57:17,142 - root - INFO - MLP Epoch 54/1000, Loss: 1.3810
+2025-05-02 05:57:24,083 - root - INFO - MLP Epoch 55/1000, Loss: 1.3810
+2025-05-02 05:57:31,127 - root - INFO - MLP Epoch 56/1000, Loss: 1.3811
+2025-05-02 05:57:38,035 - root - INFO - MLP Epoch 57/1000, Loss: 1.3810
+2025-05-02 05:57:44,878 - root - INFO - MLP Epoch 58/1000, Loss: 1.3809
+2025-05-02 05:57:51,754 - root - INFO - MLP Epoch 59/1000, Loss: 1.3807
+2025-05-02 05:57:58,594 - root - INFO - MLP Epoch 60/1000, Loss: 1.3809
+2025-05-02 05:58:05,368 - root - INFO - MLP Epoch 61/1000, Loss: 1.3807
+2025-05-02 05:58:12,363 - root - INFO - MLP Epoch 62/1000, Loss: 1.3805
+2025-05-02 05:58:19,252 - root - INFO - MLP Epoch 63/1000, Loss: 1.3806
+2025-05-02 05:58:26,314 - root - INFO - MLP Epoch 64/1000, Loss: 1.3805
+2025-05-02 05:58:33,209 - root - INFO - MLP Epoch 65/1000, Loss: 1.3806
+2025-05-02 05:58:39,938 - root - INFO - MLP Epoch 66/1000, Loss: 1.3802
+2025-05-02 05:58:46,929 - root - INFO - MLP Epoch 67/1000, Loss: 1.3803
+2025-05-02 05:58:53,839 - root - INFO - MLP Epoch 68/1000, Loss: 1.3804
+2025-05-02 05:59:00,698 - root - INFO - MLP Epoch 69/1000, Loss: 1.3801
+2025-05-02 05:59:07,723 - root - INFO - MLP Epoch 70/1000, Loss: 1.3802
+2025-05-02 05:59:14,488 - root - INFO - MLP Epoch 71/1000, Loss: 1.3803
+2025-05-02 05:59:21,401 - root - INFO - MLP Epoch 72/1000, Loss: 1.3799
+2025-05-02 05:59:28,219 - root - INFO - MLP Epoch 73/1000, Loss: 1.3801
+2025-05-02 05:59:34,940 - root - INFO - MLP Epoch 74/1000, Loss: 1.3799
+2025-05-02 05:59:41,779 - root - INFO - MLP Epoch 75/1000, Loss: 1.3796
+2025-05-02 05:59:48,616 - root - INFO - MLP Epoch 76/1000, Loss: 1.3798
+2025-05-02 05:59:55,530 - root - INFO - MLP Epoch 77/1000, Loss: 1.3798
+2025-05-02 06:00:02,565 - root - INFO - MLP Epoch 78/1000, Loss: 1.3795
+2025-05-02 06:00:09,317 - root - INFO - MLP Epoch 79/1000, Loss: 1.3796
+2025-05-02 06:00:16,414 - root - INFO - MLP Epoch 80/1000, Loss: 1.3794
+2025-05-02 06:00:23,314 - root - INFO - MLP Epoch 81/1000, Loss: 1.3794
+2025-05-02 06:00:30,227 - root - INFO - MLP Epoch 82/1000, Loss: 1.3794
+2025-05-02 06:00:36,952 - root - INFO - MLP Epoch 83/1000, Loss: 1.3795
+2025-05-02 06:00:43,801 - root - INFO - MLP Epoch 84/1000, Loss: 1.3791
+2025-05-02 06:00:50,532 - root - INFO - MLP Epoch 85/1000, Loss: 1.3792
+2025-05-02 06:00:57,530 - root - INFO - MLP Epoch 86/1000, Loss: 1.3791
+2025-05-02 06:01:04,405 - root - INFO - MLP Epoch 87/1000, Loss: 1.3793
+2025-05-02 06:01:11,225 - root - INFO - MLP Epoch 88/1000, Loss: 1.3789
+2025-05-02 06:01:18,025 - root - INFO - MLP Epoch 89/1000, Loss: 1.3788
+2025-05-02 06:01:24,893 - root - INFO - MLP Epoch 90/1000, Loss: 1.3790
+2025-05-02 06:01:31,706 - root - INFO - MLP Epoch 91/1000, Loss: 1.3789
+2025-05-02 06:01:38,639 - root - INFO - MLP Epoch 92/1000, Loss: 1.3787
+2025-05-02 06:01:45,443 - root - INFO - MLP Epoch 93/1000, Loss: 1.3789
+2025-05-02 06:01:52,378 - root - INFO - MLP Epoch 94/1000, Loss: 1.3788
+2025-05-02 06:01:59,277 - root - INFO - MLP Epoch 95/1000, Loss: 1.3787
+2025-05-02 06:02:06,061 - root - INFO - MLP Epoch 96/1000, Loss: 1.3785
+2025-05-02 06:02:12,815 - root - INFO - MLP Epoch 97/1000, Loss: 1.3786
+2025-05-02 06:02:20,113 - root - INFO - MLP Epoch 98/1000, Loss: 1.3786
+2025-05-02 06:02:27,091 - root - INFO - MLP Epoch 99/1000, Loss: 1.3786
+2025-05-02 06:02:33,894 - root - INFO - MLP Epoch 100/1000, Loss: 1.3783
+2025-05-02 06:02:40,744 - root - INFO - MLP Epoch 101/1000, Loss: 1.3785
+2025-05-02 06:02:47,539 - root - INFO - MLP Epoch 102/1000, Loss: 1.3783
+2025-05-02 06:02:54,341 - root - INFO - MLP Epoch 103/1000, Loss: 1.3784
+2025-05-02 06:03:01,270 - root - INFO - MLP Epoch 104/1000, Loss: 1.3782
+2025-05-02 06:03:08,244 - root - INFO - MLP Epoch 105/1000, Loss: 1.3783
+2025-05-02 06:03:15,072 - root - INFO - MLP Epoch 106/1000, Loss: 1.3781
+2025-05-02 06:03:21,903 - root - INFO - MLP Epoch 107/1000, Loss: 1.3780
+2025-05-02 06:03:28,794 - root - INFO - MLP Epoch 108/1000, Loss: 1.3782
+2025-05-02 06:03:35,637 - root - INFO - MLP Epoch 109/1000, Loss: 1.3781
+2025-05-02 06:03:42,424 - root - INFO - MLP Epoch 110/1000, Loss: 1.3779
+2025-05-02 06:03:49,546 - root - INFO - MLP Epoch 111/1000, Loss: 1.3781
+2025-05-02 06:03:56,322 - root - INFO - MLP Epoch 112/1000, Loss: 1.3778
+2025-05-02 06:04:03,165 - root - INFO - MLP Epoch 113/1000, Loss: 1.3777
+2025-05-02 06:04:09,991 - root - INFO - MLP Epoch 114/1000, Loss: 1.3778
+2025-05-02 06:04:17,285 - root - INFO - MLP Epoch 115/1000, Loss: 1.3778
+2025-05-02 06:04:24,409 - root - INFO - MLP Epoch 116/1000, Loss: 1.3779
+2025-05-02 06:04:31,343 - root - INFO - MLP Epoch 117/1000, Loss: 1.3774
+2025-05-02 06:04:38,196 - root - INFO - MLP Epoch 118/1000, Loss: 1.3778
+2025-05-02 06:04:45,075 - root - INFO - MLP Epoch 119/1000, Loss: 1.3775
+2025-05-02 06:04:51,920 - root - INFO - MLP Epoch 120/1000, Loss: 1.3772
+2025-05-02 06:04:58,832 - root - INFO - MLP Epoch 121/1000, Loss: 1.3778
+2025-05-02 06:05:05,861 - root - INFO - MLP Epoch 122/1000, Loss: 1.3775
+2025-05-02 06:05:12,722 - root - INFO - MLP Epoch 123/1000, Loss: 1.3773
+2025-05-02 06:05:19,581 - root - INFO - MLP Epoch 124/1000, Loss: 1.3771
+2025-05-02 06:05:26,446 - root - INFO - MLP Epoch 125/1000, Loss: 1.3772
+2025-05-02 06:05:33,161 - root - INFO - MLP Epoch 126/1000, Loss: 1.3772
+2025-05-02 06:05:39,946 - root - INFO - MLP Epoch 127/1000, Loss: 1.3771
+2025-05-02 06:05:46,645 - root - INFO - MLP Epoch 128/1000, Loss: 1.3772
+2025-05-02 06:05:53,457 - root - INFO - MLP Epoch 129/1000, Loss: 1.3770
+2025-05-02 06:06:00,242 - root - INFO - MLP Epoch 130/1000, Loss: 1.3771
+2025-05-02 06:06:07,242 - root - INFO - MLP Epoch 131/1000, Loss: 1.3770
+2025-05-02 06:06:14,118 - root - INFO - MLP Epoch 132/1000, Loss: 1.3768
+2025-05-02 06:06:20,922 - root - INFO - MLP Epoch 133/1000, Loss: 1.3770
+2025-05-02 06:06:27,840 - root - INFO - MLP Epoch 134/1000, Loss: 1.3769
+2025-05-02 06:06:34,657 - root - INFO - MLP Epoch 135/1000, Loss: 1.3768
+2025-05-02 06:06:41,541 - root - INFO - MLP Epoch 136/1000, Loss: 1.3766
+2025-05-02 06:06:48,498 - root - INFO - MLP Epoch 137/1000, Loss: 1.3769
+2025-05-02 06:06:55,362 - root - INFO - MLP Epoch 138/1000, Loss: 1.3767
+2025-05-02 06:07:02,312 - root - INFO - MLP Epoch 139/1000, Loss: 1.3767
+2025-05-02 06:07:09,244 - root - INFO - MLP Epoch 140/1000, Loss: 1.3766
+2025-05-02 06:07:16,121 - root - INFO - MLP Epoch 141/1000, Loss: 1.3766
+2025-05-02 06:07:22,962 - root - INFO - MLP Epoch 142/1000, Loss: 1.3762
+2025-05-02 06:07:29,933 - root - INFO - MLP Epoch 143/1000, Loss: 1.3766
+2025-05-02 06:07:36,761 - root - INFO - MLP Epoch 144/1000, Loss: 1.3765
+2025-05-02 06:07:43,708 - root - INFO - MLP Epoch 145/1000, Loss: 1.3763
+2025-05-02 06:07:50,625 - root - INFO - MLP Epoch 146/1000, Loss: 1.3766
+2025-05-02 06:07:57,548 - root - INFO - MLP Epoch 147/1000, Loss: 1.3766
+2025-05-02 06:08:04,392 - root - INFO - MLP Epoch 148/1000, Loss: 1.3763
+2025-05-02 06:08:11,327 - root - INFO - MLP Epoch 149/1000, Loss: 1.3764
+2025-05-02 06:08:18,228 - root - INFO - MLP Epoch 150/1000, Loss: 1.3762
+2025-05-02 06:08:24,985 - root - INFO - MLP Epoch 151/1000, Loss: 1.3765
+2025-05-02 06:08:32,037 - root - INFO - MLP Epoch 152/1000, Loss: 1.3763
+2025-05-02 06:08:38,890 - root - INFO - MLP Epoch 153/1000, Loss: 1.3762
+2025-05-02 06:08:45,834 - root - INFO - MLP Epoch 154/1000, Loss: 1.3763
+2025-05-02 06:08:52,726 - root - INFO - MLP Epoch 155/1000, Loss: 1.3760
+2025-05-02 06:08:59,625 - root - INFO - MLP Epoch 156/1000, Loss: 1.3760
+2025-05-02 06:09:06,667 - root - INFO - MLP Epoch 157/1000, Loss: 1.3761
+2025-05-02 06:09:13,503 - root - INFO - MLP Epoch 158/1000, Loss: 1.3760
+2025-05-02 06:09:20,304 - root - INFO - MLP Epoch 159/1000, Loss: 1.3760
+2025-05-02 06:09:26,992 - root - INFO - MLP Epoch 160/1000, Loss: 1.3761
+2025-05-02 06:09:33,767 - root - INFO - MLP Epoch 161/1000, Loss: 1.3763
+2025-05-02 06:09:40,506 - root - INFO - MLP Epoch 162/1000, Loss: 1.3759
+2025-05-02 06:09:47,224 - root - INFO - MLP Epoch 163/1000, Loss: 1.3755
+2025-05-02 06:09:53,927 - root - INFO - MLP Epoch 164/1000, Loss: 1.3760
+2025-05-02 06:10:00,823 - root - INFO - MLP Epoch 165/1000, Loss: 1.3756
+2025-05-02 06:10:07,734 - root - INFO - MLP Epoch 166/1000, Loss: 1.3760
+2025-05-02 06:10:14,614 - root - INFO - MLP Epoch 167/1000, Loss: 1.3756
+2025-05-02 06:10:21,283 - root - INFO - MLP Epoch 168/1000, Loss: 1.3756
+2025-05-02 06:10:28,076 - root - INFO - MLP Epoch 169/1000, Loss: 1.3754
+2025-05-02 06:10:35,028 - root - INFO - MLP Epoch 170/1000, Loss: 1.3759
+2025-05-02 06:10:41,923 - root - INFO - MLP Epoch 171/1000, Loss: 1.3755
+2025-05-02 06:10:48,741 - root - INFO - MLP Epoch 172/1000, Loss: 1.3755
+2025-05-02 06:10:55,480 - root - INFO - MLP Epoch 173/1000, Loss: 1.3754
+2025-05-02 06:11:02,213 - root - INFO - MLP Epoch 174/1000, Loss: 1.3753
+2025-05-02 06:11:09,149 - root - INFO - MLP Epoch 175/1000, Loss: 1.3755
+2025-05-02 06:11:16,174 - root - INFO - MLP Epoch 176/1000, Loss: 1.3755
+2025-05-02 06:11:23,014 - root - INFO - MLP Epoch 177/1000, Loss: 1.3751
+2025-05-02 06:11:29,844 - root - INFO - MLP Epoch 178/1000, Loss: 1.3753
+2025-05-02 06:11:36,715 - root - INFO - MLP Epoch 179/1000, Loss: 1.3755
+2025-05-02 06:11:43,483 - root - INFO - MLP Epoch 180/1000, Loss: 1.3752
+2025-05-02 06:11:50,250 - root - INFO - MLP Epoch 181/1000, Loss: 1.3753
+2025-05-02 06:11:56,998 - root - INFO - MLP Epoch 182/1000, Loss: 1.3752
+2025-05-02 06:12:03,926 - root - INFO - MLP Epoch 183/1000, Loss: 1.3749
+2025-05-02 06:12:10,975 - root - INFO - MLP Epoch 184/1000, Loss: 1.3752
+2025-05-02 06:12:17,693 - root - INFO - MLP Epoch 185/1000, Loss: 1.3754
+2025-05-02 06:12:24,405 - root - INFO - MLP Epoch 186/1000, Loss: 1.3749
+2025-05-02 06:12:31,361 - root - INFO - MLP Epoch 187/1000, Loss: 1.3749
+2025-05-02 06:12:38,176 - root - INFO - MLP Epoch 188/1000, Loss: 1.3748
+2025-05-02 06:12:45,021 - root - INFO - MLP Epoch 189/1000, Loss: 1.3747
+2025-05-02 06:12:51,995 - root - INFO - MLP Epoch 190/1000, Loss: 1.3749
+2025-05-02 06:12:58,838 - root - INFO - MLP Epoch 191/1000, Loss: 1.3748
+2025-05-02 06:13:05,688 - root - INFO - MLP Epoch 192/1000, Loss: 1.3749
+2025-05-02 06:13:12,580 - root - INFO - MLP Epoch 193/1000, Loss: 1.3749
+2025-05-02 06:13:19,525 - root - INFO - MLP Epoch 194/1000, Loss: 1.3745
+2025-05-02 06:13:26,475 - root - INFO - MLP Epoch 195/1000, Loss: 1.3750
+2025-05-02 06:13:33,483 - root - INFO - MLP Epoch 196/1000, Loss: 1.3747
+2025-05-02 06:13:40,380 - root - INFO - MLP Epoch 197/1000, Loss: 1.3748
+2025-05-02 06:13:47,236 - root - INFO - MLP Epoch 198/1000, Loss: 1.3747
+2025-05-02 06:13:54,141 - root - INFO - MLP Epoch 199/1000, Loss: 1.3746
+2025-05-02 06:14:01,125 - root - INFO - MLP Epoch 200/1000, Loss: 1.3745
+2025-05-02 06:14:07,919 - root - INFO - MLP Epoch 201/1000, Loss: 1.3747
+2025-05-02 06:14:15,248 - root - INFO - MLP Epoch 202/1000, Loss: 1.3744
+2025-05-02 06:14:22,187 - root - INFO - MLP Epoch 203/1000, Loss: 1.3746
+2025-05-02 06:14:29,068 - root - INFO - MLP Epoch 204/1000, Loss: 1.3747
+2025-05-02 06:14:35,901 - root - INFO - MLP Epoch 205/1000, Loss: 1.3748
+2025-05-02 06:14:42,778 - root - INFO - MLP Epoch 206/1000, Loss: 1.3743
+2025-05-02 06:14:49,849 - root - INFO - MLP Epoch 207/1000, Loss: 1.3745
+2025-05-02 06:14:56,687 - root - INFO - MLP Epoch 208/1000, Loss: 1.3745
+2025-05-02 06:15:03,635 - root - INFO - MLP Epoch 209/1000, Loss: 1.3743
+2025-05-02 06:15:10,575 - root - INFO - MLP Epoch 210/1000, Loss: 1.3746
+2025-05-02 06:15:17,538 - root - INFO - MLP Epoch 211/1000, Loss: 1.3744
+2025-05-02 06:15:24,558 - root - INFO - MLP Epoch 212/1000, Loss: 1.3743
+2025-05-02 06:15:31,356 - root - INFO - MLP Epoch 213/1000, Loss: 1.3742
+2025-05-02 06:15:38,184 - root - INFO - MLP Epoch 214/1000, Loss: 1.3745
+2025-05-02 06:15:44,985 - root - INFO - MLP Epoch 215/1000, Loss: 1.3743
+2025-05-02 06:15:51,714 - root - INFO - MLP Epoch 216/1000, Loss: 1.3743
+2025-05-02 06:15:58,677 - root - INFO - MLP Epoch 217/1000, Loss: 1.3741
+2025-05-02 06:16:05,451 - root - INFO - MLP Epoch 218/1000, Loss: 1.3741
+2025-05-02 06:16:12,286 - root - INFO - MLP Epoch 219/1000, Loss: 1.3742
+2025-05-02 06:16:19,135 - root - INFO - MLP Epoch 220/1000, Loss: 1.3743
+2025-05-02 06:16:26,015 - root - INFO - MLP Epoch 221/1000, Loss: 1.3742
+2025-05-02 06:16:32,897 - root - INFO - MLP Epoch 222/1000, Loss: 1.3741
+2025-05-02 06:16:39,726 - root - INFO - MLP Epoch 223/1000, Loss: 1.3742
+2025-05-02 06:16:46,602 - root - INFO - MLP Epoch 224/1000, Loss: 1.3739
+2025-05-02 06:16:53,445 - root - INFO - MLP Epoch 225/1000, Loss: 1.3743
+2025-05-02 06:17:00,394 - root - INFO - MLP Epoch 226/1000, Loss: 1.3740
+2025-05-02 06:17:07,254 - root - INFO - MLP Epoch 227/1000, Loss: 1.3740
+2025-05-02 06:17:13,997 - root - INFO - MLP Epoch 228/1000, Loss: 1.3740
+2025-05-02 06:17:20,767 - root - INFO - MLP Epoch 229/1000, Loss: 1.3739
+2025-05-02 06:17:27,595 - root - INFO - MLP Epoch 230/1000, Loss: 1.3740
+2025-05-02 06:17:34,493 - root - INFO - MLP Epoch 231/1000, Loss: 1.3737
+2025-05-02 06:17:41,342 - root - INFO - MLP Epoch 232/1000, Loss: 1.3737
+2025-05-02 06:17:48,201 - root - INFO - MLP Epoch 233/1000, Loss: 1.3735
+2025-05-02 06:17:55,049 - root - INFO - MLP Epoch 234/1000, Loss: 1.3737
+2025-05-02 06:18:01,966 - root - INFO - MLP Epoch 235/1000, Loss: 1.3735
+2025-05-02 06:18:08,875 - root - INFO - MLP Epoch 236/1000, Loss: 1.3740
+2025-05-02 06:18:15,602 - root - INFO - MLP Epoch 237/1000, Loss: 1.3741
+2025-05-02 06:18:22,571 - root - INFO - MLP Epoch 238/1000, Loss: 1.3737
+2025-05-02 06:18:29,448 - root - INFO - MLP Epoch 239/1000, Loss: 1.3735
+2025-05-02 06:18:36,380 - root - INFO - MLP Epoch 240/1000, Loss: 1.3736
+2025-05-02 06:18:43,173 - root - INFO - MLP Epoch 241/1000, Loss: 1.3736
+2025-05-02 06:18:50,072 - root - INFO - MLP Epoch 242/1000, Loss: 1.3738
+2025-05-02 06:18:57,015 - root - INFO - MLP Epoch 243/1000, Loss: 1.3734
+2025-05-02 06:19:03,893 - root - INFO - MLP Epoch 244/1000, Loss: 1.3735
+2025-05-02 06:19:10,718 - root - INFO - MLP Epoch 245/1000, Loss: 1.3734
+2025-05-02 06:19:17,705 - root - INFO - MLP Epoch 246/1000, Loss: 1.3735
+2025-05-02 06:19:24,766 - root - INFO - MLP Epoch 247/1000, Loss: 1.3736
+2025-05-02 06:19:31,582 - root - INFO - MLP Epoch 248/1000, Loss: 1.3735
+2025-05-02 06:19:38,408 - root - INFO - MLP Epoch 249/1000, Loss: 1.3734
+2025-05-02 06:19:45,244 - root - INFO - MLP Epoch 250/1000, Loss: 1.3733
+2025-05-02 06:19:51,907 - root - INFO - MLP Epoch 251/1000, Loss: 1.3733
+2025-05-02 06:19:58,831 - root - INFO - MLP Epoch 252/1000, Loss: 1.3732
+2025-05-02 06:20:05,828 - root - INFO - MLP Epoch 253/1000, Loss: 1.3733
+2025-05-02 06:20:12,689 - root - INFO - MLP Epoch 254/1000, Loss: 1.3731
+2025-05-02 06:20:19,525 - root - INFO - MLP Epoch 255/1000, Loss: 1.3732
+2025-05-02 06:20:26,342 - root - INFO - MLP Epoch 256/1000, Loss: 1.3731
+2025-05-02 06:20:33,264 - root - INFO - MLP Epoch 257/1000, Loss: 1.3735
+2025-05-02 06:20:40,077 - root - INFO - MLP Epoch 258/1000, Loss: 1.3731
+2025-05-02 06:20:47,000 - root - INFO - MLP Epoch 259/1000, Loss: 1.3731
+2025-05-02 06:20:53,861 - root - INFO - MLP Epoch 260/1000, Loss: 1.3731
+2025-05-02 06:21:00,661 - root - INFO - MLP Epoch 261/1000, Loss: 1.3730
+2025-05-02 06:21:07,482 - root - INFO - MLP Epoch 262/1000, Loss: 1.3729
+2025-05-02 06:21:14,376 - root - INFO - MLP Epoch 263/1000, Loss: 1.3730
+2025-05-02 06:21:21,258 - root - INFO - MLP Epoch 264/1000, Loss: 1.3734
+2025-05-02 06:21:28,052 - root - INFO - MLP Epoch 265/1000, Loss: 1.3730
+2025-05-02 06:21:34,788 - root - INFO - MLP Epoch 266/1000, Loss: 1.3731
+2025-05-02 06:21:41,610 - root - INFO - MLP Epoch 267/1000, Loss: 1.3730
+2025-05-02 06:21:48,372 - root - INFO - MLP Epoch 268/1000, Loss: 1.3730
+2025-05-02 06:21:55,097 - root - INFO - MLP Epoch 269/1000, Loss: 1.3729
+2025-05-02 06:22:02,015 - root - INFO - MLP Epoch 270/1000, Loss: 1.3730
+2025-05-02 06:22:09,005 - root - INFO - MLP Epoch 271/1000, Loss: 1.3728
+2025-05-02 06:22:16,017 - root - INFO - MLP Epoch 272/1000, Loss: 1.3730
+2025-05-02 06:22:22,960 - root - INFO - MLP Epoch 273/1000, Loss: 1.3731
+2025-05-02 06:22:29,834 - root - INFO - MLP Epoch 274/1000, Loss: 1.3727
+2025-05-02 06:22:36,626 - root - INFO - MLP Epoch 275/1000, Loss: 1.3729
+2025-05-02 06:22:43,536 - root - INFO - MLP Epoch 276/1000, Loss: 1.3727
+2025-05-02 06:22:50,333 - root - INFO - MLP Epoch 277/1000, Loss: 1.3731
+2025-05-02 06:22:57,205 - root - INFO - MLP Epoch 278/1000, Loss: 1.3728
+2025-05-02 06:23:04,089 - root - INFO - MLP Epoch 279/1000, Loss: 1.3729
+2025-05-02 06:23:11,001 - root - INFO - MLP Epoch 280/1000, Loss: 1.3725
+2025-05-02 06:23:17,752 - root - INFO - MLP Epoch 281/1000, Loss: 1.3728
+2025-05-02 06:23:24,602 - root - INFO - MLP Epoch 282/1000, Loss: 1.3723
+2025-05-02 06:23:31,487 - root - INFO - MLP Epoch 283/1000, Loss: 1.3727
+2025-05-02 06:23:38,531 - root - INFO - MLP Epoch 284/1000, Loss: 1.3728
+2025-05-02 06:23:45,399 - root - INFO - MLP Epoch 285/1000, Loss: 1.3728
+2025-05-02 06:23:52,171 - root - INFO - MLP Epoch 286/1000, Loss: 1.3726
+2025-05-02 06:23:59,023 - root - INFO - MLP Epoch 287/1000, Loss: 1.3725
+2025-05-02 06:24:05,921 - root - INFO - MLP Epoch 288/1000, Loss: 1.3726
+2025-05-02 06:24:12,836 - root - INFO - MLP Epoch 289/1000, Loss: 1.3727
+2025-05-02 06:24:19,765 - root - INFO - MLP Epoch 290/1000, Loss: 1.3725
+2025-05-02 06:24:26,657 - root - INFO - MLP Epoch 291/1000, Loss: 1.3727
+2025-05-02 06:24:33,525 - root - INFO - MLP Epoch 292/1000, Loss: 1.3727
+2025-05-02 06:24:40,353 - root - INFO - MLP Epoch 293/1000, Loss: 1.3723
+2025-05-02 06:24:47,391 - root - INFO - MLP Epoch 294/1000, Loss: 1.3726
+2025-05-02 06:24:54,349 - root - INFO - MLP Epoch 295/1000, Loss: 1.3725
+2025-05-02 06:25:01,257 - root - INFO - MLP Epoch 296/1000, Loss: 1.3722
+2025-05-02 06:25:08,135 - root - INFO - MLP Epoch 297/1000, Loss: 1.3722
+2025-05-02 06:25:15,020 - root - INFO - MLP Epoch 298/1000, Loss: 1.3723
+2025-05-02 06:25:22,064 - root - INFO - MLP Epoch 299/1000, Loss: 1.3724
+2025-05-02 06:25:29,030 - root - INFO - MLP Epoch 300/1000, Loss: 1.3722
+2025-05-02 06:25:35,819 - root - INFO - MLP Epoch 301/1000, Loss: 1.3723
+2025-05-02 06:25:42,672 - root - INFO - MLP Epoch 302/1000, Loss: 1.3726
+2025-05-02 06:25:49,558 - root - INFO - MLP Epoch 303/1000, Loss: 1.3723
+2025-05-02 06:25:56,500 - root - INFO - MLP Epoch 304/1000, Loss: 1.3721
+2025-05-02 06:26:03,548 - root - INFO - MLP Epoch 305/1000, Loss: 1.3721
+2025-05-02 06:26:10,324 - root - INFO - MLP Epoch 306/1000, Loss: 1.3727
+2025-05-02 06:26:17,089 - root - INFO - MLP Epoch 307/1000, Loss: 1.3721
+2025-05-02 06:26:23,883 - root - INFO - MLP Epoch 308/1000, Loss: 1.3723
+2025-05-02 06:26:30,606 - root - INFO - MLP Epoch 309/1000, Loss: 1.3722
+2025-05-02 06:26:37,617 - root - INFO - MLP Epoch 310/1000, Loss: 1.3720
+2025-05-02 06:26:44,447 - root - INFO - MLP Epoch 311/1000, Loss: 1.3721
+2025-05-02 06:26:51,418 - root - INFO - MLP Epoch 312/1000, Loss: 1.3722
+2025-05-02 06:26:58,363 - root - INFO - MLP Epoch 313/1000, Loss: 1.3723
+2025-05-02 06:27:05,478 - root - INFO - MLP Epoch 314/1000, Loss: 1.3719
+2025-05-02 06:27:12,249 - root - INFO - MLP Epoch 315/1000, Loss: 1.3719
+2025-05-02 06:27:19,074 - root - INFO - MLP Epoch 316/1000, Loss: 1.3719
+2025-05-02 06:27:26,031 - root - INFO - MLP Epoch 317/1000, Loss: 1.3718
+2025-05-02 06:27:32,958 - root - INFO - MLP Epoch 318/1000, Loss: 1.3716
+2025-05-02 06:27:39,800 - root - INFO - MLP Epoch 319/1000, Loss: 1.3718
+2025-05-02 06:27:46,580 - root - INFO - MLP Epoch 320/1000, Loss: 1.3719
+2025-05-02 06:27:53,447 - root - INFO - MLP Epoch 321/1000, Loss: 1.3724
+2025-05-02 06:28:00,382 - root - INFO - MLP Epoch 322/1000, Loss: 1.3717
+2025-05-02 06:28:07,369 - root - INFO - MLP Epoch 323/1000, Loss: 1.3718
+2025-05-02 06:28:14,412 - root - INFO - MLP Epoch 324/1000, Loss: 1.3718
+2025-05-02 06:28:21,303 - root - INFO - MLP Epoch 325/1000, Loss: 1.3714
+2025-05-02 06:28:28,174 - root - INFO - MLP Epoch 326/1000, Loss: 1.3719
+2025-05-02 06:28:34,882 - root - INFO - MLP Epoch 327/1000, Loss: 1.3717
+2025-05-02 06:28:41,952 - root - INFO - MLP Epoch 328/1000, Loss: 1.3717
+2025-05-02 06:28:48,947 - root - INFO - MLP Epoch 329/1000, Loss: 1.3715
+2025-05-02 06:28:55,767 - root - INFO - MLP Epoch 330/1000, Loss: 1.3719
+2025-05-02 06:29:02,699 - root - INFO - MLP Epoch 331/1000, Loss: 1.3716
+2025-05-02 06:29:09,420 - root - INFO - MLP Epoch 332/1000, Loss: 1.3716
+2025-05-02 06:29:16,258 - root - INFO - MLP Epoch 333/1000, Loss: 1.3720
+2025-05-02 06:29:23,043 - root - INFO - MLP Epoch 334/1000, Loss: 1.3716
+2025-05-02 06:29:29,761 - root - INFO - MLP Epoch 335/1000, Loss: 1.3715
+2025-05-02 06:29:36,639 - root - INFO - MLP Epoch 336/1000, Loss: 1.3714
+2025-05-02 06:29:43,563 - root - INFO - MLP Epoch 337/1000, Loss: 1.3716
+2025-05-02 06:29:50,477 - root - INFO - MLP Epoch 338/1000, Loss: 1.3712
+2025-05-02 06:29:57,193 - root - INFO - MLP Epoch 339/1000, Loss: 1.3715
+2025-05-02 06:30:04,196 - root - INFO - MLP Epoch 340/1000, Loss: 1.3713
+2025-05-02 06:30:10,987 - root - INFO - MLP Epoch 341/1000, Loss: 1.3715
+2025-05-02 06:30:17,820 - root - INFO - MLP Epoch 342/1000, Loss: 1.3712
+2025-05-02 06:30:24,694 - root - INFO - MLP Epoch 343/1000, Loss: 1.3715
+2025-05-02 06:30:31,618 - root - INFO - MLP Epoch 344/1000, Loss: 1.3713
+2025-05-02 06:30:38,459 - root - INFO - MLP Epoch 345/1000, Loss: 1.3715
+2025-05-02 06:30:45,461 - root - INFO - MLP Epoch 346/1000, Loss: 1.3713
+2025-05-02 06:30:52,286 - root - INFO - MLP Epoch 347/1000, Loss: 1.3713
+2025-05-02 06:30:59,181 - root - INFO - MLP Epoch 348/1000, Loss: 1.3713
+2025-05-02 06:31:05,998 - root - INFO - MLP Epoch 349/1000, Loss: 1.3714
+2025-05-02 06:31:12,838 - root - INFO - MLP Epoch 350/1000, Loss: 1.3712
+2025-05-02 06:31:19,715 - root - INFO - MLP Epoch 351/1000, Loss: 1.3714
+2025-05-02 06:31:26,520 - root - INFO - MLP Epoch 352/1000, Loss: 1.3710
+2025-05-02 06:31:33,466 - root - INFO - MLP Epoch 353/1000, Loss: 1.3710
+2025-05-02 06:31:40,373 - root - INFO - MLP Epoch 354/1000, Loss: 1.3712
+2025-05-02 06:31:47,205 - root - INFO - MLP Epoch 355/1000, Loss: 1.3711
+2025-05-02 06:31:54,069 - root - INFO - MLP Epoch 356/1000, Loss: 1.3717
+2025-05-02 06:32:00,994 - root - INFO - MLP Epoch 357/1000, Loss: 1.3710
+2025-05-02 06:32:07,735 - root - INFO - MLP Epoch 358/1000, Loss: 1.3713
+2025-05-02 06:32:14,537 - root - INFO - MLP Epoch 359/1000, Loss: 1.3716
+2025-05-02 06:32:21,407 - root - INFO - MLP Epoch 360/1000, Loss: 1.3709
+2025-05-02 06:32:28,307 - root - INFO - MLP Epoch 361/1000, Loss: 1.3711
+2025-05-02 06:32:35,111 - root - INFO - MLP Epoch 362/1000, Loss: 1.3711
+2025-05-02 06:32:42,117 - root - INFO - MLP Epoch 363/1000, Loss: 1.3710
+2025-05-02 06:32:48,921 - root - INFO - MLP Epoch 364/1000, Loss: 1.3711
+2025-05-02 06:32:55,738 - root - INFO - MLP Epoch 365/1000, Loss: 1.3710
+2025-05-02 06:33:02,683 - root - INFO - MLP Epoch 366/1000, Loss: 1.3708
+2025-05-02 06:33:09,633 - root - INFO - MLP Epoch 367/1000, Loss: 1.3709
+2025-05-02 06:33:16,498 - root - INFO - MLP Epoch 368/1000, Loss: 1.3710
+2025-05-02 06:33:23,370 - root - INFO - MLP Epoch 369/1000, Loss: 1.3707
+2025-05-02 06:33:30,277 - root - INFO - MLP Epoch 370/1000, Loss: 1.3710
+2025-05-02 06:33:37,051 - root - INFO - MLP Epoch 371/1000, Loss: 1.3705
+2025-05-02 06:33:43,909 - root - INFO - MLP Epoch 372/1000, Loss: 1.3708
+2025-05-02 06:33:50,874 - root - INFO - MLP Epoch 373/1000, Loss: 1.3706
+2025-05-02 06:33:57,646 - root - INFO - MLP Epoch 374/1000, Loss: 1.3707
+2025-05-02 06:34:04,428 - root - INFO - MLP Epoch 375/1000, Loss: 1.3707
+2025-05-02 06:34:11,324 - root - INFO - MLP Epoch 376/1000, Loss: 1.3710
+2025-05-02 06:34:18,242 - root - INFO - MLP Epoch 377/1000, Loss: 1.3706
+2025-05-02 06:34:25,077 - root - INFO - MLP Epoch 378/1000, Loss: 1.3706
+2025-05-02 06:34:31,915 - root - INFO - MLP Epoch 379/1000, Loss: 1.3707
+2025-05-02 06:34:38,812 - root - INFO - MLP Epoch 380/1000, Loss: 1.3706
+2025-05-02 06:34:45,848 - root - INFO - MLP Epoch 381/1000, Loss: 1.3708
+2025-05-02 06:34:52,733 - root - INFO - MLP Epoch 382/1000, Loss: 1.3707
+2025-05-02 06:34:59,573 - root - INFO - MLP Epoch 383/1000, Loss: 1.3709
+2025-05-02 06:35:06,389 - root - INFO - MLP Epoch 384/1000, Loss: 1.3704
+2025-05-02 06:35:13,243 - root - INFO - MLP Epoch 385/1000, Loss: 1.3703
+2025-05-02 06:35:19,996 - root - INFO - MLP Epoch 386/1000, Loss: 1.3709
+2025-05-02 06:35:26,868 - root - INFO - MLP Epoch 387/1000, Loss: 1.3705
+2025-05-02 06:35:33,737 - root - INFO - MLP Epoch 388/1000, Loss: 1.3705
+2025-05-02 06:35:40,568 - root - INFO - MLP Epoch 389/1000, Loss: 1.3704
+2025-05-02 06:35:47,475 - root - INFO - MLP Epoch 390/1000, Loss: 1.3705
+2025-05-02 06:35:54,410 - root - INFO - MLP Epoch 391/1000, Loss: 1.3705
+2025-05-02 06:36:01,569 - root - INFO - MLP Epoch 392/1000, Loss: 1.3703
+2025-05-02 06:36:08,477 - root - INFO - MLP Epoch 393/1000, Loss: 1.3705
+2025-05-02 06:36:15,436 - root - INFO - MLP Epoch 394/1000, Loss: 1.3706
+2025-05-02 06:36:22,310 - root - INFO - MLP Epoch 395/1000, Loss: 1.3709
+2025-05-02 06:36:29,189 - root - INFO - MLP Epoch 396/1000, Loss: 1.3706
+2025-05-02 06:36:35,988 - root - INFO - MLP Epoch 397/1000, Loss: 1.3706
+2025-05-02 06:36:42,891 - root - INFO - MLP Epoch 398/1000, Loss: 1.3702
+2025-05-02 06:36:49,777 - root - INFO - MLP Epoch 399/1000, Loss: 1.3705
+2025-05-02 06:36:56,664 - root - INFO - MLP Epoch 400/1000, Loss: 1.3703
+2025-05-02 06:37:03,549 - root - INFO - MLP Epoch 401/1000, Loss: 1.3701
+2025-05-02 06:37:10,341 - root - INFO - MLP Epoch 402/1000, Loss: 1.3707
+2025-05-02 06:37:17,242 - root - INFO - MLP Epoch 403/1000, Loss: 1.3707
+2025-05-02 06:37:24,285 - root - INFO - MLP Epoch 404/1000, Loss: 1.3702
+2025-05-02 06:37:31,262 - root - INFO - MLP Epoch 405/1000, Loss: 1.3701
+2025-05-02 06:37:37,953 - root - INFO - MLP Epoch 406/1000, Loss: 1.3702
+2025-05-02 06:37:44,793 - root - INFO - MLP Epoch 407/1000, Loss: 1.3701
+2025-05-02 06:37:51,657 - root - INFO - MLP Epoch 408/1000, Loss: 1.3702
+2025-05-02 06:37:58,563 - root - INFO - MLP Epoch 409/1000, Loss: 1.3703
+2025-05-02 06:38:05,431 - root - INFO - MLP Epoch 410/1000, Loss: 1.3700
+2025-05-02 06:38:12,370 - root - INFO - MLP Epoch 411/1000, Loss: 1.3705
+2025-05-02 06:38:19,244 - root - INFO - MLP Epoch 412/1000, Loss: 1.3699
+2025-05-02 06:38:26,805 - root - INFO - MLP Epoch 413/1000, Loss: 1.3702
+2025-05-02 06:38:33,684 - root - INFO - MLP Epoch 414/1000, Loss: 1.3697
+2025-05-02 06:38:40,504 - root - INFO - MLP Epoch 415/1000, Loss: 1.3700
+2025-05-02 06:38:47,504 - root - INFO - MLP Epoch 416/1000, Loss: 1.3702
+2025-05-02 06:38:54,501 - root - INFO - MLP Epoch 417/1000, Loss: 1.3700
+2025-05-02 06:39:01,507 - root - INFO - MLP Epoch 418/1000, Loss: 1.3703
+2025-05-02 06:39:08,387 - root - INFO - MLP Epoch 419/1000, Loss: 1.3699
+2025-05-02 06:39:15,323 - root - INFO - MLP Epoch 420/1000, Loss: 1.3697
+2025-05-02 06:39:22,202 - root - INFO - MLP Epoch 421/1000, Loss: 1.3702
+2025-05-02 06:39:29,034 - root - INFO - MLP Epoch 422/1000, Loss: 1.3698
+2025-05-02 06:39:35,957 - root - INFO - MLP Epoch 423/1000, Loss: 1.3698
+2025-05-02 06:39:42,804 - root - INFO - MLP Epoch 424/1000, Loss: 1.3704
+2025-05-02 06:39:49,593 - root - INFO - MLP Epoch 425/1000, Loss: 1.3701
+2025-05-02 06:39:56,459 - root - INFO - MLP Epoch 426/1000, Loss: 1.3693
+2025-05-02 06:40:03,418 - root - INFO - MLP Epoch 427/1000, Loss: 1.3701
+2025-05-02 06:40:10,345 - root - INFO - MLP Epoch 428/1000, Loss: 1.3699
+2025-05-02 06:40:17,213 - root - INFO - MLP Epoch 429/1000, Loss: 1.3698
+2025-05-02 06:40:24,063 - root - INFO - MLP Epoch 430/1000, Loss: 1.3697
+2025-05-02 06:40:30,886 - root - INFO - MLP Epoch 431/1000, Loss: 1.3699
+2025-05-02 06:40:37,758 - root - INFO - MLP Epoch 432/1000, Loss: 1.3697
+2025-05-02 06:40:44,797 - root - INFO - MLP Epoch 433/1000, Loss: 1.3701
+2025-05-02 06:40:51,670 - root - INFO - MLP Epoch 434/1000, Loss: 1.3693
+2025-05-02 06:40:58,591 - root - INFO - MLP Epoch 435/1000, Loss: 1.3697
+2025-05-02 06:41:05,603 - root - INFO - MLP Epoch 436/1000, Loss: 1.3698
+2025-05-02 06:41:12,433 - root - INFO - MLP Epoch 437/1000, Loss: 1.3696
+2025-05-02 06:41:19,294 - root - INFO - MLP Epoch 438/1000, Loss: 1.3699
+2025-05-02 06:41:26,085 - root - INFO - MLP Epoch 439/1000, Loss: 1.3695
+2025-05-02 06:41:33,124 - root - INFO - MLP Epoch 440/1000, Loss: 1.3696
+2025-05-02 06:41:39,962 - root - INFO - MLP Epoch 441/1000, Loss: 1.3697
+2025-05-02 06:41:46,805 - root - INFO - MLP Epoch 442/1000, Loss: 1.3696
+2025-05-02 06:41:53,778 - root - INFO - MLP Epoch 443/1000, Loss: 1.3697
+2025-05-02 06:42:00,572 - root - INFO - MLP Epoch 444/1000, Loss: 1.3699
+2025-05-02 06:42:07,310 - root - INFO - MLP Epoch 445/1000, Loss: 1.3697
+2025-05-02 06:42:14,103 - root - INFO - MLP Epoch 446/1000, Loss: 1.3694
+2025-05-02 06:42:21,001 - root - INFO - MLP Epoch 447/1000, Loss: 1.3696
+2025-05-02 06:42:27,894 - root - INFO - MLP Epoch 448/1000, Loss: 1.3694
+2025-05-02 06:42:34,786 - root - INFO - MLP Epoch 449/1000, Loss: 1.3695
+2025-05-02 06:42:41,627 - root - INFO - MLP Epoch 450/1000, Loss: 1.3697
+2025-05-02 06:42:48,442 - root - INFO - MLP Epoch 451/1000, Loss: 1.3696
+2025-05-02 06:42:55,389 - root - INFO - MLP Epoch 452/1000, Loss: 1.3697
+2025-05-02 06:43:02,222 - root - INFO - MLP Epoch 453/1000, Loss: 1.3695
+2025-05-02 06:43:09,066 - root - INFO - MLP Epoch 454/1000, Loss: 1.3693
+2025-05-02 06:43:16,006 - root - INFO - MLP Epoch 455/1000, Loss: 1.3694
+2025-05-02 06:43:22,813 - root - INFO - MLP Epoch 456/1000, Loss: 1.3694
+2025-05-02 06:43:29,755 - root - INFO - MLP Epoch 457/1000, Loss: 1.3695
+2025-05-02 06:43:36,538 - root - INFO - MLP Epoch 458/1000, Loss: 1.3692
+2025-05-02 06:43:43,608 - root - INFO - MLP Epoch 459/1000, Loss: 1.3693
+2025-05-02 06:43:50,599 - root - INFO - MLP Epoch 460/1000, Loss: 1.3692
+2025-05-02 06:43:57,525 - root - INFO - MLP Epoch 461/1000, Loss: 1.3691
+2025-05-02 06:44:04,248 - root - INFO - MLP Epoch 462/1000, Loss: 1.3697
+2025-05-02 06:44:11,153 - root - INFO - MLP Epoch 463/1000, Loss: 1.3692
+2025-05-02 06:44:18,103 - root - INFO - MLP Epoch 464/1000, Loss: 1.3693
+2025-05-02 06:44:25,040 - root - INFO - MLP Epoch 465/1000, Loss: 1.3692
+2025-05-02 06:44:32,109 - root - INFO - MLP Epoch 466/1000, Loss: 1.3697
+2025-05-02 06:44:39,059 - root - INFO - MLP Epoch 467/1000, Loss: 1.3694
+2025-05-02 06:44:45,907 - root - INFO - MLP Epoch 468/1000, Loss: 1.3691
+2025-05-02 06:44:52,741 - root - INFO - MLP Epoch 469/1000, Loss: 1.3693
+2025-05-02 06:44:59,774 - root - INFO - MLP Epoch 470/1000, Loss: 1.3694
+2025-05-02 06:45:06,544 - root - INFO - MLP Epoch 471/1000, Loss: 1.3694
+2025-05-02 06:45:13,447 - root - INFO - MLP Epoch 472/1000, Loss: 1.3694
+2025-05-02 06:45:20,325 - root - INFO - MLP Epoch 473/1000, Loss: 1.3691
+2025-05-02 06:45:27,407 - root - INFO - MLP Epoch 474/1000, Loss: 1.3690
+2025-05-02 06:45:34,462 - root - INFO - MLP Epoch 475/1000, Loss: 1.3694
+2025-05-02 06:45:41,394 - root - INFO - MLP Epoch 476/1000, Loss: 1.3686
+2025-05-02 06:45:48,086 - root - INFO - MLP Epoch 477/1000, Loss: 1.3691
+2025-05-02 06:45:54,830 - root - INFO - MLP Epoch 478/1000, Loss: 1.3690
+2025-05-02 06:46:01,758 - root - INFO - MLP Epoch 479/1000, Loss: 1.3689
+2025-05-02 06:46:08,642 - root - INFO - MLP Epoch 480/1000, Loss: 1.3688
+2025-05-02 06:46:15,531 - root - INFO - MLP Epoch 481/1000, Loss: 1.3689
+2025-05-02 06:46:22,303 - root - INFO - MLP Epoch 482/1000, Loss: 1.3690
+2025-05-02 06:46:29,266 - root - INFO - MLP Epoch 483/1000, Loss: 1.3687
+2025-05-02 06:46:36,120 - root - INFO - MLP Epoch 484/1000, Loss: 1.3688
+2025-05-02 06:46:42,937 - root - INFO - MLP Epoch 485/1000, Loss: 1.3688
+2025-05-02 06:46:49,941 - root - INFO - MLP Epoch 486/1000, Loss: 1.3690
+2025-05-02 06:46:56,865 - root - INFO - MLP Epoch 487/1000, Loss: 1.3693
+2025-05-02 06:47:03,818 - root - INFO - MLP Epoch 488/1000, Loss: 1.3687
+2025-05-02 06:47:10,767 - root - INFO - MLP Epoch 489/1000, Loss: 1.3690
+2025-05-02 06:47:17,633 - root - INFO - MLP Epoch 490/1000, Loss: 1.3691
+2025-05-02 06:47:24,542 - root - INFO - MLP Epoch 491/1000, Loss: 1.3689
+2025-05-02 06:47:31,432 - root - INFO - MLP Epoch 492/1000, Loss: 1.3689
+2025-05-02 06:47:38,269 - root - INFO - MLP Epoch 493/1000, Loss: 1.3688
+2025-05-02 06:47:45,116 - root - INFO - MLP Epoch 494/1000, Loss: 1.3693
+2025-05-02 06:47:52,073 - root - INFO - MLP Epoch 495/1000, Loss: 1.3690
+2025-05-02 06:47:58,989 - root - INFO - MLP Epoch 496/1000, Loss: 1.3689
+2025-05-02 06:48:05,928 - root - INFO - MLP Epoch 497/1000, Loss: 1.3686
+2025-05-02 06:48:12,970 - root - INFO - MLP Epoch 498/1000, Loss: 1.3691
+2025-05-02 06:48:19,900 - root - INFO - MLP Epoch 499/1000, Loss: 1.3687
+2025-05-02 06:48:26,707 - root - INFO - MLP Epoch 500/1000, Loss: 1.3687
+2025-05-02 06:48:33,562 - root - INFO - MLP Epoch 501/1000, Loss: 1.3690
+2025-05-02 06:48:40,257 - root - INFO - MLP Epoch 502/1000, Loss: 1.3688
+2025-05-02 06:48:47,110 - root - INFO - MLP Epoch 503/1000, Loss: 1.3691
+2025-05-02 06:48:54,057 - root - INFO - MLP Epoch 504/1000, Loss: 1.3689
+2025-05-02 06:49:00,977 - root - INFO - MLP Epoch 505/1000, Loss: 1.3689
+2025-05-02 06:49:07,933 - root - INFO - MLP Epoch 506/1000, Loss: 1.3686
+2025-05-02 06:49:14,633 - root - INFO - MLP Epoch 507/1000, Loss: 1.3692
+2025-05-02 06:49:21,390 - root - INFO - MLP Epoch 508/1000, Loss: 1.3686
+2025-05-02 06:49:28,043 - root - INFO - MLP Epoch 509/1000, Loss: 1.3685
+2025-05-02 06:49:34,735 - root - INFO - MLP Epoch 510/1000, Loss: 1.3686
+2025-05-02 06:49:41,543 - root - INFO - MLP Epoch 511/1000, Loss: 1.3687
+2025-05-02 06:49:48,410 - root - INFO - MLP Epoch 512/1000, Loss: 1.3686
+2025-05-02 06:49:55,207 - root - INFO - MLP Epoch 513/1000, Loss: 1.3687
+2025-05-02 06:50:02,199 - root - INFO - MLP Epoch 514/1000, Loss: 1.3688
+2025-05-02 06:50:09,078 - root - INFO - MLP Epoch 515/1000, Loss: 1.3686
+2025-05-02 06:50:16,070 - root - INFO - MLP Epoch 516/1000, Loss: 1.3687
+2025-05-02 06:50:22,927 - root - INFO - MLP Epoch 517/1000, Loss: 1.3686
+2025-05-02 06:50:29,870 - root - INFO - MLP Epoch 518/1000, Loss: 1.3682
+2025-05-02 06:50:36,695 - root - INFO - MLP Epoch 519/1000, Loss: 1.3684
+2025-05-02 06:50:43,733 - root - INFO - MLP Epoch 520/1000, Loss: 1.3683
+2025-05-02 06:50:50,567 - root - INFO - MLP Epoch 521/1000, Loss: 1.3687
+2025-05-02 06:50:57,525 - root - INFO - MLP Epoch 522/1000, Loss: 1.3689
+2025-05-02 06:51:04,485 - root - INFO - MLP Epoch 523/1000, Loss: 1.3685
+2025-05-02 06:51:11,334 - root - INFO - MLP Epoch 524/1000, Loss: 1.3685
+2025-05-02 06:51:18,161 - root - INFO - MLP Epoch 525/1000, Loss: 1.3685
+2025-05-02 06:51:25,027 - root - INFO - MLP Epoch 526/1000, Loss: 1.3686
+2025-05-02 06:51:31,907 - root - INFO - MLP Epoch 527/1000, Loss: 1.3684
+2025-05-02 06:51:38,904 - root - INFO - MLP Epoch 528/1000, Loss: 1.3684
+2025-05-02 06:51:45,651 - root - INFO - MLP Epoch 529/1000, Loss: 1.3686
+2025-05-02 06:51:52,455 - root - INFO - MLP Epoch 530/1000, Loss: 1.3681
+2025-05-02 06:51:59,459 - root - INFO - MLP Epoch 531/1000, Loss: 1.3684
+2025-05-02 06:52:06,299 - root - INFO - MLP Epoch 532/1000, Loss: 1.3683
+2025-05-02 06:52:13,193 - root - INFO - MLP Epoch 533/1000, Loss: 1.3683
+2025-05-02 06:52:20,132 - root - INFO - MLP Epoch 534/1000, Loss: 1.3684
+2025-05-02 06:52:26,957 - root - INFO - MLP Epoch 535/1000, Loss: 1.3684
+2025-05-02 06:52:34,121 - root - INFO - MLP Epoch 536/1000, Loss: 1.3681
+2025-05-02 06:52:41,004 - root - INFO - MLP Epoch 537/1000, Loss: 1.3684
+2025-05-02 06:52:47,851 - root - INFO - MLP Epoch 538/1000, Loss: 1.3682
+2025-05-02 06:52:54,626 - root - INFO - MLP Epoch 539/1000, Loss: 1.3684
+2025-05-02 06:53:01,688 - root - INFO - MLP Epoch 540/1000, Loss: 1.3686
+2025-05-02 06:53:08,623 - root - INFO - MLP Epoch 541/1000, Loss: 1.3683
+2025-05-02 06:53:15,527 - root - INFO - MLP Epoch 542/1000, Loss: 1.3684
+2025-05-02 06:53:22,452 - root - INFO - MLP Epoch 543/1000, Loss: 1.3683
+2025-05-02 06:53:29,290 - root - INFO - MLP Epoch 544/1000, Loss: 1.3682
+2025-05-02 06:53:36,131 - root - INFO - MLP Epoch 545/1000, Loss: 1.3682
+2025-05-02 06:53:43,056 - root - INFO - MLP Epoch 546/1000, Loss: 1.3683
+2025-05-02 06:53:50,052 - root - INFO - MLP Epoch 547/1000, Loss: 1.3680
+2025-05-02 06:53:56,880 - root - INFO - MLP Epoch 548/1000, Loss: 1.3681
+2025-05-02 06:54:03,869 - root - INFO - MLP Epoch 549/1000, Loss: 1.3685
+2025-05-02 06:54:10,779 - root - INFO - MLP Epoch 550/1000, Loss: 1.3681
+2025-05-02 06:54:17,745 - root - INFO - MLP Epoch 551/1000, Loss: 1.3680
+2025-05-02 06:54:24,673 - root - INFO - MLP Epoch 552/1000, Loss: 1.3680
+2025-05-02 06:54:31,536 - root - INFO - MLP Epoch 553/1000, Loss: 1.3682
+2025-05-02 06:54:38,549 - root - INFO - MLP Epoch 554/1000, Loss: 1.3683
+2025-05-02 06:54:45,446 - root - INFO - MLP Epoch 555/1000, Loss: 1.3683
+2025-05-02 06:54:52,378 - root - INFO - MLP Epoch 556/1000, Loss: 1.3681
+2025-05-02 06:54:59,371 - root - INFO - MLP Epoch 557/1000, Loss: 1.3681
+2025-05-02 06:55:06,215 - root - INFO - MLP Epoch 558/1000, Loss: 1.3683
+2025-05-02 06:55:13,089 - root - INFO - MLP Epoch 559/1000, Loss: 1.3681
+2025-05-02 06:55:20,080 - root - INFO - MLP Epoch 560/1000, Loss: 1.3680
+2025-05-02 06:55:26,946 - root - INFO - MLP Epoch 561/1000, Loss: 1.3680
+2025-05-02 06:55:33,760 - root - INFO - MLP Epoch 562/1000, Loss: 1.3683
+2025-05-02 06:55:40,724 - root - INFO - MLP Epoch 563/1000, Loss: 1.3677
+2025-05-02 06:55:47,526 - root - INFO - MLP Epoch 564/1000, Loss: 1.3679
+2025-05-02 06:55:54,290 - root - INFO - MLP Epoch 565/1000, Loss: 1.3684
+2025-05-02 06:56:01,074 - root - INFO - MLP Epoch 566/1000, Loss: 1.3682
+2025-05-02 06:56:07,927 - root - INFO - MLP Epoch 567/1000, Loss: 1.3681
+2025-05-02 06:56:14,696 - root - INFO - MLP Epoch 568/1000, Loss: 1.3684
+2025-05-02 06:56:21,623 - root - INFO - MLP Epoch 569/1000, Loss: 1.3680
+2025-05-02 06:56:28,414 - root - INFO - MLP Epoch 570/1000, Loss: 1.3679
+2025-05-02 06:56:35,350 - root - INFO - MLP Epoch 571/1000, Loss: 1.3680
+2025-05-02 06:56:42,186 - root - INFO - MLP Epoch 572/1000, Loss: 1.3681
+2025-05-02 06:56:48,983 - root - INFO - MLP Epoch 573/1000, Loss: 1.3678
+2025-05-02 06:56:55,850 - root - INFO - MLP Epoch 574/1000, Loss: 1.3679
+2025-05-02 06:57:02,905 - root - INFO - MLP Epoch 575/1000, Loss: 1.3679
+2025-05-02 06:57:09,768 - root - INFO - MLP Epoch 576/1000, Loss: 1.3679
+2025-05-02 06:57:16,808 - root - INFO - MLP Epoch 577/1000, Loss: 1.3680
+2025-05-02 06:57:23,718 - root - INFO - MLP Epoch 578/1000, Loss: 1.3683
+2025-05-02 06:57:30,640 - root - INFO - MLP Epoch 579/1000, Loss: 1.3680
+2025-05-02 06:57:37,457 - root - INFO - MLP Epoch 580/1000, Loss: 1.3679
+2025-05-02 06:57:44,382 - root - INFO - MLP Epoch 581/1000, Loss: 1.3681
+2025-05-02 06:57:51,207 - root - INFO - MLP Epoch 582/1000, Loss: 1.3679
+2025-05-02 06:57:58,138 - root - INFO - MLP Epoch 583/1000, Loss: 1.3681
+2025-05-02 06:58:04,960 - root - INFO - MLP Epoch 584/1000, Loss: 1.3682
+2025-05-02 06:58:12,131 - root - INFO - MLP Epoch 585/1000, Loss: 1.3681
+2025-05-02 06:58:18,944 - root - INFO - MLP Epoch 586/1000, Loss: 1.3677
+2025-05-02 06:58:25,854 - root - INFO - MLP Epoch 587/1000, Loss: 1.3677
+2025-05-02 06:58:32,692 - root - INFO - MLP Epoch 588/1000, Loss: 1.3675
+2025-05-02 06:58:39,697 - root - INFO - MLP Epoch 589/1000, Loss: 1.3676
+2025-05-02 06:58:46,525 - root - INFO - MLP Epoch 590/1000, Loss: 1.3681
+2025-05-02 06:58:53,716 - root - INFO - MLP Epoch 591/1000, Loss: 1.3677
+2025-05-02 06:59:00,774 - root - INFO - MLP Epoch 592/1000, Loss: 1.3678
+2025-05-02 06:59:07,742 - root - INFO - MLP Epoch 593/1000, Loss: 1.3678
+2025-05-02 06:59:14,589 - root - INFO - MLP Epoch 594/1000, Loss: 1.3678
+2025-05-02 06:59:21,591 - root - INFO - MLP Epoch 595/1000, Loss: 1.3680
+2025-05-02 06:59:28,549 - root - INFO - MLP Epoch 596/1000, Loss: 1.3674
+2025-05-02 06:59:35,389 - root - INFO - MLP Epoch 597/1000, Loss: 1.3678
+2025-05-02 06:59:42,319 - root - INFO - MLP Epoch 598/1000, Loss: 1.3677
+2025-05-02 06:59:49,346 - root - INFO - MLP Epoch 599/1000, Loss: 1.3677
+2025-05-02 06:59:56,197 - root - INFO - MLP Epoch 600/1000, Loss: 1.3677
+2025-05-02 07:00:03,268 - root - INFO - MLP Epoch 601/1000, Loss: 1.3675
+2025-05-02 07:00:10,264 - root - INFO - MLP Epoch 602/1000, Loss: 1.3681
+2025-05-02 07:00:17,208 - root - INFO - MLP Epoch 603/1000, Loss: 1.3673
+2025-05-02 07:00:24,287 - root - INFO - MLP Epoch 604/1000, Loss: 1.3680
+2025-05-02 07:00:31,136 - root - INFO - MLP Epoch 605/1000, Loss: 1.3676
+2025-05-02 07:00:38,060 - root - INFO - MLP Epoch 606/1000, Loss: 1.3675
+2025-05-02 07:00:44,978 - root - INFO - MLP Epoch 607/1000, Loss: 1.3678
+2025-05-02 07:00:51,867 - root - INFO - MLP Epoch 608/1000, Loss: 1.3675
+2025-05-02 07:00:58,795 - root - INFO - MLP Epoch 609/1000, Loss: 1.3676
+2025-05-02 07:01:05,752 - root - INFO - MLP Epoch 610/1000, Loss: 1.3672
+2025-05-02 07:01:12,576 - root - INFO - MLP Epoch 611/1000, Loss: 1.3677
+2025-05-02 07:01:19,454 - root - INFO - MLP Epoch 612/1000, Loss: 1.3674
+2025-05-02 07:01:26,457 - root - INFO - MLP Epoch 613/1000, Loss: 1.3673
+2025-05-02 07:01:33,354 - root - INFO - MLP Epoch 614/1000, Loss: 1.3674
+2025-05-02 07:01:40,215 - root - INFO - MLP Epoch 615/1000, Loss: 1.3675
+2025-05-02 07:01:47,059 - root - INFO - MLP Epoch 616/1000, Loss: 1.3672
+2025-05-02 07:01:53,940 - root - INFO - MLP Epoch 617/1000, Loss: 1.3676
+2025-05-02 07:02:00,857 - root - INFO - MLP Epoch 618/1000, Loss: 1.3675
+2025-05-02 07:02:07,659 - root - INFO - MLP Epoch 619/1000, Loss: 1.3674
+2025-05-02 07:02:14,442 - root - INFO - MLP Epoch 620/1000, Loss: 1.3676
+2025-05-02 07:02:21,310 - root - INFO - MLP Epoch 621/1000, Loss: 1.3671
+2025-05-02 07:02:28,591 - root - INFO - MLP Epoch 622/1000, Loss: 1.3674
+2025-05-02 07:02:35,439 - root - INFO - MLP Epoch 623/1000, Loss: 1.3672
+2025-05-02 07:02:42,306 - root - INFO - MLP Epoch 624/1000, Loss: 1.3672
+2025-05-02 07:02:48,993 - root - INFO - MLP Epoch 625/1000, Loss: 1.3674
+2025-05-02 07:02:55,670 - root - INFO - MLP Epoch 626/1000, Loss: 1.3676
+2025-05-02 07:03:02,583 - root - INFO - MLP Epoch 627/1000, Loss: 1.3676
+2025-05-02 07:03:09,475 - root - INFO - MLP Epoch 628/1000, Loss: 1.3672
+2025-05-02 07:03:16,444 - root - INFO - MLP Epoch 629/1000, Loss: 1.3672
+2025-05-02 07:03:23,358 - root - INFO - MLP Epoch 630/1000, Loss: 1.3673
+2025-05-02 07:03:30,191 - root - INFO - MLP Epoch 631/1000, Loss: 1.3676
+2025-05-02 07:03:37,080 - root - INFO - MLP Epoch 632/1000, Loss: 1.3673
+2025-05-02 07:03:44,058 - root - INFO - MLP Epoch 633/1000, Loss: 1.3676
+2025-05-02 07:03:51,048 - root - INFO - MLP Epoch 634/1000, Loss: 1.3671
+2025-05-02 07:03:57,974 - root - INFO - MLP Epoch 635/1000, Loss: 1.3671
+2025-05-02 07:04:04,884 - root - INFO - MLP Epoch 636/1000, Loss: 1.3675
+2025-05-02 07:04:11,651 - root - INFO - MLP Epoch 637/1000, Loss: 1.3669
+2025-05-02 07:04:18,508 - root - INFO - MLP Epoch 638/1000, Loss: 1.3674
+2025-05-02 07:04:25,450 - root - INFO - MLP Epoch 639/1000, Loss: 1.3670
+2025-05-02 07:04:32,333 - root - INFO - MLP Epoch 640/1000, Loss: 1.3674
+2025-05-02 07:04:39,232 - root - INFO - MLP Epoch 641/1000, Loss: 1.3674
+2025-05-02 07:04:46,170 - root - INFO - MLP Epoch 642/1000, Loss: 1.3675
+2025-05-02 07:04:52,969 - root - INFO - MLP Epoch 643/1000, Loss: 1.3673
+2025-05-02 07:04:59,889 - root - INFO - MLP Epoch 644/1000, Loss: 1.3678
+2025-05-02 07:05:06,848 - root - INFO - MLP Epoch 645/1000, Loss: 1.3673
+2025-05-02 07:05:13,730 - root - INFO - MLP Epoch 646/1000, Loss: 1.3673
+2025-05-02 07:05:20,552 - root - INFO - MLP Epoch 647/1000, Loss: 1.3671
+2025-05-02 07:05:27,435 - root - INFO - MLP Epoch 648/1000, Loss: 1.3672
+2025-05-02 07:05:34,342 - root - INFO - MLP Epoch 649/1000, Loss: 1.3673
+2025-05-02 07:05:41,375 - root - INFO - MLP Epoch 650/1000, Loss: 1.3672
+2025-05-02 07:05:48,168 - root - INFO - MLP Epoch 651/1000, Loss: 1.3670
+2025-05-02 07:05:54,895 - root - INFO - MLP Epoch 652/1000, Loss: 1.3671
+2025-05-02 07:06:01,809 - root - INFO - MLP Epoch 653/1000, Loss: 1.3672
+2025-05-02 07:06:08,834 - root - INFO - MLP Epoch 654/1000, Loss: 1.3670
+2025-05-02 07:06:15,676 - root - INFO - MLP Epoch 655/1000, Loss: 1.3671
+2025-05-02 07:06:22,574 - root - INFO - MLP Epoch 656/1000, Loss: 1.3671
+2025-05-02 07:06:29,448 - root - INFO - MLP Epoch 657/1000, Loss: 1.3673
+2025-05-02 07:06:36,239 - root - INFO - MLP Epoch 658/1000, Loss: 1.3670
+2025-05-02 07:06:43,040 - root - INFO - MLP Epoch 659/1000, Loss: 1.3670
+2025-05-02 07:06:50,265 - root - INFO - MLP Epoch 660/1000, Loss: 1.3673
+2025-05-02 07:06:57,445 - root - INFO - MLP Epoch 661/1000, Loss: 1.3671
+2025-05-02 07:07:04,479 - root - INFO - MLP Epoch 662/1000, Loss: 1.3670
+2025-05-02 07:07:11,660 - root - INFO - MLP Epoch 663/1000, Loss: 1.3669
+2025-05-02 07:07:18,748 - root - INFO - MLP Epoch 664/1000, Loss: 1.3670
+2025-05-02 07:07:26,020 - root - INFO - MLP Epoch 665/1000, Loss: 1.3671
+2025-05-02 07:07:33,122 - root - INFO - MLP Epoch 666/1000, Loss: 1.3670
+2025-05-02 07:07:40,236 - root - INFO - MLP Epoch 667/1000, Loss: 1.3667
+2025-05-02 07:07:47,554 - root - INFO - MLP Epoch 668/1000, Loss: 1.3670
+2025-05-02 07:07:54,917 - root - INFO - MLP Epoch 669/1000, Loss: 1.3671
+2025-05-02 07:08:02,567 - root - INFO - MLP Epoch 670/1000, Loss: 1.3671
+2025-05-02 07:08:12,266 - root - INFO - MLP Epoch 671/1000, Loss: 1.3670
+2025-05-02 07:08:21,153 - root - INFO - MLP Epoch 672/1000, Loss: 1.3665
+2025-05-02 07:08:28,116 - root - INFO - MLP Epoch 673/1000, Loss: 1.3670
+2025-05-02 07:08:34,990 - root - INFO - MLP Epoch 674/1000, Loss: 1.3672
+2025-05-02 07:08:41,885 - root - INFO - MLP Epoch 675/1000, Loss: 1.3667
+2025-05-02 07:08:48,836 - root - INFO - MLP Epoch 676/1000, Loss: 1.3669
+2025-05-02 07:08:55,849 - root - INFO - MLP Epoch 677/1000, Loss: 1.3670
+2025-05-02 07:09:02,780 - root - INFO - MLP Epoch 678/1000, Loss: 1.3666
+2025-05-02 07:09:09,661 - root - INFO - MLP Epoch 679/1000, Loss: 1.3671
+2025-05-02 07:09:16,623 - root - INFO - MLP Epoch 680/1000, Loss: 1.3665
+2025-05-02 07:09:23,632 - root - INFO - MLP Epoch 681/1000, Loss: 1.3669
+2025-05-02 07:09:30,560 - root - INFO - MLP Epoch 682/1000, Loss: 1.3664
+2025-05-02 07:09:37,486 - root - INFO - MLP Epoch 683/1000, Loss: 1.3668
+2025-05-02 07:09:44,385 - root - INFO - MLP Epoch 684/1000, Loss: 1.3669
+2025-05-02 07:09:51,289 - root - INFO - MLP Epoch 685/1000, Loss: 1.3668
+2025-05-02 07:09:58,213 - root - INFO - MLP Epoch 686/1000, Loss: 1.3668
+2025-05-02 07:10:05,333 - root - INFO - MLP Epoch 687/1000, Loss: 1.3666
+2025-05-02 07:10:12,241 - root - INFO - MLP Epoch 688/1000, Loss: 1.3669
+2025-05-02 07:10:19,142 - root - INFO - MLP Epoch 689/1000, Loss: 1.3668
+2025-05-02 07:10:26,015 - root - INFO - MLP Epoch 690/1000, Loss: 1.3670
+2025-05-02 07:10:32,847 - root - INFO - MLP Epoch 691/1000, Loss: 1.3665
+2025-05-02 07:10:39,772 - root - INFO - MLP Epoch 692/1000, Loss: 1.3668
+2025-05-02 07:10:46,497 - root - INFO - MLP Epoch 693/1000, Loss: 1.3661
+2025-05-02 07:10:53,347 - root - INFO - MLP Epoch 694/1000, Loss: 1.3669
+2025-05-02 07:11:00,218 - root - INFO - MLP Epoch 695/1000, Loss: 1.3669
+2025-05-02 07:11:06,973 - root - INFO - MLP Epoch 696/1000, Loss: 1.3667
+2025-05-02 07:11:13,942 - root - INFO - MLP Epoch 697/1000, Loss: 1.3667
+2025-05-02 07:11:20,869 - root - INFO - MLP Epoch 698/1000, Loss: 1.3667
+2025-05-02 07:11:27,701 - root - INFO - MLP Epoch 699/1000, Loss: 1.3668
+2025-05-02 07:11:34,626 - root - INFO - MLP Epoch 700/1000, Loss: 1.3666
+2025-05-02 07:11:41,655 - root - INFO - MLP Epoch 701/1000, Loss: 1.3668
+2025-05-02 07:11:48,561 - root - INFO - MLP Epoch 702/1000, Loss: 1.3664
+2025-05-02 07:11:55,307 - root - INFO - MLP Epoch 703/1000, Loss: 1.3663
+2025-05-02 07:12:02,191 - root - INFO - MLP Epoch 704/1000, Loss: 1.3669
+2025-05-02 07:12:09,084 - root - INFO - MLP Epoch 705/1000, Loss: 1.3663
+2025-05-02 07:12:16,016 - root - INFO - MLP Epoch 706/1000, Loss: 1.3665
+2025-05-02 07:12:22,893 - root - INFO - MLP Epoch 707/1000, Loss: 1.3667
+2025-05-02 07:12:29,717 - root - INFO - MLP Epoch 708/1000, Loss: 1.3664
+2025-05-02 07:12:36,578 - root - INFO - MLP Epoch 709/1000, Loss: 1.3667
+2025-05-02 07:12:43,384 - root - INFO - MLP Epoch 710/1000, Loss: 1.3667
+2025-05-02 07:12:50,170 - root - INFO - MLP Epoch 711/1000, Loss: 1.3663
+2025-05-02 07:12:56,949 - root - INFO - MLP Epoch 712/1000, Loss: 1.3663
+2025-05-02 07:13:03,896 - root - INFO - MLP Epoch 713/1000, Loss: 1.3663
+2025-05-02 07:13:10,781 - root - INFO - MLP Epoch 714/1000, Loss: 1.3663
+2025-05-02 07:13:17,730 - root - INFO - MLP Epoch 715/1000, Loss: 1.3665
+2025-05-02 07:13:24,637 - root - INFO - MLP Epoch 716/1000, Loss: 1.3666
+2025-05-02 07:13:31,476 - root - INFO - MLP Epoch 717/1000, Loss: 1.3666
+2025-05-02 07:13:38,403 - root - INFO - MLP Epoch 718/1000, Loss: 1.3666
+2025-05-02 07:13:45,266 - root - INFO - MLP Epoch 719/1000, Loss: 1.3665
+2025-05-02 07:13:52,177 - root - INFO - MLP Epoch 720/1000, Loss: 1.3664
+2025-05-02 07:13:59,245 - root - INFO - MLP Epoch 721/1000, Loss: 1.3669
+2025-05-02 07:14:06,118 - root - INFO - MLP Epoch 722/1000, Loss: 1.3664
+2025-05-02 07:14:13,049 - root - INFO - MLP Epoch 723/1000, Loss: 1.3664
+2025-05-02 07:14:19,876 - root - INFO - MLP Epoch 724/1000, Loss: 1.3670
+2025-05-02 07:14:26,754 - root - INFO - MLP Epoch 725/1000, Loss: 1.3660
+2025-05-02 07:14:33,629 - root - INFO - MLP Epoch 726/1000, Loss: 1.3663
+2025-05-02 07:14:40,423 - root - INFO - MLP Epoch 727/1000, Loss: 1.3663
+2025-05-02 07:14:47,411 - root - INFO - MLP Epoch 728/1000, Loss: 1.3665
+2025-05-02 07:14:54,217 - root - INFO - MLP Epoch 729/1000, Loss: 1.3664
+2025-05-02 07:15:01,180 - root - INFO - MLP Epoch 730/1000, Loss: 1.3665
+2025-05-02 07:15:08,135 - root - INFO - MLP Epoch 731/1000, Loss: 1.3663
+2025-05-02 07:15:15,133 - root - INFO - MLP Epoch 732/1000, Loss: 1.3662
+2025-05-02 07:15:22,191 - root - INFO - MLP Epoch 733/1000, Loss: 1.3664
+2025-05-02 07:15:29,259 - root - INFO - MLP Epoch 734/1000, Loss: 1.3663
+2025-05-02 07:15:36,189 - root - INFO - MLP Epoch 735/1000, Loss: 1.3666
+2025-05-02 07:15:43,068 - root - INFO - MLP Epoch 736/1000, Loss: 1.3662
+2025-05-02 07:15:49,855 - root - INFO - MLP Epoch 737/1000, Loss: 1.3660
+2025-05-02 07:15:56,688 - root - INFO - MLP Epoch 738/1000, Loss: 1.3664
+2025-05-02 07:16:03,667 - root - INFO - MLP Epoch 739/1000, Loss: 1.3662
+2025-05-02 07:16:10,614 - root - INFO - MLP Epoch 740/1000, Loss: 1.3661
+2025-05-02 07:16:17,473 - root - INFO - MLP Epoch 741/1000, Loss: 1.3662
+2025-05-02 07:16:24,417 - root - INFO - MLP Epoch 742/1000, Loss: 1.3660
+2025-05-02 07:16:31,202 - root - INFO - MLP Epoch 743/1000, Loss: 1.3663
+2025-05-02 07:16:38,068 - root - INFO - MLP Epoch 744/1000, Loss: 1.3664
+2025-05-02 07:16:45,017 - root - INFO - MLP Epoch 745/1000, Loss: 1.3659
+2025-05-02 07:16:51,858 - root - INFO - MLP Epoch 746/1000, Loss: 1.3662
+2025-05-02 07:16:58,821 - root - INFO - MLP Epoch 747/1000, Loss: 1.3662
+2025-05-02 07:17:05,732 - root - INFO - MLP Epoch 748/1000, Loss: 1.3664
+2025-05-02 07:17:12,661 - root - INFO - MLP Epoch 749/1000, Loss: 1.3661
+2025-05-02 07:17:19,511 - root - INFO - MLP Epoch 750/1000, Loss: 1.3659
+2025-05-02 07:17:26,315 - root - INFO - MLP Epoch 751/1000, Loss: 1.3664
+2025-05-02 07:17:33,344 - root - INFO - MLP Epoch 752/1000, Loss: 1.3658
+2025-05-02 07:17:40,165 - root - INFO - MLP Epoch 753/1000, Loss: 1.3660
+2025-05-02 07:17:46,970 - root - INFO - MLP Epoch 754/1000, Loss: 1.3660
+2025-05-02 07:17:53,784 - root - INFO - MLP Epoch 755/1000, Loss: 1.3662
+2025-05-02 07:18:00,624 - root - INFO - MLP Epoch 756/1000, Loss: 1.3660
+2025-05-02 07:18:07,438 - root - INFO - MLP Epoch 757/1000, Loss: 1.3660
+2025-05-02 07:18:14,412 - root - INFO - MLP Epoch 758/1000, Loss: 1.3662
+2025-05-02 07:18:21,340 - root - INFO - MLP Epoch 759/1000, Loss: 1.3661
+2025-05-02 07:18:28,348 - root - INFO - MLP Epoch 760/1000, Loss: 1.3663
+2025-05-02 07:18:35,242 - root - INFO - MLP Epoch 761/1000, Loss: 1.3664
+2025-05-02 07:18:42,052 - root - INFO - MLP Epoch 762/1000, Loss: 1.3661
+2025-05-02 07:18:48,937 - root - INFO - MLP Epoch 763/1000, Loss: 1.3661
+2025-05-02 07:18:55,753 - root - INFO - MLP Epoch 764/1000, Loss: 1.3663
+2025-05-02 07:19:02,606 - root - INFO - MLP Epoch 765/1000, Loss: 1.3663
+2025-05-02 07:19:09,446 - root - INFO - MLP Epoch 766/1000, Loss: 1.3661
+2025-05-02 07:19:16,873 - root - INFO - MLP Epoch 767/1000, Loss: 1.3660
+2025-05-02 07:19:23,850 - root - INFO - MLP Epoch 768/1000, Loss: 1.3661
+2025-05-02 07:19:30,714 - root - INFO - MLP Epoch 769/1000, Loss: 1.3660
+2025-05-02 07:19:37,526 - root - INFO - MLP Epoch 770/1000, Loss: 1.3660
+2025-05-02 07:19:44,365 - root - INFO - MLP Epoch 771/1000, Loss: 1.3663
+2025-05-02 07:19:51,412 - root - INFO - MLP Epoch 772/1000, Loss: 1.3660
+2025-05-02 07:19:58,412 - root - INFO - MLP Epoch 773/1000, Loss: 1.3659
+2025-05-02 07:20:05,415 - root - INFO - MLP Epoch 774/1000, Loss: 1.3659
+2025-05-02 07:20:12,308 - root - INFO - MLP Epoch 775/1000, Loss: 1.3659
+2025-05-02 07:20:19,193 - root - INFO - MLP Epoch 776/1000, Loss: 1.3660
+2025-05-02 07:20:25,977 - root - INFO - MLP Epoch 777/1000, Loss: 1.3664
+2025-05-02 07:20:32,752 - root - INFO - MLP Epoch 778/1000, Loss: 1.3663
+2025-05-02 07:20:39,687 - root - INFO - MLP Epoch 779/1000, Loss: 1.3661
+2025-05-02 07:20:46,509 - root - INFO - MLP Epoch 780/1000, Loss: 1.3661
+2025-05-02 07:20:53,092 - root - INFO - MLP Epoch 781/1000, Loss: 1.3660
+2025-05-02 07:20:59,911 - root - INFO - MLP Epoch 782/1000, Loss: 1.3656
+2025-05-02 07:21:06,758 - root - INFO - MLP Epoch 783/1000, Loss: 1.3660
+2025-05-02 07:21:13,809 - root - INFO - MLP Epoch 784/1000, Loss: 1.3657
+2025-05-02 07:21:20,682 - root - INFO - MLP Epoch 785/1000, Loss: 1.3656
+2025-05-02 07:21:27,602 - root - INFO - MLP Epoch 786/1000, Loss: 1.3655
+2025-05-02 07:21:34,553 - root - INFO - MLP Epoch 787/1000, Loss: 1.3661
+2025-05-02 07:21:41,310 - root - INFO - MLP Epoch 788/1000, Loss: 1.3660
+2025-05-02 07:21:48,199 - root - INFO - MLP Epoch 789/1000, Loss: 1.3660
+2025-05-02 07:21:54,926 - root - INFO - MLP Epoch 790/1000, Loss: 1.3654
+2025-05-02 07:22:01,743 - root - INFO - MLP Epoch 791/1000, Loss: 1.3661
+2025-05-02 07:22:08,575 - root - INFO - MLP Epoch 792/1000, Loss: 1.3660
+2025-05-02 07:22:15,432 - root - INFO - MLP Epoch 793/1000, Loss: 1.3658
+2025-05-02 07:22:22,383 - root - INFO - MLP Epoch 794/1000, Loss: 1.3659
+2025-05-02 07:22:29,197 - root - INFO - MLP Epoch 795/1000, Loss: 1.3660
+2025-05-02 07:22:36,073 - root - INFO - MLP Epoch 796/1000, Loss: 1.3660
+2025-05-02 07:22:42,894 - root - INFO - MLP Epoch 797/1000, Loss: 1.3661
+2025-05-02 07:22:49,788 - root - INFO - MLP Epoch 798/1000, Loss: 1.3658
+2025-05-02 07:22:56,881 - root - INFO - MLP Epoch 799/1000, Loss: 1.3652
+2025-05-02 07:23:03,682 - root - INFO - MLP Epoch 800/1000, Loss: 1.3662
+2025-05-02 07:23:10,611 - root - INFO - MLP Epoch 801/1000, Loss: 1.3660
+2025-05-02 07:23:17,551 - root - INFO - MLP Epoch 802/1000, Loss: 1.3656
+2025-05-02 07:23:24,405 - root - INFO - MLP Epoch 803/1000, Loss: 1.3658
+2025-05-02 07:23:31,072 - root - INFO - MLP Epoch 804/1000, Loss: 1.3655
+2025-05-02 07:23:37,959 - root - INFO - MLP Epoch 805/1000, Loss: 1.3660
+2025-05-02 07:23:44,805 - root - INFO - MLP Epoch 806/1000, Loss: 1.3656
+2025-05-02 07:23:51,696 - root - INFO - MLP Epoch 807/1000, Loss: 1.3654
+2025-05-02 07:23:58,729 - root - INFO - MLP Epoch 808/1000, Loss: 1.3658
+2025-05-02 07:24:05,599 - root - INFO - MLP Epoch 809/1000, Loss: 1.3658
+2025-05-02 07:24:12,485 - root - INFO - MLP Epoch 810/1000, Loss: 1.3661
+2025-05-02 07:24:19,457 - root - INFO - MLP Epoch 811/1000, Loss: 1.3657
+2025-05-02 07:24:26,247 - root - INFO - MLP Epoch 812/1000, Loss: 1.3656
+2025-05-02 07:24:33,136 - root - INFO - MLP Epoch 813/1000, Loss: 1.3661
+2025-05-02 07:24:40,143 - root - INFO - MLP Epoch 814/1000, Loss: 1.3655
+2025-05-02 07:24:46,975 - root - INFO - MLP Epoch 815/1000, Loss: 1.3654
+2025-05-02 07:24:53,714 - root - INFO - MLP Epoch 816/1000, Loss: 1.3656
+2025-05-02 07:25:00,597 - root - INFO - MLP Epoch 817/1000, Loss: 1.3658
+2025-05-02 07:25:07,427 - root - INFO - MLP Epoch 818/1000, Loss: 1.3659
+2025-05-02 07:25:14,272 - root - INFO - MLP Epoch 819/1000, Loss: 1.3657
+2025-05-02 07:25:21,088 - root - INFO - MLP Epoch 820/1000, Loss: 1.3657
+2025-05-02 07:25:27,899 - root - INFO - MLP Epoch 821/1000, Loss: 1.3654
+2025-05-02 07:25:34,845 - root - INFO - MLP Epoch 822/1000, Loss: 1.3659
+2025-05-02 07:25:41,595 - root - INFO - MLP Epoch 823/1000, Loss: 1.3657
+2025-05-02 07:25:48,406 - root - INFO - MLP Epoch 824/1000, Loss: 1.3654
+2025-05-02 07:25:55,206 - root - INFO - MLP Epoch 825/1000, Loss: 1.3657
+2025-05-02 07:26:02,157 - root - INFO - MLP Epoch 826/1000, Loss: 1.3656
+2025-05-02 07:26:08,982 - root - INFO - MLP Epoch 827/1000, Loss: 1.3654
+2025-05-02 07:26:15,773 - root - INFO - MLP Epoch 828/1000, Loss: 1.3656
+2025-05-02 07:26:22,684 - root - INFO - MLP Epoch 829/1000, Loss: 1.3657
+2025-05-02 07:26:29,525 - root - INFO - MLP Epoch 830/1000, Loss: 1.3658
+2025-05-02 07:26:36,563 - root - INFO - MLP Epoch 831/1000, Loss: 1.3654
+2025-05-02 07:26:43,440 - root - INFO - MLP Epoch 832/1000, Loss: 1.3657
+2025-05-02 07:26:50,357 - root - INFO - MLP Epoch 833/1000, Loss: 1.3655
+2025-05-02 07:26:57,159 - root - INFO - MLP Epoch 834/1000, Loss: 1.3652
+2025-05-02 07:27:04,056 - root - INFO - MLP Epoch 835/1000, Loss: 1.3653
+2025-05-02 07:27:10,998 - root - INFO - MLP Epoch 836/1000, Loss: 1.3654
+2025-05-02 07:27:17,859 - root - INFO - MLP Epoch 837/1000, Loss: 1.3658
+2025-05-02 07:27:24,707 - root - INFO - MLP Epoch 838/1000, Loss: 1.3654
+2025-05-02 07:27:31,571 - root - INFO - MLP Epoch 839/1000, Loss: 1.3653
+2025-05-02 07:27:38,499 - root - INFO - MLP Epoch 840/1000, Loss: 1.3659
+2025-05-02 07:27:45,388 - root - INFO - MLP Epoch 841/1000, Loss: 1.3657
+2025-05-02 07:27:52,375 - root - INFO - MLP Epoch 842/1000, Loss: 1.3651
+2025-05-02 07:27:59,270 - root - INFO - MLP Epoch 843/1000, Loss: 1.3657
+2025-05-02 07:28:06,181 - root - INFO - MLP Epoch 844/1000, Loss: 1.3654
+2025-05-02 07:28:13,008 - root - INFO - MLP Epoch 845/1000, Loss: 1.3655
+2025-05-02 07:28:19,805 - root - INFO - MLP Epoch 846/1000, Loss: 1.3654
+2025-05-02 07:28:26,768 - root - INFO - MLP Epoch 847/1000, Loss: 1.3653
+2025-05-02 07:28:33,767 - root - INFO - MLP Epoch 848/1000, Loss: 1.3652
+2025-05-02 07:28:40,619 - root - INFO - MLP Epoch 849/1000, Loss: 1.3655
+2025-05-02 07:28:47,415 - root - INFO - MLP Epoch 850/1000, Loss: 1.3658
+2025-05-02 07:28:54,471 - root - INFO - MLP Epoch 851/1000, Loss: 1.3649
+2025-05-02 07:29:01,534 - root - INFO - MLP Epoch 852/1000, Loss: 1.3652
+2025-05-02 07:29:08,509 - root - INFO - MLP Epoch 853/1000, Loss: 1.3652
+2025-05-02 07:29:15,359 - root - INFO - MLP Epoch 854/1000, Loss: 1.3652
+2025-05-02 07:29:22,217 - root - INFO - MLP Epoch 855/1000, Loss: 1.3652
+2025-05-02 07:29:29,112 - root - INFO - MLP Epoch 856/1000, Loss: 1.3656
+2025-05-02 07:29:36,005 - root - INFO - MLP Epoch 857/1000, Loss: 1.3651
+2025-05-02 07:29:42,798 - root - INFO - MLP Epoch 858/1000, Loss: 1.3655
+2025-05-02 07:29:49,667 - root - INFO - MLP Epoch 859/1000, Loss: 1.3656
+2025-05-02 07:29:56,530 - root - INFO - MLP Epoch 860/1000, Loss: 1.3653
+2025-05-02 07:30:03,436 - root - INFO - MLP Epoch 861/1000, Loss: 1.3650
+2025-05-02 07:30:10,392 - root - INFO - MLP Epoch 862/1000, Loss: 1.3655
+2025-05-02 07:30:17,144 - root - INFO - MLP Epoch 863/1000, Loss: 1.3654
+2025-05-02 07:30:24,245 - root - INFO - MLP Epoch 864/1000, Loss: 1.3657
+2025-05-02 07:30:31,198 - root - INFO - MLP Epoch 865/1000, Loss: 1.3652
+2025-05-02 07:30:38,041 - root - INFO - MLP Epoch 866/1000, Loss: 1.3653
+2025-05-02 07:30:44,923 - root - INFO - MLP Epoch 867/1000, Loss: 1.3653
+2025-05-02 07:30:51,774 - root - INFO - MLP Epoch 868/1000, Loss: 1.3652
+2025-05-02 07:30:58,555 - root - INFO - MLP Epoch 869/1000, Loss: 1.3649
+2025-05-02 07:31:05,415 - root - INFO - MLP Epoch 870/1000, Loss: 1.3654
+2025-05-02 07:31:12,352 - root - INFO - MLP Epoch 871/1000, Loss: 1.3656
+2025-05-02 07:31:19,155 - root - INFO - MLP Epoch 872/1000, Loss: 1.3655
+2025-05-02 07:31:26,153 - root - INFO - MLP Epoch 873/1000, Loss: 1.3652
+2025-05-02 07:31:32,939 - root - INFO - MLP Epoch 874/1000, Loss: 1.3650
+2025-05-02 07:31:39,823 - root - INFO - MLP Epoch 875/1000, Loss: 1.3655
+2025-05-02 07:31:46,794 - root - INFO - MLP Epoch 876/1000, Loss: 1.3656
+2025-05-02 07:31:53,609 - root - INFO - MLP Epoch 877/1000, Loss: 1.3652
+2025-05-02 07:32:00,654 - root - INFO - MLP Epoch 878/1000, Loss: 1.3653
+2025-05-02 07:32:07,590 - root - INFO - MLP Epoch 879/1000, Loss: 1.3650
+2025-05-02 07:32:14,495 - root - INFO - MLP Epoch 880/1000, Loss: 1.3651
+2025-05-02 07:32:21,452 - root - INFO - MLP Epoch 881/1000, Loss: 1.3653
+2025-05-02 07:32:28,406 - root - INFO - MLP Epoch 882/1000, Loss: 1.3648
+2025-05-02 07:32:35,342 - root - INFO - MLP Epoch 883/1000, Loss: 1.3655
+2025-05-02 07:32:42,168 - root - INFO - MLP Epoch 884/1000, Loss: 1.3648
+2025-05-02 07:32:48,968 - root - INFO - MLP Epoch 885/1000, Loss: 1.3654
+2025-05-02 07:32:55,884 - root - INFO - MLP Epoch 886/1000, Loss: 1.3650
+2025-05-02 07:33:02,732 - root - INFO - MLP Epoch 887/1000, Loss: 1.3648
+2025-05-02 07:33:09,665 - root - INFO - MLP Epoch 888/1000, Loss: 1.3650
+2025-05-02 07:33:16,663 - root - INFO - MLP Epoch 889/1000, Loss: 1.3650
+2025-05-02 07:33:23,566 - root - INFO - MLP Epoch 890/1000, Loss: 1.3650
+2025-05-02 07:33:30,425 - root - INFO - MLP Epoch 891/1000, Loss: 1.3651
+2025-05-02 07:33:37,362 - root - INFO - MLP Epoch 892/1000, Loss: 1.3650
+2025-05-02 07:33:44,281 - root - INFO - MLP Epoch 893/1000, Loss: 1.3649
+2025-05-02 07:33:51,069 - root - INFO - MLP Epoch 894/1000, Loss: 1.3650
+2025-05-02 07:33:57,839 - root - INFO - MLP Epoch 895/1000, Loss: 1.3650
+2025-05-02 07:34:04,704 - root - INFO - MLP Epoch 896/1000, Loss: 1.3651
+2025-05-02 07:34:11,601 - root - INFO - MLP Epoch 897/1000, Loss: 1.3648
+2025-05-02 07:34:18,469 - root - INFO - MLP Epoch 898/1000, Loss: 1.3650
+2025-05-02 07:34:25,305 - root - INFO - MLP Epoch 899/1000, Loss: 1.3653
+2025-05-02 07:34:32,171 - root - INFO - MLP Epoch 900/1000, Loss: 1.3649
+2025-05-02 07:34:38,956 - root - INFO - MLP Epoch 901/1000, Loss: 1.3648
+2025-05-02 07:34:45,755 - root - INFO - MLP Epoch 902/1000, Loss: 1.3652
+2025-05-02 07:34:52,655 - root - INFO - MLP Epoch 903/1000, Loss: 1.3648
+2025-05-02 07:34:59,704 - root - INFO - MLP Epoch 904/1000, Loss: 1.3652
+2025-05-02 07:35:06,412 - root - INFO - MLP Epoch 905/1000, Loss: 1.3649
+2025-05-02 07:35:13,268 - root - INFO - MLP Epoch 906/1000, Loss: 1.3650
+2025-05-02 07:35:20,039 - root - INFO - MLP Epoch 907/1000, Loss: 1.3647
+2025-05-02 07:35:26,759 - root - INFO - MLP Epoch 908/1000, Loss: 1.3649
+2025-05-02 07:35:33,476 - root - INFO - MLP Epoch 909/1000, Loss: 1.3649
+2025-05-02 07:35:40,372 - root - INFO - MLP Epoch 910/1000, Loss: 1.3651
+2025-05-02 07:35:47,163 - root - INFO - MLP Epoch 911/1000, Loss: 1.3653
+2025-05-02 07:35:54,090 - root - INFO - MLP Epoch 912/1000, Loss: 1.3647
+2025-05-02 07:36:00,982 - root - INFO - MLP Epoch 913/1000, Loss: 1.3652
+2025-05-02 07:36:07,829 - root - INFO - MLP Epoch 914/1000, Loss: 1.3649
+2025-05-02 07:36:14,714 - root - INFO - MLP Epoch 915/1000, Loss: 1.3649
+2025-05-02 07:36:21,574 - root - INFO - MLP Epoch 916/1000, Loss: 1.3651
+2025-05-02 07:36:28,372 - root - INFO - MLP Epoch 917/1000, Loss: 1.3650
+2025-05-02 07:36:35,115 - root - INFO - MLP Epoch 918/1000, Loss: 1.3653
+2025-05-02 07:36:42,001 - root - INFO - MLP Epoch 919/1000, Loss: 1.3648
+2025-05-02 07:36:48,726 - root - INFO - MLP Epoch 920/1000, Loss: 1.3650
+2025-05-02 07:36:55,566 - root - INFO - MLP Epoch 921/1000, Loss: 1.3657
+2025-05-02 07:37:02,546 - root - INFO - MLP Epoch 922/1000, Loss: 1.3649
+2025-05-02 07:37:09,408 - root - INFO - MLP Epoch 923/1000, Loss: 1.3647
+2025-05-02 07:37:16,384 - root - INFO - MLP Epoch 924/1000, Loss: 1.3646
+2025-05-02 07:37:23,217 - root - INFO - MLP Epoch 925/1000, Loss: 1.3652
+2025-05-02 07:37:30,011 - root - INFO - MLP Epoch 926/1000, Loss: 1.3649
+2025-05-02 07:37:36,816 - root - INFO - MLP Epoch 927/1000, Loss: 1.3647
+2025-05-02 07:37:43,727 - root - INFO - MLP Epoch 928/1000, Loss: 1.3644
+2025-05-02 07:37:50,436 - root - INFO - MLP Epoch 929/1000, Loss: 1.3654
+2025-05-02 07:37:57,183 - root - INFO - MLP Epoch 930/1000, Loss: 1.3647
+2025-05-02 07:38:04,433 - root - INFO - MLP Epoch 931/1000, Loss: 1.3646
+2025-05-02 07:38:11,414 - root - INFO - MLP Epoch 932/1000, Loss: 1.3649
+2025-05-02 07:38:18,242 - root - INFO - MLP Epoch 933/1000, Loss: 1.3645
+2025-05-02 07:38:25,039 - root - INFO - MLP Epoch 934/1000, Loss: 1.3649
+2025-05-02 07:38:31,931 - root - INFO - MLP Epoch 935/1000, Loss: 1.3650
+2025-05-02 07:38:38,809 - root - INFO - MLP Epoch 936/1000, Loss: 1.3649
+2025-05-02 07:38:45,611 - root - INFO - MLP Epoch 937/1000, Loss: 1.3647
+2025-05-02 07:38:52,397 - root - INFO - MLP Epoch 938/1000, Loss: 1.3647
+2025-05-02 07:38:59,378 - root - INFO - MLP Epoch 939/1000, Loss: 1.3644
+2025-05-02 07:39:06,224 - root - INFO - MLP Epoch 940/1000, Loss: 1.3646
+2025-05-02 07:39:12,962 - root - INFO - MLP Epoch 941/1000, Loss: 1.3648
+2025-05-02 07:39:19,712 - root - INFO - MLP Epoch 942/1000, Loss: 1.3644
+2025-05-02 07:39:26,592 - root - INFO - MLP Epoch 943/1000, Loss: 1.3650
+2025-05-02 07:39:33,446 - root - INFO - MLP Epoch 944/1000, Loss: 1.3650
+2025-05-02 07:39:40,286 - root - INFO - MLP Epoch 945/1000, Loss: 1.3647
+2025-05-02 07:39:47,144 - root - INFO - MLP Epoch 946/1000, Loss: 1.3643
+2025-05-02 07:39:53,865 - root - INFO - MLP Epoch 947/1000, Loss: 1.3648
+2025-05-02 07:40:00,737 - root - INFO - MLP Epoch 948/1000, Loss: 1.3645
+2025-05-02 07:40:07,644 - root - INFO - MLP Epoch 949/1000, Loss: 1.3647
+2025-05-02 07:40:14,668 - root - INFO - MLP Epoch 950/1000, Loss: 1.3652
+2025-05-02 07:40:21,572 - root - INFO - MLP Epoch 951/1000, Loss: 1.3642
+2025-05-02 07:40:28,524 - root - INFO - MLP Epoch 952/1000, Loss: 1.3647
+2025-05-02 07:40:35,335 - root - INFO - MLP Epoch 953/1000, Loss: 1.3648
+2025-05-02 07:40:42,210 - root - INFO - MLP Epoch 954/1000, Loss: 1.3645
+2025-05-02 07:40:49,058 - root - INFO - MLP Epoch 955/1000, Loss: 1.3643
+2025-05-02 07:40:55,911 - root - INFO - MLP Epoch 956/1000, Loss: 1.3648
+2025-05-02 07:41:02,843 - root - INFO - MLP Epoch 957/1000, Loss: 1.3645
+2025-05-02 07:41:09,650 - root - INFO - MLP Epoch 958/1000, Loss: 1.3648
+2025-05-02 07:41:16,530 - root - INFO - MLP Epoch 959/1000, Loss: 1.3647
+2025-05-02 07:41:23,505 - root - INFO - MLP Epoch 960/1000, Loss: 1.3647
+2025-05-02 07:41:30,362 - root - INFO - MLP Epoch 961/1000, Loss: 1.3646
+2025-05-02 07:41:37,099 - root - INFO - MLP Epoch 962/1000, Loss: 1.3649
+2025-05-02 07:41:43,879 - root - INFO - MLP Epoch 963/1000, Loss: 1.3643
+2025-05-02 07:41:50,709 - root - INFO - MLP Epoch 964/1000, Loss: 1.3642
+2025-05-02 07:41:57,679 - root - INFO - MLP Epoch 965/1000, Loss: 1.3646
+2025-05-02 07:42:04,640 - root - INFO - MLP Epoch 966/1000, Loss: 1.3646
+2025-05-02 07:42:11,579 - root - INFO - MLP Epoch 967/1000, Loss: 1.3647
+2025-05-02 07:42:18,401 - root - INFO - MLP Epoch 968/1000, Loss: 1.3642
+2025-05-02 07:42:25,116 - root - INFO - MLP Epoch 969/1000, Loss: 1.3644
+2025-05-02 07:42:31,815 - root - INFO - MLP Epoch 970/1000, Loss: 1.3645
+2025-05-02 07:42:38,784 - root - INFO - MLP Epoch 971/1000, Loss: 1.3644
+2025-05-02 07:42:45,587 - root - INFO - MLP Epoch 972/1000, Loss: 1.3642
+2025-05-02 07:42:52,300 - root - INFO - MLP Epoch 973/1000, Loss: 1.3646
+2025-05-02 07:42:59,274 - root - INFO - MLP Epoch 974/1000, Loss: 1.3646
+2025-05-02 07:43:06,153 - root - INFO - MLP Epoch 975/1000, Loss: 1.3648
+2025-05-02 07:43:13,087 - root - INFO - MLP Epoch 976/1000, Loss: 1.3644
+2025-05-02 07:43:20,001 - root - INFO - MLP Epoch 977/1000, Loss: 1.3645
+2025-05-02 07:43:26,805 - root - INFO - MLP Epoch 978/1000, Loss: 1.3645
+2025-05-02 07:43:33,702 - root - INFO - MLP Epoch 979/1000, Loss: 1.3647
+2025-05-02 07:43:40,473 - root - INFO - MLP Epoch 980/1000, Loss: 1.3643
+2025-05-02 07:43:47,286 - root - INFO - MLP Epoch 981/1000, Loss: 1.3646
+2025-05-02 07:43:54,251 - root - INFO - MLP Epoch 982/1000, Loss: 1.3643
+2025-05-02 07:44:01,085 - root - INFO - MLP Epoch 983/1000, Loss: 1.3643
+2025-05-02 07:44:08,091 - root - INFO - MLP Epoch 984/1000, Loss: 1.3644
+2025-05-02 07:44:14,999 - root - INFO - MLP Epoch 985/1000, Loss: 1.3641
+2025-05-02 07:44:21,984 - root - INFO - MLP Epoch 986/1000, Loss: 1.3641
+2025-05-02 07:44:29,202 - root - INFO - MLP Epoch 987/1000, Loss: 1.3648
+2025-05-02 07:44:36,190 - root - INFO - MLP Epoch 988/1000, Loss: 1.3643
+2025-05-02 07:44:43,092 - root - INFO - MLP Epoch 989/1000, Loss: 1.3644
+2025-05-02 07:44:49,895 - root - INFO - MLP Epoch 990/1000, Loss: 1.3641
+2025-05-02 07:44:56,756 - root - INFO - MLP Epoch 991/1000, Loss: 1.3644
+2025-05-02 07:45:03,645 - root - INFO - MLP Epoch 992/1000, Loss: 1.3641
+2025-05-02 07:45:10,568 - root - INFO - MLP Epoch 993/1000, Loss: 1.3643
+2025-05-02 07:45:17,389 - root - INFO - MLP Epoch 994/1000, Loss: 1.3643
+2025-05-02 07:45:24,347 - root - INFO - MLP Epoch 995/1000, Loss: 1.3648
+2025-05-02 07:45:31,522 - root - INFO - MLP Epoch 996/1000, Loss: 1.3645
+2025-05-02 07:45:38,254 - root - INFO - MLP Epoch 997/1000, Loss: 1.3644
+2025-05-02 07:45:45,065 - root - INFO - MLP Epoch 998/1000, Loss: 1.3645
+2025-05-02 07:45:51,878 - root - INFO - MLP Epoch 999/1000, Loss: 1.3646
+2025-05-02 07:45:58,758 - root - INFO - MLP Epoch 1000/1000, Loss: 1.3639
+2025-05-02 07:45:58,759 - root - INFO - MLPLinkPredictor training complete.
+2025-05-02 07:49:13,108 - root - INFO - In test, agg_mrr = 0.003305814359390875
+2025-05-02 07:49:13,110 - root - INFO - In test, agg_recall_20 = 0.004315144766146993
+2025-05-02 07:49:13,111 - root - INFO - In test, agg_recall_50 = 0.01475501113585746
+2025-05-02 07:49:13,112 - root - INFO - In test, insertion_mrr = 0.0029114857383254087
+2025-05-02 07:49:13,113 - root - INFO - In test, insertion_recall_20 = 0.0016849103012800118
+2025-05-02 07:49:13,113 - root - INFO - In test, insertion_recall_50 = 0.010330222858062501
+2025-05-02 07:49:13,114 - root - INFO - In test, deletion_mrr = 0.004892714408060899
+2025-05-02 07:49:13,115 - root - INFO - In test, deletion_recall_20 = 0.016421975403208645
+2025-05-02 07:49:13,115 - root - INFO - In test, deletion_recall_50 = 0.035997276479850196
+2025-05-02 07:49:48,264 - root - INFO - In new node test, agg_mrr = 0.004022609101525709
+2025-05-02 07:49:48,265 - root - INFO - In new node test, agg_recall_20 = 0.00677710843373494
+2025-05-02 07:49:48,266 - root - INFO - In new node test, agg_recall_50 = 0.02208835341365462
+2025-05-02 07:49:48,267 - root - INFO - In new node test, insertion_mrr = 0.003143549990419515
+2025-05-02 07:49:48,267 - root - INFO - In new node test, insertion_recall_20 = 0.002013359624246721
+2025-05-02 07:49:48,268 - root - INFO - In new node test, insertion_recall_50 = 0.013380436767533541
+2025-05-02 07:49:48,269 - root - INFO - In new node test, deletion_mrr = 0.007336030770411233
+2025-05-02 07:49:48,269 - root - INFO - In new node test, deletion_recall_20 = 0.0296187106918239
+2025-05-02 07:49:48,270 - root - INFO - In new node test, deletion_recall_50 = 0.0643137915543576
+2025-05-02 07:49:48,964 - matplotlib.pyplot - DEBUG - Loaded backend agg version v2.2.
+2025-05-02 07:49:48,977 - matplotlib.font_manager - DEBUG - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+2025-05-02 07:49:48,979 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+2025-05-02 07:49:48,980 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf', name='cmsy10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:48,980 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf', name='STIXGeneral', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-02 07:49:48,981 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf', name='cmb10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:48,982 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:48,982 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-02 07:49:48,983 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:48,983 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+2025-05-02 07:49:48,984 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+2025-05-02 07:49:48,984 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:48,985 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf', name='cmmi10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:48,986 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-02 07:49:48,986 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-02 07:49:48,987 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:48,987 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf', name='STIXGeneral', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:48,988 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-02 07:49:48,988 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:48,989 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:48,989 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+2025-05-02 07:49:48,990 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf', name='cmr10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:48,990 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf', name='cmex10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:48,991 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:48,991 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-02 07:49:48,992 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-02 07:49:48,992 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:48,993 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf', name='STIXSizeFiveSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:48,993 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:48,994 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:48,994 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf', name='DejaVu Sans Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:48,995 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:48,995 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerifDisplay.ttf', name='DejaVu Serif Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:48,996 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf', name='cmtt10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:48,997 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf', name='STIXGeneral', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:48,998 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf', name='STIXGeneral', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-02 07:49:48,998 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf', name='cmss10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:48,999 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:49,000 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,000 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:49,001 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-C.ttf', name='Ubuntu Condensed', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2025-05-02 07:49:49,002 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-Th.ttf', name='Ubuntu', style='normal', variant='normal', weight=250, stretch='normal', size='scalable')) = 10.1925
+2025-05-02 07:49:49,002 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:49,003 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/UbuntuMono-B.ttf', name='Ubuntu Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:49,004 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-L.ttf', name='Ubuntu', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2025-05-02 07:49:49,005 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,006 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-M.ttf', name='Ubuntu', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2025-05-02 07:49:49,006 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-MI.ttf', name='Ubuntu', style='italic', variant='normal', weight=500, stretch='normal', size='scalable')) = 11.145
+2025-05-02 07:49:49,007 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-RI.ttf', name='Ubuntu', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-02 07:49:49,008 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf', name='Ubuntu', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,008 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/UbuntuMono-RI.ttf', name='Ubuntu Mono', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-02 07:49:49,009 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,010 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-BI.ttf', name='Ubuntu', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-02 07:49:49,010 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/UbuntuMono-BI.ttf', name='Ubuntu Mono', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-02 07:49:49,011 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:49,011 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+2025-05-02 07:49:49,012 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/UbuntuMono-R.ttf', name='Ubuntu Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,013 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-LI.ttf', name='Ubuntu', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2025-05-02 07:49:49,013 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+2025-05-02 07:49:49,014 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-B.ttf', name='Ubuntu', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:49,014 - matplotlib.font_manager - DEBUG - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2025-05-02 07:49:49,129 - matplotlib.font_manager - DEBUG - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0.
+2025-05-02 07:49:49,130 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+2025-05-02 07:49:49,131 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf', name='cmsy10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,131 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf', name='STIXGeneral', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-02 07:49:49,132 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf', name='cmb10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,132 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,133 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-02 07:49:49,133 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:49,134 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+2025-05-02 07:49:49,134 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+2025-05-02 07:49:49,135 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:49,135 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf', name='cmmi10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,136 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-02 07:49:49,136 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-02 07:49:49,137 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:49,137 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf', name='STIXGeneral', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,138 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-02 07:49:49,138 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:49,139 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,139 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+2025-05-02 07:49:49,140 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf', name='cmr10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,140 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf', name='cmex10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,141 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,141 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-02 07:49:49,142 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-02 07:49:49,142 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,143 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf', name='STIXSizeFiveSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,143 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,144 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:49,144 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf', name='DejaVu Sans Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,145 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,145 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerifDisplay.ttf', name='DejaVu Serif Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,148 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf', name='cmtt10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,149 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf', name='STIXGeneral', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:49,149 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf', name='STIXGeneral', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-02 07:49:49,150 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf', name='cmss10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,151 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:49,151 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,152 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:49,152 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-C.ttf', name='Ubuntu Condensed', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2025-05-02 07:49:49,153 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-Th.ttf', name='Ubuntu', style='normal', variant='normal', weight=250, stretch='normal', size='scalable')) = 10.1925
+2025-05-02 07:49:49,153 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:49,154 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/UbuntuMono-B.ttf', name='Ubuntu Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:49,154 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-L.ttf', name='Ubuntu', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2025-05-02 07:49:49,155 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,155 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-M.ttf', name='Ubuntu', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2025-05-02 07:49:49,156 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-MI.ttf', name='Ubuntu', style='italic', variant='normal', weight=500, stretch='normal', size='scalable')) = 11.145
+2025-05-02 07:49:49,156 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-RI.ttf', name='Ubuntu', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-02 07:49:49,157 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf', name='Ubuntu', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,157 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/UbuntuMono-RI.ttf', name='Ubuntu Mono', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-02 07:49:49,158 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,158 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-BI.ttf', name='Ubuntu', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-02 07:49:49,159 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/UbuntuMono-BI.ttf', name='Ubuntu Mono', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-02 07:49:49,159 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:49,160 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+2025-05-02 07:49:49,160 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/UbuntuMono-R.ttf', name='Ubuntu Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-02 07:49:49,161 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-LI.ttf', name='Ubuntu', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2025-05-02 07:49:49,162 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+2025-05-02 07:49:49,162 - matplotlib.font_manager - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/ubuntu/Ubuntu-B.ttf', name='Ubuntu', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-02 07:49:49,163 - matplotlib.font_manager - DEBUG - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.

@@ -190,18 +190,6 @@ class NeighborFinder:
             raise ValueError("src_list and dst_list must have the same length.")
         
         negative_samples = []
-        if src_list is None:
-            print("src_list is None")
-            print(src_list, dst_list, timestamps, flags)
-        if dst_list is None:
-            print("dst_list is None")
-            print(src_list, dst_list, timestamps, flags)
-        if timestamps is None:
-            print("timestamp is None")
-            print(src_list, dst_list, timestamps, flags)
-        if flags is None:
-            print("flags is None")
-            print(src_list, dst_list, timestamps, flags)
 
         for src, dst, timestamp, flag in zip(src_list, dst_list, timestamps, flags):
             if flag == 1:  # Only sample negatives for insertions
@@ -219,9 +207,11 @@ class NeighborFinder:
                 # For deletions, we can sample a random edge that exists at the timestamp
                 active_edges = self.get_active_edges(timestamp)
                 if len(active_edges) > 0:
-                    neg_edge = self.random_state.choice(list(active_edges))
+                    active_edges_list = list(active_edges)
+                    idx = self.random_state.randint(0, len(active_edges_list))
+                    neg_edge = active_edges_list[idx]
                     neg_dst = neg_edge[0] if neg_edge[0] != src else neg_edge[1]
                 else:
-                    neg_idx = self.random_state.choice(len(neighbors))
-                    neg_dst = neighbors[neg_idx]
+                    neg_dst = self.random_state.randint(1, self.num_nodes)
+                negative_samples.append(neg_dst)
         return negative_samples
