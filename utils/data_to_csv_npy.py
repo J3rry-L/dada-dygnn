@@ -91,9 +91,9 @@ def generate_node_features(df, save_path):
     np.save(save_path, node_feats)
 
 # Generate edge and node features for real dataset
-generate_edge_features(df_real, "../data/ml_ml_UCI-Msg.npy")
-generate_node_features(df_real, "../data/ml_ml_UCI-Msg_node.npy")
+generate_edge_features(df_real, "../data/ml_UCI-Msg.npy")
+generate_node_features(df_real, "../data/ml_UCI-Msg_node.npy")
 
 # Generate edge and node features for combined dataset
-generate_edge_features(df_combined, "../data/ml_ml_UCI-Msg-del.npy")
-generate_node_features(df_combined, "../data/ml_ml_UCI-Msg-del_node.npy")
+generate_edge_features(df_combined, "../data/ml_UCI-Msg-del.npy")
+generate_node_features(df_combined, "../data/ml_UCI-Msg-del_node.npy")

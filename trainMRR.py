@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
 os.environ["CUDA_VISIBLE_DEVICES"] = '0'
 ModelName = 'DadaDyGNN'
 parser = argparse.ArgumentParser('DadaDyGNN')
-parser.add_argument('-d', '--data', type=str, default='UCI-Msg-del')
+parser.add_argument('-d', '--data', type=str, default='pref-att')
 parser.add_argument('--bs', type=int, default=16, help='Batch_size')
 parser.add_argument('--n_degree', type=int, default=200, help='Number of neighbors to sample')
 parser.add_argument('--n_update_degree', type=int, default=200, help='Number of neighbors to sample')
