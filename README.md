@@ -1,48 +1,24 @@
-# Ada-DyGNN: Robust Knowledge Adaptation for Dynamic Graph Neural Networks (TKDE 2024)
-
-
+# Dada-DyGNN: Deletion-Augmented Streaming GNNs
 
 ## Introduction
 
-This repository contains the code for paper: [Robust Knowledge Adaptation for Dynamic Graph Neural Networks](https://arxiv.org/abs/2207.10839). This paper is accepted by TKDE 2024. 
+This repository contains the code for Dada-DyGNN, a deletion-augmented dynamic graph neural network. The codebase is built on-top of existing open-source code by Li et al., in Ada-DyGNN (TKDE 2024).
 
 ![](./AdaDyGNN.png)
 
-
 ## Datasets
 
-Please refer to [TGN](https://github.com/KimMeen/TGN) and [DyGNN](https://github.com/alge24/DyGNN) for downloading the datasets.
+Please refer to [DyGNN](https://github.com/alge24/DyGNN) for downloading the UCI dataset, and our implementation for generating the preferential attachment dataset.
 
+```
+python pref-att.py
+```
 
 ## Training
 
-Train the model for the AUC evaluation
 
-```
-python trainAUC.py
-```
-
-Train the model for the MRR evaluation
+Train the model for the MRR evaluation with:
 
 ```
 python trainMRR.py
 ```
-
-
-
-## Citation
-
-If you find our repo or paper useful, please cite us as
-
-> ```
-> @article{li2022robust,
->   title={Robust knowledge adaptation for dynamic graph neural networks},
->   author={Li, Hanjie and Li, Changsheng and Feng, Kaituo and Yuan, Ye and Wang, Guoren and Zha, Hongyuan},
->   journal={arXiv preprint arXiv:2207.10839},
->   year={2022}
-> }
-> ```
-
-## License
-
-All code within this repository is under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
